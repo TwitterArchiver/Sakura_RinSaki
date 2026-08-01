@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T07:18:34",
+  "last_updated": "2026-08-01T07:19:44",
   "html": {
     "https://web.archive.org/web/20250321111642if_/https://twitter.com/Sakura_RinSaki/status/1903043084499169484": {
       "status": "done",
@@ -30614,13 +30614,13 @@
       "last_updated": "2026-08-01T06:38:58"
     },
     "https://video.twimg.com/tweet_video/GxI_dovaIAArW0g.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250730225401_twitter_com_Sakura_RinSaki_status_1950691380533272912.json"
       ],
-      "last_updated": "2026-08-01T06:39:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250730225401im_/https://video.twimg.com/tweet_video/GxI_dovaIAArW0g.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dd2d7b00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:18:53",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250730225401/https://video.twimg.com/tweet_video/GxI_dovaIAArW0g.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/720x1280/d8yMVLKx44q2IFLN.mp4": {
       "status": "done",
@@ -30644,13 +30644,13 @@
       "last_updated": "2026-08-01T06:38:58"
     },
     "https://video.twimg.com/ext_tw_video/1996198911997104128/pu/vid/avc1/720x1280/bb6p0_9vdTOvryPs.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251203184416_twitter_com_Sakura_RinSaki_status_1996289399747956848.json"
       ],
-      "last_updated": "2026-08-01T06:39:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251203184416im_/https://video.twimg.com/ext_tw_video/1996198911997104128/pu/vid/avc1/720x1280/bb6p0_9vdTOvryPs.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0d100>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:18:58",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251203184416/https://video.twimg.com/ext_tw_video/1996198911997104128/pu/vid/avc1/720x1280/bb6p0_9vdTOvryPs.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G98BbfQbcAMhVcb.mp4": {
       "status": "done",
@@ -30660,22 +30660,22 @@
       "last_updated": "2026-08-01T05:55:00"
     },
     "https://video.twimg.com/ext_tw_video/2008702089804013568/pu/vid/avc1/564x1278/QbidXqGuZtdxblcx.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260107004757_twitter_com_Sakura_RinSaki_status_2008702111190823112.json"
       ],
-      "last_updated": "2026-08-01T06:39:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260107004757im_/https://video.twimg.com/ext_tw_video/2008702089804013568/pu/vid/avc1/564x1278/QbidXqGuZtdxblcx.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0e9c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:01",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260107004757/https://video.twimg.com/ext_tw_video/2008702089804013568/pu/vid/avc1/564x1278/QbidXqGuZtdxblcx.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2010265197613826048/vid/avc1/1280x720/Ll0nk0t4KW7Tz_u_.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260111095723_twitter_com_Sakura_RinSaki_status_2010289930950566077.json"
       ],
-      "last_updated": "2026-08-01T06:39:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260111095723im_/https://video.twimg.com/amplify_video/2010265197613826048/vid/avc1/1280x720/Ll0nk0t4KW7Tz_u_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0f830>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:04",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260111095723/https://video.twimg.com/amplify_video/2010265197613826048/vid/avc1/1280x720/Ll0nk0t4KW7Tz_u_.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2011081322429890571/pu/vid/avc1/720x960/wyFtaM1bOQc0ckFn.mp4?tag=12": {
       "status": "failed",
@@ -30683,9 +30683,9 @@
         "20260113142210_twitter_com_Sakura_RinSaki_status_2011081341358714991.json",
         "20260113142534_twitter_com_Sakura_RinSaki_status_2011082196833141154.json"
       ],
-      "last_updated": "2026-08-01T06:39:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260113142210im_/https://video.twimg.com/ext_tw_video/2011081322429890571/pu/vid/avc1/720x960/wyFtaM1bOQc0ckFn.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0e0c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-01T07:19:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260113142210/https://video.twimg.com/ext_tw_video/2011081322429890571/pu/vid/avc1/720x960/wyFtaM1bOQc0ckFn.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52ae4e3ad0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/G-pRkotbQAA9B1k.mp4": {
       "status": "done",
@@ -30699,9 +30699,9 @@
       "referenced_by": [
         "20260116061021_twitter_com_Sakura_RinSaki_status_2012044736333562293.json"
       ],
-      "last_updated": "2026-08-01T06:39:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116061021im_/https://video.twimg.com/tweet_video/G-s_tKTbQAQXLUv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0d310>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116061021im_/https://video.twimg.com/tweet_video/G-s_tKTbQAQXLUv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52aef4bda0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G-tJlybbQAEYzG3.mp4": {
       "status": "done",
@@ -30715,9 +30715,9 @@
       "referenced_by": [
         "20260118190656_twitter_com_Sakura_RinSaki_status_2012964942778192276.json"
       ],
-      "last_updated": "2026-08-01T06:39:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260118190656im_/https://video.twimg.com/ext_tw_video/2012939320185745408/pu/vid/avc1/912x496/p4HfWyP2srII4lle.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde40830>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260118190656im_/https://video.twimg.com/ext_tw_video/2012939320185745408/pu/vid/avc1/912x496/p4HfWyP2srII4lle.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52aef4a240>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G-9_f4xWUAAV6va.mp4": {
       "status": "done",
@@ -30731,9 +30731,9 @@
       "referenced_by": [
         "20260120110849_twitter_com_Sakura_RinSaki_status_2013569396363665856.json"
       ],
-      "last_updated": "2026-08-01T06:39:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260120110849im_/https://video.twimg.com/tweet_video/G_Gir57WEAAGB8H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde41b20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260120110849im_/https://video.twimg.com/tweet_video/G_Gir57WEAAGB8H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52af0447a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G_Gn5nRW0AAeSa0.mp4": {
       "status": "done",
@@ -30782,18 +30782,18 @@
       "referenced_by": [
         "20260129051045_twitter_com_Sakura_RinSaki_status_2016740779151282452.json"
       ],
-      "last_updated": "2026-08-01T06:39:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260129051045im_/https://video.twimg.com/ext_tw_video/2016422296332939264/pu/vid/avc1/640x480/qcE8loYf0bfzqdEH.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0de50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260129051045im_/https://video.twimg.com/ext_tw_video/2016422296332939264/pu/vid/avc1/640x480/qcE8loYf0bfzqdEH.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52af047230>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HBCVMyLakAAQOV_.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260213120249_twitter_com_Sakura_RinSaki_status_2022280298592153986.json"
       ],
-      "last_updated": "2026-08-01T06:39:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260213120249im_/https://video.twimg.com/tweet_video/HBCVMyLakAAQOV_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0dfa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260213120249im_/https://video.twimg.com/tweet_video/HBCVMyLakAAQOV_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52af047020>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HBDU4k4akAUgjhN.mp4": {
       "status": "done",
@@ -30870,9 +30870,9 @@
       "referenced_by": [
         "20260301034010_twitter_com_Sakura_RinSaki_status_2027952007785722106.json"
       ],
-      "last_updated": "2026-08-01T06:40:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301034010im_/https://video.twimg.com/ext_tw_video/2027927703547252736/pu/vid/avc1/1280x720/RMhXLHZ1hwVA6fPL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde40fb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301034010im_/https://video.twimg.com/ext_tw_video/2027927703547252736/pu/vid/avc1/1280x720/RMhXLHZ1hwVA6fPL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52aef49430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2028052541662212098/pu/vid/avc1/1280x692/Y5H62dbXtylHs0fD.mp4?tag=12": {
       "status": "done",
@@ -30921,9 +30921,9 @@
       "referenced_by": [
         "20260309003527_twitter_com_Sakura_RinSaki_status_2030804623406342351.json"
       ],
-      "last_updated": "2026-08-01T06:40:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309003527im_/https://video.twimg.com/tweet_video/HC7aPLwbIAA8n16.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde42bd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309003527im_/https://video.twimg.com/tweet_video/HC7aPLwbIAA8n16.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52aef4ad80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HDT2F13aMAET3Mk.mp4": {
       "status": "done",
@@ -31105,9 +31105,9 @@
       "referenced_by": [
         "20260604082920_twitter_com_Sakura_RinSaki_status_2062451623566483842.json"
       ],
-      "last_updated": "2026-08-01T06:40:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604082920im_/https://video.twimg.com/ext_tw_video/2062130518146375680/pu/vid/avc1/720x1210/hx8LYPKNuSdnixUv.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68dde0ddf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:19:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604082920im_/https://video.twimg.com/ext_tw_video/2062130518146375680/pu/vid/avc1/720x1210/hx8LYPKNuSdnixUv.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f52aef608c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2065282904675258368/pu/vid/avc1/720x1280/jjUm6k8Naqys1qju.mp4": {
       "status": "done",
@@ -52319,7 +52319,7 @@
       "miss_count": 2
     },
     "20250730225401_twitter_com_Sakura_RinSaki_status_1950691380533272912.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -52329,7 +52329,7 @@
           "https://pbs.twimg.com/profile_images/1937534658205691904/zhGwDYdW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T06:39:00",
+      "last_updated": "2026-08-01T07:18:53",
       "miss_count": 2
     },
     "20250803024310_twitter_com_Sakura_RinSaki_status_1951836210554613762.json": {
@@ -56343,7 +56343,7 @@
       "last_updated": "2026-08-01T05:55:57"
     },
     "20260107004757_twitter_com_Sakura_RinSaki_status_2008702111190823112.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -56353,7 +56353,7 @@
           "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T06:39:00",
+      "last_updated": "2026-08-01T07:19:01",
       "miss_count": 2
     },
     "20260107004809_twitter_com_Sakura_RinSaki_status_2008702158712303998.json": {
@@ -56884,7 +56884,7 @@
       "last_updated": "2026-08-01T05:55:50"
     },
     "20260111095723_twitter_com_Sakura_RinSaki_status_2010289930950566077.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -56895,7 +56895,7 @@
           "https://pbs.twimg.com/profile_images/1998053820425965568/KrZ9Kpkg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T06:39:00",
+      "last_updated": "2026-08-01T07:19:04",
       "miss_count": 2
     },
     "20260111095748_twitter_com_Sakura_RinSaki_status_2010290034424127909.json": {
