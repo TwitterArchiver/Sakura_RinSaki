@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1978051384709972235",
+    "created_at": "2025-10-15T08:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978380836928999837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "ciluo9791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978380836928999837",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978293643657060566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciluo9791 咱的小圈圈裡面跨男好少…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1978051384709972235",
+        "created_at": "2025-10-15T08:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978380836928999837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "ciluo9791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978380836928999837",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978293643657060566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciluo9791 咱的小圈圈裡面跨男好少…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "1978051384709972235",
+        "created_at": "2025-10-15T02:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978293643657060566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978293643657060566",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978051384709972235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 那就和跨男做朋友喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 53,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 341
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "FtM但发疯版/gel20250613-0804/💉0804-？/跨性别南梁/INTJ/重抑焦虑/多次紫砂未遂/欢迎互。愿望是想找个香香软软的mtf",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "辞落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976627273332817920/z-nH4PYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 106,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 156
+        },
+        "username": "ciluo9791",
+        "verified": true
+      }
+    ]
+  }
+}

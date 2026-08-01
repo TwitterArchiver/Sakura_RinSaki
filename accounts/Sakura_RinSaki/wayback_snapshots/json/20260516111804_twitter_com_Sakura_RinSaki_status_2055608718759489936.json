@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2055583677749551601",
+    "created_at": "2026-05-16T11:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055608718759489936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "802450977135525888",
+          "start": 0,
+          "username": "2Jshizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055608718759489936",
+    "in_reply_to_user_id": "802450977135525888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055583677749551601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Jshizuku 捏捏麻麻的小玩具！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14718,
+        "height": 1280,
+        "media_key": "7_2055583643377311744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055583643377311744/pu/img/NSZuQO99PEbVcr-W.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055583643377311744/pu/vid/avc1/320x568/fsSL4xdAZQDO5spy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055583643377311744/pu/vid/avc1/480x852/QF3di9rNk-JxkE5M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055583643377311744/pu/vid/avc1/720x1280/Xnm7fI6UwXEfmtmV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055583643377311744/pu/pl/nTQ_a11aUvLMftc1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2055583677749551601",
+        "created_at": "2026-05-16T11:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055608718759489936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "802450977135525888",
+              "start": 0,
+              "username": "2Jshizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055608718759489936",
+        "in_reply_to_user_id": "802450977135525888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055583677749551601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Jshizuku 捏捏麻麻的小玩具！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055583643377311744"
+          ]
+        },
+        "author_id": "802450977135525888",
+        "conversation_id": "2055583677749551601",
+        "created_at": "2026-05-16T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055583677749551601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imZloz6hy1",
+              "end": 29,
+              "expanded_url": "https://x.com/2Jshizuku/status/2055583677749551601/video/1",
+              "media_key": "7_2055583643377311744",
+              "start": 6,
+              "url": "https://t.co/imZloz6hy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055583677749551601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 128,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解壓小玩具 https://t.co/imZloz6hy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 102,
+          "like_count": 4370,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 3852
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "location": "台灣",
+        "name": "2J綾崎雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 1136,
+          "like_count": 26291,
+          "listed_count": 3,
+          "media_count": 1266,
+          "tweet_count": 10834
+        },
+        "username": "2Jshizuku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048774966687240566",
+    "created_at": "2026-04-27T22:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048894474349412857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356589697359728640",
+          "start": 0,
+          "username": "allenkusakusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048894474349412857",
+    "in_reply_to_user_id": "1356589697359728640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048774966687240566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allenkusakusa 喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2048774956843196416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG619-da4AABdnU.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048774966687240566",
+        "created_at": "2026-04-27T22:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048894474349412857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356589697359728640",
+              "start": 0,
+              "username": "allenkusakusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048894474349412857",
+        "in_reply_to_user_id": "1356589697359728640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048774966687240566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allenkusakusa 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048774956843196416"
+          ]
+        },
+        "author_id": "1356589697359728640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048774966687240566",
+        "created_at": "2026-04-27T14:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048774966687240566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsQyiIRtfp",
+              "end": 32,
+              "expanded_url": "https://x.com/allenkusakusa/status/2048774966687240566/photo/1",
+              "media_key": "3_2048774956843196416",
+              "start": 9,
+              "url": "https://t.co/WsQyiIRtfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048774966687240566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像是這樣沒錯😂 https://t.co/WsQyiIRtfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 91,
+          "like_count": 3479,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3204
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T13:06:11.000Z",
+        "description": "廢文小天地 :(\n\nvrc:草草草草ww",
+        "id": "1356589697359728640",
+        "location": "Taiwan",
+        "name": "草草草草草",
+        "pinned_tweet_id": "2040489694077886841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978055500928557056/YqKvrrYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 93,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 161
+        },
+        "username": "allenkusakusa",
+        "verified": false
+      }
+    ]
+  }
+}

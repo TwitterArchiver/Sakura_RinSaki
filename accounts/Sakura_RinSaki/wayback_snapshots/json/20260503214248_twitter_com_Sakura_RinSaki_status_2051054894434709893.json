@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2050309098676392067",
+    "created_at": "2026-05-03T21:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051054894434709893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1744024593243987968",
+          "start": 0,
+          "username": "hgsbtin_roti"
+        },
+        {
+          "end": 29,
+          "id": "1604837080663617537",
+          "start": 14,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051054894434709893",
+    "in_reply_to_user_id": "1744024593243987968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050943295581565243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_roti @Natsukikawaii_ 唔喵…？（再繼續捏捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2050309098676392067",
+        "created_at": "2026-05-03T21:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051054894434709893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744024593243987968",
+              "start": 0,
+              "username": "hgsbtin_roti"
+            },
+            {
+              "end": 29,
+              "id": "1604837080663617537",
+              "start": 14,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051054894434709893",
+        "in_reply_to_user_id": "1744024593243987968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050943295581565243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_roti @Natsukikawaii_ 唔喵…？（再繼續捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744024593243987968",
+        "conversation_id": "2050309098676392067",
+        "created_at": "2026-05-03T14:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050943295581565243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050943295581565243",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050643369324585077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Natsukikawaii_ 唔!?\n(被捏到了..喜欢喜欢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 92,
+          "like_count": 3704,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 3420
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-07T15:54:09.000Z",
+        "description": "MtF🏳️‍⚧️🍥 | 174/50 | 是银狐娘~ 色色的… | 好累..",
+        "id": "1744024593243987968",
+        "name": "洛緹狐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033314956385591296/DqsvjACp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 50,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "hgsbtin_roti",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki すき♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 64,
+          "like_count": 2989,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1187
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

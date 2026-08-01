@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2017174063094124997",
+    "created_at": "2026-01-30T09:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017175055441256695"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017175055441256695",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017174063094124997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其實 不知道這東西到底怎麼看 就 這樣吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017174058505515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5xHmdasAAD2tM.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2017174063094124997",
+        "created_at": "2026-01-30T09:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017175055441256695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017175055441256695",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017174063094124997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實 不知道這東西到底怎麼看 就 這樣吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017174058505515008"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2017174063094124997",
+        "created_at": "2026-01-30T09:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017174063094124997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ot5BamGwHX",
+              "end": 46,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2017174063094124997/photo/1",
+              "media_key": "3_2017174058505515008",
+              "start": 23,
+              "url": "https://t.co/ot5BamGwHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017174063094124997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歸零！！  但 中性音到底怎麼練啊啊 很好奇 https://t.co/ot5BamGwHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 67,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 729
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

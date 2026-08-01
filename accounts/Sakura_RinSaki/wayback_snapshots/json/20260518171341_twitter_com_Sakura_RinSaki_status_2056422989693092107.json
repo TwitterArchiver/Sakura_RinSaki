@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2055666156581830798",
+    "created_at": "2026-05-18T17:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056422989693092107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765154815678779392",
+          "start": 0,
+          "username": "NFhLWuYaiP90228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056422989693092107",
+    "in_reply_to_user_id": "1765154815678779392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055666156581830798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFhLWuYaiP90228 咪喵 恭喜！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2055666156581830798",
+        "created_at": "2026-05-18T17:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056422989693092107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765154815678779392",
+              "start": 0,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056422989693092107",
+        "in_reply_to_user_id": "1765154815678779392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055666156581830798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFhLWuYaiP90228 咪喵 恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765154815678779392",
+        "conversation_id": "2055666156581830798",
+        "created_at": "2026-05-16T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055666156581830798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NFhLWuYaiP9022…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/NFhLWuYaiP90228/status/2055636315337859350",
+              "start": 37,
+              "url": "https://t.co/R6YZopbndJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055666156581830798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1443,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055636315337859350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已成功成为家长不管党，同意我科学hrt但不带我开证，说是等18岁再做决定 https://t.co/R6YZopbndJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 104,
+          "like_count": 4392,
+          "listed_count": 7,
+          "media_count": 223,
+          "tweet_count": 3883
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "坐标深圳 | 高校生 | acg爱好者 | mtf  | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | hrt26.3.24から | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "name": "🍥依松佐河🏳️‍⚧️",
+        "pinned_tweet_id": "2055666156581830798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035150098066546688/JdOFK0GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 464,
+          "like_count": 25274,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 172
+        },
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}

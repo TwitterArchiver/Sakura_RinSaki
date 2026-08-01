@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1921287735396163704",
+    "created_at": "2025-05-10T20:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T21:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921296503559127095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        },
+        {
+          "end": 32,
+          "id": "1581609984755830784",
+          "start": 16,
+          "username": "smallchili04186"
+        },
+        {
+          "end": 41,
+          "id": "1438053991192178692",
+          "start": 33,
+          "username": "_mymsgs"
+        },
+        {
+          "end": 57,
+          "id": "1551454468398411776",
+          "start": 42,
+          "username": "chosen_shotgun"
+        },
+        {
+          "end": 68,
+          "id": "1801382796436639745",
+          "start": 58,
+          "username": "_Snow0717"
+        },
+        {
+          "end": 84,
+          "id": "1606690184564985856",
+          "start": 69,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921296503559127095",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921287735396163704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 @smallchili04186 @_mymsgs @chosen_shotgun @_Snow0717 @hgsbtin_nisaki 喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1921287733940715520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqnJA7zaAAAZB1G.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1921287735396163704",
+        "created_at": "2025-05-10T20:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T21:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921296503559127095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            },
+            {
+              "end": 32,
+              "id": "1581609984755830784",
+              "start": 16,
+              "username": "smallchili04186"
+            },
+            {
+              "end": 41,
+              "id": "1438053991192178692",
+              "start": 33,
+              "username": "_mymsgs"
+            },
+            {
+              "end": 57,
+              "id": "1551454468398411776",
+              "start": 42,
+              "username": "chosen_shotgun"
+            },
+            {
+              "end": 68,
+              "id": "1801382796436639745",
+              "start": 58,
+              "username": "_Snow0717"
+            },
+            {
+              "end": 84,
+              "id": "1606690184564985856",
+              "start": 69,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921296503559127095",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921287735396163704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 @smallchili04186 @_mymsgs @chosen_shotgun @_Snow0717 @hgsbtin_nisaki 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921287733940715520"
+          ]
+        },
+        "author_id": "1407034837953748995",
+        "conversation_id": "1921287735396163704",
+        "created_at": "2025-05-10T19:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T20:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921287735396163704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1581609984755830784",
+              "start": 22,
+              "username": "smallchili04186"
+            },
+            {
+              "end": 47,
+              "id": "1438053991192178692",
+              "start": 39,
+              "username": "_mymsgs"
+            },
+            {
+              "end": 69,
+              "id": "1551454468398411776",
+              "start": 54,
+              "username": "chosen_shotgun"
+            },
+            {
+              "end": 86,
+              "id": "1801382796436639745",
+              "start": 76,
+              "username": "_Snow0717"
+            },
+            {
+              "end": 102,
+              "id": "1606690184564985856",
+              "start": 87,
+              "username": "hgsbtin_nisaki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree?la…",
+              "end": 130,
+              "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1919983478764142593/rp0zamZx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1919983478764142593/rp0zamZx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+              "url": "https://t.co/kZrFiZJexl"
+            },
+            {
+              "display_url": "pic.x.com/9KyY3SwRmQ",
+              "end": 154,
+              "expanded_url": "https://x.com/Kinaiyurun0128/status/1921287735396163704/photo/1",
+              "media_key": "3_1921287733940715520",
+              "start": 131,
+              "url": "https://t.co/9KyY3SwRmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921287735396163704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @smallchili04186 @_mymsgs\n👰 配偶: @chosen_shotgun\n👶 孩子: @_Snow0717 @hgsbtin_nisaki\n\n➡️ https://t.co/kZrFiZJexl https://t.co/9KyY3SwRmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 32,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 173
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "18歲高中生/接援交中/善待這個世界 卻被無情折磨/男想變女/思覺失調 重度抑鬱/一心同體@_Snow0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "_Snow0717"
+              }
+            ]
+          }
+        },
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1915142765773717606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 530,
+          "like_count": 88006,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 19370
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T11:36:30.000Z",
+        "description": "@luonbe69永遠的烏鴉老師\n尊重包容🏳️‍⚧️/🏳️‍🌈\n記性不好請見諒\n\n死にたい僕は今日も息をして\n一心尋死的我今天依然呼吸著\n生きたい君は明日を見失って\n渴求活命的你卻迷失在明日---だれかの心臓になれたなら",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "luonbe69"
+              }
+            ]
+          }
+        },
+        "id": "1581609984755830784",
+        "location": "黑暗的深淵",
+        "name": "小辣椒🌶(好累⍩(會考生一個",
+        "pinned_tweet_id": "1851792001756467477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683425490407940097/DrdIMPdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 995,
+          "like_count": 126495,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3275
+        },
+        "username": "smallchili04186",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T08:16:27.000Z",
+        "description": "best love page for my love in the world follow and turn on notifications 🔔",
+        "id": "1438053991192178692",
+        "name": "messages.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775178275305721856/fkm4vpU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74743,
+          "following_count": 9986,
+          "like_count": 6791,
+          "listed_count": 141,
+          "media_count": 4008,
+          "tweet_count": 42697
+        },
+        "username": "_mymsgs",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------------------------- 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "name": "霰霰啦|想被RNG眷顧系",
+        "pinned_tweet_id": "1613192002644119556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 395,
+          "like_count": 12080,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 8589
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║重度抑郁 / 双相二型 / ADHD / BPD / 疑似ASD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "_SnowUra0717"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1498,
+          "like_count": 4902,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1695
+        },
+        "username": "_Snow0717",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜🏳️‍⚧️同类互fo｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1901667171320959058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 325,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 307
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1947149108780654833",
+    "created_at": "2025-07-21T18:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T19:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947361465385586972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        },
+        {
+          "end": 31,
+          "id": "1606690184564985856",
+          "start": 16,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947361465385586972",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947149108780654833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim @hgsbtin_nisaki 嗚嗚嗚 都可以偶遇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1947149104716394497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWpy1dXMAEOBpX.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1947149108780654833",
+        "created_at": "2025-07-21T18:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T19:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947361465385586972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            },
+            {
+              "end": 31,
+              "id": "1606690184564985856",
+              "start": 16,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947361465385586972",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947149108780654833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim @hgsbtin_nisaki 嗚嗚嗚 都可以偶遇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947149104716394497"
+          ]
+        },
+        "author_id": "4229371640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947149108780654833",
+        "created_at": "2025-07-21T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947149108780654833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNaTBhXEvw",
+              "end": 68,
+              "expanded_url": "https://x.com/ringochichidim/status/1947149108780654833/photo/1",
+              "media_key": "3_1947149104716394497",
+              "start": 45,
+              "url": "https://t.co/qNaTBhXEvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947149108780654833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1074,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天偶然在咖啡廳遇到 ，兩個人一起聊天。\nニサキ：（指）這是日語鍵盤嗎\n：妳不要裝外賓哦 https://t.co/qNaTBhXEvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937534658205691904/zhGwDYdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 38,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 230
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\nこいびと：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1477,
+          "like_count": 35790,
+          "listed_count": 6,
+          "media_count": 3052,
+          "tweet_count": 9793
+        },
+        "username": "ringochichidim",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ N1考取中｜同类互fo🏳️‍⚧️｜ @WangPu90983 ｜妹妹 @Littlecat111007 ｜@chuF6yuanmen 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 437,
+          "like_count": 8252,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

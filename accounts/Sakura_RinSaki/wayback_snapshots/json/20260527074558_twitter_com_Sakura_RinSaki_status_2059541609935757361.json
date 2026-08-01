@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2059130698171310250",
+    "created_at": "2026-05-27T07:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059541609935757361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4807006112",
+          "start": 0,
+          "username": "cats00066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059541609935757361",
+    "in_reply_to_user_id": "4807006112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059130698171310250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cats00066 千鶴姐姐活了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1922,
+        "media_key": "3_2059130691976396801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOAdGFbgAE1uD0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2059130698171310250",
+        "created_at": "2026-05-27T07:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059541609935757361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4807006112",
+              "start": 0,
+              "username": "cats00066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059541609935757361",
+        "in_reply_to_user_id": "4807006112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059130698171310250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cats00066 千鶴姐姐活了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059130691976396801"
+          ]
+        },
+        "author_id": "4807006112",
+        "conversation_id": "2059130698171310250",
+        "created_at": "2026-05-26T04:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059130698171310250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5d5iQuqNMT",
+              "end": 56,
+              "expanded_url": "https://x.com/cats00066/status/2059130698171310250/photo/1",
+              "media_key": "3_2059130691976396801",
+              "start": 33,
+              "url": "https://t.co/5d5iQuqNMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059130698171310250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就看個冷氣怎麼不太冷，為啥就被拍起來說屁股像一個愛心形狀@_@ https://t.co/5d5iQuqNMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 109,
+          "like_count": 4547,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 4034
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-24T09:45:38.000Z",
+        "description": "歡迎來到千鶴姊姊的推特www 姊姊的資料？嗯身高169體重6X年齡23Y身材當然是算姣好的呀～～但請勿推倒！ 喜歡煮飯跟耍廢www職業社畜設計師/建模人員/動畫設計師/模型設計人員/妥妥的社會畜生。福瑞控與母湯帳號請置於後方出口處詢問工作人員！",
+        "id": "4807006112",
+        "location": "Changhua County, Taiwan",
+        "name": "鶴見 千鶴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730038878931963904/KTdlrSgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 51,
+          "like_count": 227,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 197
+        },
+        "username": "cats00066",
+        "verified": false
+      }
+    ]
+  }
+}

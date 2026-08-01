@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072645036186148865"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2072645042574168129",
+    "created_at": "2026-07-02T11:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072645042574168129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmKHgmgW5f",
+          "end": 38,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2072645042574168129/photo/1",
+          "media_key": "3_2072645036186148865",
+          "start": 15,
+          "url": "https://t.co/wmKHgmgW5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072645042574168129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救,救命 怎麼辦怎麼辦QAQ https://t.co/wmKHgmgW5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072645036186148865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMODrddaIAE5AdT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072645036186148865"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2072645042574168129",
+        "created_at": "2026-07-02T11:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072645042574168129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmKHgmgW5f",
+              "end": 38,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2072645042574168129/photo/1",
+              "media_key": "3_2072645036186148865",
+              "start": 15,
+              "url": "https://t.co/wmKHgmgW5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072645042574168129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救,救命 怎麼辦怎麼辦QAQ https://t.co/wmKHgmgW5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 129,
+          "like_count": 5617,
+          "listed_count": 10,
+          "media_count": 272,
+          "tweet_count": 4634
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

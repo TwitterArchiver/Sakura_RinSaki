@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046702609059479552",
+        "3_2046702609067868160"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2046702621067751695",
+    "created_at": "2026-04-21T21:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046702621067751695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COfs1KiYHr",
+          "end": 45,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2046702621067751695/photo/1",
+          "media_key": "3_2046702609059479552",
+          "start": 22,
+          "url": "https://t.co/COfs1KiYHr"
+        },
+        {
+          "display_url": "pic.x.com/COfs1KiYHr",
+          "end": 45,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2046702621067751695/photo/1",
+          "media_key": "3_2046702609067868160",
+          "start": 22,
+          "url": "https://t.co/COfs1KiYHr"
+        },
+        {
+          "display_url": "x.com/SONY846995/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/SONY846995/status/2046673971131846959",
+          "start": 46,
+          "url": "https://t.co/xtVSKBigGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046702621067751695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046673971131846959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道了 聽說亞洲家庭有70%都是不正常的 https://t.co/COfs1KiYHr https://t.co/xtVSKBigGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2046702609059479552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdZLdXbAAAO2Sz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046702609067868160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdZLdZbAAAzlpi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046673968606965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc_IXXbcAASRYW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046673968715943936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc_IXxaUAAlf0q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046702609059479552",
+            "3_2046702609067868160"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046702621067751695",
+        "created_at": "2026-04-21T21:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046702621067751695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COfs1KiYHr",
+              "end": 45,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2046702621067751695/photo/1",
+              "media_key": "3_2046702609059479552",
+              "start": 22,
+              "url": "https://t.co/COfs1KiYHr"
+            },
+            {
+              "display_url": "pic.x.com/COfs1KiYHr",
+              "end": 45,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2046702621067751695/photo/1",
+              "media_key": "3_2046702609067868160",
+              "start": 22,
+              "url": "https://t.co/COfs1KiYHr"
+            },
+            {
+              "display_url": "x.com/SONY846995/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/SONY846995/status/2046673971131846959",
+              "start": 46,
+              "url": "https://t.co/xtVSKBigGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046702621067751695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046673971131846959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道了 聽說亞洲家庭有70%都是不正常的 https://t.co/COfs1KiYHr https://t.co/xtVSKBigGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046673968606965760",
+            "3_2046673968715943936"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2046673971131846959",
+        "created_at": "2026-04-21T19:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046673971131846959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOE9WUOe55",
+              "end": 35,
+              "expanded_url": "https://x.com/SONY846995/status/2046673971131846959/photo/1",
+              "media_key": "3_2046673968606965760",
+              "start": 12,
+              "url": "https://t.co/hOE9WUOe55"
+            },
+            {
+              "display_url": "pic.x.com/hOE9WUOe55",
+              "end": 35,
+              "expanded_url": "https://x.com/SONY846995/status/2046673971131846959/photo/1",
+              "media_key": "3_2046673968715943936",
+              "start": 12,
+              "url": "https://t.co/hOE9WUOe55"
+            },
+            {
+              "display_url": "x.com/omgnowihave/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/omgnowihave/status/2046170029562134763",
+              "start": 36,
+              "url": "https://t.co/uGYGATPV4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046673971131846959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046170029562134763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為啥我的人生還是 一坨 https://t.co/hOE9WUOe55 https://t.co/uGYGATPV4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 88,
+          "like_count": 3303,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 3136
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "廢文"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040984747544043520/sok82Y72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 155,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1283
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

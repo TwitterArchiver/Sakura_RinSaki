@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2049785699419951476",
+    "created_at": "2026-05-02T00:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T01:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050371378587877540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Sakura_RinSaki…",
+          "end": 34,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2050159864912171015?s=20",
+          "start": 11,
+          "url": "https://t.co/vZIB2vwG2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050371378587877540",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050159864912171015",
+        "type": "quoted"
+      },
+      {
+        "id": "2049785699419951476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu 施壓 https://t.co/vZIB2vwG2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050159855655432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOhhskbsAAKVUw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1688,
+        "media_key": "3_2050159855659540481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOhhslaYAESFu4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2049785692025389056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJNOgbaAAAEbcU.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2049785699419951476",
+        "created_at": "2026-05-02T00:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050371378587877540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 34,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2050159864912171015?s=20",
+              "start": 11,
+              "url": "https://t.co/vZIB2vwG2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050371378587877540",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050159864912171015",
+            "type": "quoted"
+          },
+          {
+            "id": "2049785699419951476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 施壓 https://t.co/vZIB2vwG2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050159855655432192",
+            "3_2050159855659540481"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050159864912171015",
+        "created_at": "2026-05-01T10:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050159864912171015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyZfaQe3Ev",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2050159864912171015/photo/1",
+              "media_key": "3_2050159855655432192",
+              "start": 24,
+              "url": "https://t.co/nyZfaQe3Ev"
+            },
+            {
+              "display_url": "pic.x.com/nyZfaQe3Ev",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2050159864912171015/photo/1",
+              "media_key": "3_2050159855659540481",
+              "start": 24,
+              "url": "https://t.co/nyZfaQe3Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050159864912171015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 761,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "咱才不會逃避呢 大家五一快樂喔……（繼續去睡覺 https://t.co/nyZfaQe3Ev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049785692025389056"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2049785699419951476",
+        "created_at": "2026-04-30T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049785699419951476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWk52OpbXA",
+              "end": 33,
+              "expanded_url": "https://x.com/YunJiu/status/2049785699419951476/photo/1",
+              "media_key": "3_2049785692025389056",
+              "start": 10,
+              "url": "https://t.co/YWk52OpbXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049785699419951476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 38177,
+          "like_count": 1352,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "拿去给你们群主施压 https://t.co/YWk52OpbXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 92,
+          "like_count": 3580,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3326
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104004,
+          "following_count": 776,
+          "like_count": 36633,
+          "listed_count": 293,
+          "media_count": 18158,
+          "tweet_count": 26087
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

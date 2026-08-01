@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2043291098827862102",
+    "created_at": "2026-04-12T19:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043409426221322731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604837080663617537",
+          "start": 0,
+          "username": "Natsukikawaii_"
+        },
+        {
+          "end": 28,
+          "id": "1948797747089604613",
+          "start": 16,
+          "username": "BloodCatOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043409426221322731",
+    "in_reply_to_user_id": "1604837080663617537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043405899721822616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsukikawaii_ @BloodCatOvO 手手都斷掉的才是雜魚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2043291098827862102",
+        "created_at": "2026-04-12T19:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043409426221322731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604837080663617537",
+              "start": 0,
+              "username": "Natsukikawaii_"
+            },
+            {
+              "end": 28,
+              "id": "1948797747089604613",
+              "start": 16,
+              "username": "BloodCatOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043409426221322731",
+        "in_reply_to_user_id": "1604837080663617537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043405899721822616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsukikawaii_ @BloodCatOvO 手手都斷掉的才是雜魚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604837080663617537",
+        "conversation_id": "2043291098827862102",
+        "created_at": "2026-04-12T19:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043405899721822616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948797747089604613",
+              "start": 0,
+              "username": "BloodCatOvO"
+            },
+            {
+              "end": 28,
+              "id": "1898849785559580672",
+              "start": 13,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043405899721822616",
+        "in_reply_to_user_id": "1948797747089604613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043363777098461653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodCatOvO @Sakura_RinSaki 血貓才是！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 107,
+          "like_count": 2995,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 3028
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043291081237041152/Cr_QbvyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 65,
+          "like_count": 2724,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 986
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow @hgsbtin_nisaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "location": "台北市, 台灣",
+        "name": "血貓🍥",
+        "pinned_tweet_id": "2042855458978038136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 628,
+          "like_count": 5107,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1124
+        },
+        "username": "BloodCatOvO",
+        "verified": false
+      }
+    ]
+  }
+}

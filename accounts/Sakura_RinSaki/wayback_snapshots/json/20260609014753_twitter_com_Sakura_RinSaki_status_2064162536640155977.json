@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2063905240383131711",
+    "created_at": "2026-06-09T01:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064162536640155977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "mufan_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064162536640155977",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063905240383131711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mufan_2006 圈子是這樣子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2063905240383131711",
+        "created_at": "2026-06-09T01:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064162536640155977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "mufan_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064162536640155977",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063905240383131711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mufan_2006 圈子是這樣子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430312926737354753",
+        "conversation_id": "2063905240383131711",
+        "created_at": "2026-06-08T08:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063905240383131711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063905240383131711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 692,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感覺一些圈子對於新人的氛圍不是很好\n就譬如cos圈\n\n理想的是大佬帶著新人，讓新玩家更好融入 或是說 走出自己的路\n\n而不是整天炮其他人哪些畫的不好\n然後要對方不要再出現什麼的\n\n我大學就遇到一個同學說\n\n不會出就不要出\n問題是他自己連嘗試都沒有 \n憑什麼說這些呢唉....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 113,
+          "like_count": 4652,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 4150
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常休學生\n喜歡被耳機強姦，會搞建模+3d列印\n還有對電子的東西有點興趣。\n我最愛的老婆❤️@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中",
+        "name": "暮范🩵",
+        "pinned_tweet_id": "2053079084536889478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057653027071569920/oAlS3WK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11852,
+          "following_count": 97,
+          "like_count": 18625,
+          "listed_count": 13,
+          "media_count": 48,
+          "tweet_count": 284
+        },
+        "username": "mufan_2006",
+        "verified": false
+      }
+    ]
+  }
+}

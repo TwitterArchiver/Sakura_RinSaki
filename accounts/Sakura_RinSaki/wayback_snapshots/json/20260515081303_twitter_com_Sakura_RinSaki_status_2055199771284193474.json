@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2055199771284193474",
+    "created_at": "2026-05-15T08:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055199771284193474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604837080663617537",
+          "start": 0,
+          "username": "Natsukikawaii_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ybbyy19/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ybbyy19/status/2054859452587876742",
+          "start": 22,
+          "url": "https://t.co/ZzorbBzN4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055199771284193474",
+    "in_reply_to_user_id": "1604837080663617537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054859452587876742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsukikawaii_ 　　戀醜癖 https://t.co/ZzorbBzN4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2054859444006297601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRTxvdaIAEfbKU.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2055199771284193474",
+        "created_at": "2026-05-15T08:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055199771284193474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604837080663617537",
+              "start": 0,
+              "username": "Natsukikawaii_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ybbyy19/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ybbyy19/status/2054859452587876742",
+              "start": 22,
+              "url": "https://t.co/ZzorbBzN4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055199771284193474",
+        "in_reply_to_user_id": "1604837080663617537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054859452587876742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsukikawaii_ 　　戀醜癖 https://t.co/ZzorbBzN4Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054859444006297601"
+          ]
+        },
+        "author_id": "1860730309559623680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054859452587876742",
+        "created_at": "2026-05-14T09:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054859452587876742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITr8OJs3I7",
+              "end": 23,
+              "expanded_url": "https://x.com/ybbyy19/status/2054859452587876742/photo/1",
+              "media_key": "3_2054859444006297601",
+              "start": 0,
+              "url": "https://t.co/ITr8OJs3I7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054859452587876742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 62492,
+          "like_count": 2329,
+          "quote_count": 21,
+          "reply_count": 29,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ITr8OJs3I7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 102,
+          "like_count": 4360,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 3849
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki すき♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "大宋 - 白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 62,
+          "like_count": 3087,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1262
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "又阳痿了，低素质选手。不是🚪没有🚪，我爱回谁回谁|胖墩子不爱看别看|被烦到就锁推或拉黑，不定时删",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "pinned_tweet_id": "2036767587493941457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037506051009073152/UV6V_k-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 396,
+          "like_count": 32017,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 891
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

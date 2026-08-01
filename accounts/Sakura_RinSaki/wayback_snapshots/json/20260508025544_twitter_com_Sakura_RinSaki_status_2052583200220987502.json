@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2052523395783508033",
+    "created_at": "2026-05-08T02:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052583200220987502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409725254671376388",
+          "start": 0,
+          "username": "ritsu_9604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052583200220987502",
+    "in_reply_to_user_id": "1409725254671376388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052523395783508033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsu_9604 揉揉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2052523395783508033",
+        "created_at": "2026-05-08T02:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052583200220987502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409725254671376388",
+              "start": 0,
+              "username": "ritsu_9604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052583200220987502",
+        "in_reply_to_user_id": "1409725254671376388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052523395783508033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsu_9604 揉揉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409725254671376388",
+        "conversation_id": "2052523395783508033",
+        "created_at": "2026-05-07T22:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052523395783508033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052523395783508033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪來的破麻室友\n鬧鐘從6：響到現在\n\n不只這些，上學期跟我要五百說要買除濕機\n現在下學期沒看到半個影子\n然後還他媽直接拿了我完整的衛生紙\n用了才跟我說，幹你娘超級沒品\n還叫我：哇靠沒了，要去買了\n尼瑪你自己沒錢去買是不是，好可憐喔\n人也邋遢到不行，我真的，好，幹你娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 97,
+          "like_count": 3998,
+          "listed_count": 6,
+          "media_count": 211,
+          "tweet_count": 3592
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-29T04:08:01.000Z",
+        "description": "19y/可悲設計和藝術大學生\n/南應大漫畫系\n/喔？歡迎來到祈禱室，那麼，這位使徒有什麼疑惑嗎？\n\n/多聲系/禁止AI學習/\n\n橫幅：星夜\n頭像: 真白\n\n/裏垢：@matsukata_py\n/音源配布資訊： @inoru_vb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "matsukata_py"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "inoru_vb"
+              }
+            ]
+          }
+        },
+        "id": "1409725254671376388",
+        "location": "Yunlin County, Taiwan",
+        "name": "リツ🐾",
+        "pinned_tweet_id": "2016078133460664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948332969195880448/vzA6e-Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1696,
+          "like_count": 2371,
+          "listed_count": 1,
+          "media_count": 657,
+          "tweet_count": 4609
+        },
+        "username": "ritsu_9604",
+        "verified": false
+      }
+    ]
+  }
+}

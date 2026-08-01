@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2046176088922247416",
+    "created_at": "2026-04-20T20:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046329752970248239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046329752970248239",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046176088922247416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046176088922247416",
+        "created_at": "2026-04-20T20:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046329752970248239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046329752970248239",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046176088922247416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377114572843184139",
+        "conversation_id": "2046176088922247416",
+        "created_at": "2026-04-20T10:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046176088922247416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046176088922247416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情好難受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 88,
+          "like_count": 3285,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 3127
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "廢文"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040984747544043520/sok82Y72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 154,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1279
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2040788876684607926",
+    "created_at": "2026-04-05T13:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040789990196891845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040789990196891845",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040788876684607926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "感覺 失去初衷了 不是自己想要的樣子 裡面好多…… 奇怪的人\n會讓大家不開心的人\n\n不知道怎麼處理他們 絨絨也不想做壞人 但好像 只能壞起來 因為 傷害到人了……\n\n總之 先禁言幾天吧…… 可能之後會變成超級死群吧 不喜歡氣氛的也會退光光吧 不知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2040788876684607926",
+        "created_at": "2026-04-05T13:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040789990196891845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040789990196891845",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040788876684607926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "感覺 失去初衷了 不是自己想要的樣子 裡面好多…… 奇怪的人\n會讓大家不開心的人\n\n不知道怎麼處理他們 絨絨也不想做壞人 但好像 只能壞起來 因為 傷害到人了……\n\n總之 先禁言幾天吧…… 可能之後會變成超級死群吧 不喜歡氣氛的也會退光光吧 不知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2040788876684607926",
+        "created_at": "2026-04-05T13:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040788876684607926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2030916103590027424",
+              "start": 14,
+              "url": "https://t.co/ayx0panAbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040788876684607926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030916103590027424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "先 不要加了  好可怕…… https://t.co/ayx0panAbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 103,
+          "like_count": 2809,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 2902
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2078174161298715059",
+    "created_at": "2026-07-17T17:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078175397087432968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "799366132255760384",
+          "start": 0,
+          "username": "jtghertert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078175397087432968",
+    "in_reply_to_user_id": "799366132255760384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078175003074515080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jtghertert QAQ 不要哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2078174161298715059",
+        "created_at": "2026-07-17T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078175397087432968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "799366132255760384",
+              "start": 0,
+              "username": "jtghertert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078175397087432968",
+        "in_reply_to_user_id": "799366132255760384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078175003074515080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jtghertert QAQ 不要哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "799366132255760384",
+        "conversation_id": "2078174161298715059",
+        "created_at": "2026-07-17T17:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078175003074515080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078175003074515080",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078174161298715059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 之後有點年紀就會知道了，腎沒那麼耐用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 134,
+          "like_count": 6034,
+          "listed_count": 10,
+          "media_count": 283,
+          "tweet_count": 4997
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-17T21:38:32.000Z",
+        "description": "珍惜",
+        "id": "799366132255760384",
+        "name": "慵懶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889679121577549824/WjAdTMgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 325,
+          "like_count": 4760,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "jtghertert",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2080789714689483081",
+    "created_at": "2026-07-26T21:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081499418390646996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409725254671376388",
+          "start": 0,
+          "username": "ritsu_9604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081499418390646996",
+    "in_reply_to_user_id": "1409725254671376388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080789714689483081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsu_9604 早安！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080789626848239616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBzJCCbYAA2n2v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2080789714689483081",
+        "created_at": "2026-07-26T21:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081499418390646996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409725254671376388",
+              "start": 0,
+              "username": "ritsu_9604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081499418390646996",
+        "in_reply_to_user_id": "1409725254671376388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080789714689483081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsu_9604 早安！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080789626848239616"
+          ]
+        },
+        "author_id": "1409725254671376388",
+        "conversation_id": "2080789714689483081",
+        "created_at": "2026-07-24T22:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080789714689483081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tx17EODri1",
+              "end": 34,
+              "expanded_url": "https://x.com/ritsu_9604/status/2080789714689483081/photo/1",
+              "media_key": "3_2080789626848239616",
+              "start": 11,
+              "url": "https://t.co/tx17EODri1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080789714689483081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "光透進來了，早安（？ https://t.co/tx17EODri1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 134,
+          "like_count": 6273,
+          "listed_count": 11,
+          "media_count": 284,
+          "tweet_count": 5115
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-29T04:08:01.000Z",
+        "description": "19y/設計和藝術大學生/多聲\n\n/喔？歡迎來到祈禱室，那麼，這位使徒有什麼疑惑嗎？\n\n🚫禁止AI學習/🚫無断転載禁止\n\n橫幅：星夜\n頭像: 真白\n\n/裏垢：@matsukata_py\n/音源配布資訊： @inoru_vb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "matsukata_py"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "inoru_vb"
+              }
+            ]
+          }
+        },
+        "id": "1409725254671376388",
+        "location": "Yunlin County, Taiwan",
+        "name": "リツ🐾",
+        "pinned_tweet_id": "2016078133460664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948332969195880448/vzA6e-Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1700,
+          "like_count": 2404,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 4743
+        },
+        "url": "",
+        "username": "ritsu_9604",
+        "verified": false
+      }
+    ]
+  }
+}

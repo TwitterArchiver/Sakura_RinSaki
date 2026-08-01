@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074328093452599774",
+    "created_at": "2026-07-07T13:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074478976974889440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074478976974889440",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074328093452599774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 嗚 這是什麼可怕的勾勾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2074328091443486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl-aK4aYAA_lbU.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074328093452599774",
+        "created_at": "2026-07-07T13:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074478976974889440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074478976974889440",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074328093452599774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 嗚 這是什麼可怕的勾勾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074328091443486720"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2074328093452599774",
+        "created_at": "2026-07-07T03:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074328093452599774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9m6wHYEQN",
+              "end": 40,
+              "expanded_url": "https://x.com/SONY846995/status/2074328093452599774/photo/1",
+              "media_key": "3_2074328091443486720",
+              "start": 17,
+              "url": "https://t.co/a9m6wHYEQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074328093452599774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我消失了  我會想念大家的😭 https://t.co/a9m6wHYEQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 129,
+          "like_count": 5727,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4681
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "廢文"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040984747544043520/sok82Y72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 167,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "SONY846995",
+        "verified": true
+      }
+    ]
+  }
+}

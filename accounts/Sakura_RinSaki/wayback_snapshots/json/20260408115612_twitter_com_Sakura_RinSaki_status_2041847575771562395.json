@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2041805914056093826",
+    "created_at": "2026-04-08T11:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041847575771562395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1985247983584329728",
+          "start": 0,
+          "username": "love1314or174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041847575771562395",
+    "in_reply_to_user_id": "1985247983584329728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041845229159117051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1314or174 咪 不會不會 就是 有點不好意思 讓別人廢心關心自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2041805914056093826",
+        "created_at": "2026-04-08T11:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041847575771562395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1985247983584329728",
+              "start": 0,
+              "username": "love1314or174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041847575771562395",
+        "in_reply_to_user_id": "1985247983584329728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041845229159117051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1314or174 咪 不會不會 就是 有點不好意思 讓別人廢心關心自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985247983584329728",
+        "conversation_id": "2041805914056093826",
+        "created_at": "2026-04-08T11:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041845229159117051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041845229159117051",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041844740979937630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 在有限的字數裡盡量簡化了，造成困擾不好意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 106,
+          "like_count": 2904,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2985
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-03T07:30:03.000Z",
+        "description": "迷失的小妖狐探索世界，希望廣交好友（努力活著）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/loveend1314/ho…",
+                "end": 23,
+                "expanded_url": "https://m.twitch.tv/loveend1314/home",
+                "start": 0,
+                "url": "https://t.co/gLLxSjefMV"
+              }
+            ]
+          }
+        },
+        "id": "1985247983584329728",
+        "location": "Taiwan",
+        "name": "露薇雅 #啟動中新人 Vtuber",
+        "pinned_tweet_id": "2032809600244920608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985250791058530304/OtE41duT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 2102,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/gLLxSjefMV",
+        "username": "love1314or174",
+        "verified": false
+      }
+    ]
+  }
+}

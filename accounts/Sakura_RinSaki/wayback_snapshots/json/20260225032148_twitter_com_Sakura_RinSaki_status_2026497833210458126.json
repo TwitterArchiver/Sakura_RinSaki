@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026497826751172608"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2026497833210458126",
+    "created_at": "2026-02-25T03:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026497833210458126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pp1tSy7qUP",
+          "end": 40,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2026497833210458126/photo/1",
+          "media_key": "3_2026497826751172608",
+          "start": 17,
+          "url": "https://t.co/pp1tSy7qUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026497833210458126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以成為咱第1500位粉絲嗎 🥺 https://t.co/pp1tSy7qUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2026497826751172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-RCV2a0AA2bvS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026497826751172608"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2026497833210458126",
+        "created_at": "2026-02-25T03:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026497833210458126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pp1tSy7qUP",
+              "end": 40,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2026497833210458126/photo/1",
+              "media_key": "3_2026497826751172608",
+              "start": 17,
+              "url": "https://t.co/pp1tSy7qUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026497833210458126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以成為咱第1500位粉絲嗎 🥺 https://t.co/pp1tSy7qUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 74,
+          "like_count": 1315,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1097
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

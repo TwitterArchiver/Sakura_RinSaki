@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1976367412384760132",
+    "created_at": "2025-10-11T03:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T04:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976860035004477643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976860035004477643",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976367412384760132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976367404726038528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G213rvBbMAAvYsm.jpg",
+        "width": 1109
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976367404730155010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G213rvCaAAIZ-db.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1976367412384760132",
+        "created_at": "2025-10-11T03:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976860035004477643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976860035004477643",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976367412384760132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976367404726038528",
+            "3_1976367404730155010"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1976367412384760132",
+        "created_at": "2025-10-09T19:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T20:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976367412384760132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "xyn"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "药娘"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药攻"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9onjPN7aT",
+              "end": 71,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1976367412384760132/photo/1",
+              "media_key": "3_1976367404726038528",
+              "start": 48,
+              "url": "https://t.co/O9onjPN7aT"
+            },
+            {
+              "display_url": "pic.x.com/O9onjPN7aT",
+              "end": 71,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1976367412384760132/photo/1",
+              "media_key": "3_1976367404730155010",
+              "start": 48,
+              "url": "https://t.co/O9onjPN7aT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976367412384760132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 969,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主播看自己看到发情香草币了🥵有没有rbq让咱草草\n\n#xyn #药娘 #药攻 #男娘 #男の娘 https://t.co/O9onjPN7aT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937534658205691904/zhGwDYdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 47,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 301
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ 药攻｜N1考取中｜同类互fo🏳️‍⚧️｜@WangPu90983 ｜妈妈@BloodCatOvO｜妹妹 @Littlecat111007 ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqMt6n"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 597,
+          "like_count": 12085,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/N9KjiqMt6n",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

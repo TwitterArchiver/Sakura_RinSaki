@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2030909348856430814",
+    "created_at": "2026-03-10T10:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031316089368621376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3934420934",
+          "start": 0,
+          "username": "YuesFan"
+        },
+        {
+          "end": 25,
+          "id": "1656304975109304321",
+          "start": 9,
+          "username": "James_is_absent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031316089368621376",
+    "in_reply_to_user_id": "3934420934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031315349854138663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuesFan @James_is_absent 唔…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2030909348856430814",
+        "created_at": "2026-03-10T10:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031316089368621376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3934420934",
+              "start": 0,
+              "username": "YuesFan"
+            },
+            {
+              "end": 25,
+              "id": "1656304975109304321",
+              "start": 9,
+              "username": "James_is_absent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031316089368621376",
+        "in_reply_to_user_id": "3934420934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031315349854138663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuesFan @James_is_absent 唔…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3934420934",
+        "conversation_id": "2030909348856430814",
+        "created_at": "2026-03-10T10:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031315349854138663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656304975109304321",
+              "start": 0,
+              "username": "James_is_absent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sakura_rinsaki…",
+              "end": 40,
+              "expanded_url": "https://x.com/sakura_rinsaki/status/2031214629989527983?s=46",
+              "start": 17,
+              "url": "https://t.co/9MdKeCuiWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031315349854138663",
+        "in_reply_to_user_id": "1656304975109304321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031214629989527983",
+            "type": "quoted"
+          },
+          {
+            "id": "2030909348856430814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James_is_absent https://t.co/9MdKeCuiWB\n這種"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 93,
+          "like_count": 2037,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 2008
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-18T09:23:30.000Z",
+        "description": "@flos7355608",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "flos7355608"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/BB-MyQU6URs?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/BB-MyQU6URs?si=M24wHpstQBuqup9h",
+                "start": 0,
+                "url": "https://t.co/rLz0cXaZnp"
+              }
+            ]
+          }
+        },
+        "id": "3934420934",
+        "name": "原萃",
+        "pinned_tweet_id": "1704859913619644869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021487628663783428/Vf1HR8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 4485,
+          "like_count": 143122,
+          "listed_count": 17,
+          "media_count": 9288,
+          "tweet_count": 114634
+        },
+        "url": "https://t.co/rLz0cXaZnp",
+        "username": "YuesFan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T14:27:41.000Z",
+        "description": "永久鍵/FUB FREE/無法接受仇恨言論不要Fo",
+        "id": "1656304975109304321",
+        "location": "台灣",
+        "name": "阿展暴言用",
+        "pinned_tweet_id": "1901047612457042332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025763144623366144/6mDCjdrv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1014,
+          "like_count": 101567,
+          "listed_count": 2,
+          "media_count": 1360,
+          "tweet_count": 28978
+        },
+        "username": "James_is_absent",
+        "verified": false
+      }
+    ]
+  }
+}

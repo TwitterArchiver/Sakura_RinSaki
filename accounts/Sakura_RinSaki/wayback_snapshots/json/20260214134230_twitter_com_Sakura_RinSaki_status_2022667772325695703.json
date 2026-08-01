@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2022281028602351862",
+    "created_at": "2026-02-14T13:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022667772325695703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829558386796482565",
+          "start": 0,
+          "username": "GLgl9685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022667772325695703",
+    "in_reply_to_user_id": "1829558386796482565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022464726509453432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLgl9685 找不到喜歡的跟喜歡自己的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2022281028602351862",
+        "created_at": "2026-02-14T13:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022667772325695703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829558386796482565",
+              "start": 0,
+              "username": "GLgl9685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022667772325695703",
+        "in_reply_to_user_id": "1829558386796482565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022464726509453432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLgl9685 找不到喜歡的跟喜歡自己的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829558386796482565",
+        "conversation_id": "2022281028602351862",
+        "created_at": "2026-02-14T00:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T01:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022464726509453432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022464726509453432",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022281028602351862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 那就去谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 68,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 794
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T16:34:56.000Z",
+        "description": "/在校穷鬼大学生/HEMA爱好者以及刀剑爱好者/友跨（坚决不翻车！）/喜欢看男娘",
+        "id": "1829558386796482565",
+        "location": "哪里都是",
+        "name": "广林",
+        "pinned_tweet_id": "2002618880376910089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012486256899264512/t01ju9jR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 402,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1357
+        },
+        "username": "GLgl9685",
+        "verified": false
+      }
+    ]
+  }
+}

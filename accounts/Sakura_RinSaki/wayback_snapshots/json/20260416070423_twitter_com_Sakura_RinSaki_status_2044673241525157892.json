@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2044463388756263353",
+    "created_at": "2026-04-16T07:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044673241525157892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1241351358017466368",
+          "start": 0,
+          "username": "abcd4050647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044673241525157892",
+    "in_reply_to_user_id": "1241351358017466368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044463388756263353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abcd4050647 揉揉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2044463386449350660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9knjGbEAQxgpI.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2044463388756263353",
+        "created_at": "2026-04-16T07:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044673241525157892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241351358017466368",
+              "start": 0,
+              "username": "abcd4050647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044673241525157892",
+        "in_reply_to_user_id": "1241351358017466368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044463388756263353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abcd4050647 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044463386449350660"
+          ]
+        },
+        "author_id": "1241351358017466368",
+        "conversation_id": "2044463388756263353",
+        "created_at": "2026-04-15T17:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044463388756263353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kB8jWhjcZr",
+              "end": 174,
+              "expanded_url": "https://x.com/abcd4050647/status/2044463388756263353/photo/1",
+              "media_key": "3_2044463386449350660",
+              "start": 151,
+              "url": "https://t.co/kB8jWhjcZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044463388756263353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，我不知道該說什麼好....\n感覺無力更想搞消失惹....\n如果我不再擁有感情..\n是不是不再難受了..\n\n也許只是自己的胡思亂想...\n自己一個人過是不是比較好？\n有時候要強顏歡笑但是...\n微笑的背後可能是沒感情的機器\n有時候可能會想說沒感情那就好了\n不會再哭不會在鬧不會有情緒\n會不會更好🫠 https://t.co/kB8jWhjcZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨ざぁこ人類，キモ，しね 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 108,
+          "like_count": 3132,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 3072
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-21T13:10:15.000Z",
+        "description": "167/69/AAcup/請拿食物餵食我/私密請附本人照/本喵是個可愛的小貓咪👀\n #新北板橋 #妹子 #跨性別",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "新北板橋"
+              },
+              {
+                "end": 51,
+                "start": 48,
+                "tag": "妹子"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "跨性別"
+              }
+            ]
+          }
+        },
+        "id": "1241351358017466368",
+        "location": "桃園",
+        "name": "𝕄𝕦𝕄𝕦•沐沐×貓毒",
+        "pinned_tweet_id": "1559916541562331136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707368994177024/0-gdBFmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 515,
+          "like_count": 552,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 923
+        },
+        "username": "abcd4050647",
+        "verified": false
+      }
+    ]
+  }
+}

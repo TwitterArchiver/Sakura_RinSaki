@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048091995730829570",
+    "created_at": "2026-04-25T17:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048091995730829570"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048091995730829570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在雨後的午夜裡 有些幽冷 不知道在哪裡 不知道是什麼 一個你路過的小角落 有一陣聲響\n\n「唔喵……」裡頭的生物被外頭經過的動靜驚擾了一下\n\n她將腦袋探了出來 小小的眼睛看著路過的你 似乎是想要 被摸一下\n\n但她又把腦袋縮了回去 感覺這樣子的要求 好像 太貪心了 似乎是對自己不太有自信……\n\n 平白的要求別人給予自己情緒價值 很不應該吧 她覺得 自己要堅強才對 怎麼可以 這麼弱呢\n\n她覺得自己能處理好自己 才不需要別人的安慰呢 於是 她又躲了回去"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在雨後的午夜裡 有些幽冷 不知道在哪裡 不知道是什麼 一個你路過的小角落 有一陣聲響\n\n「唔喵……」裡頭的生物被外頭經過的動靜驚擾了一下\n\n她將腦袋探了出來 小小的眼睛看著路過的你 似乎是想要 被摸一下\n\n但她又把腦袋縮了回去 感覺這樣子的要求 好像 太貪心了 似乎是對自己不太有自信……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048091995730829570",
+        "created_at": "2026-04-25T17:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048091995730829570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048091995730829570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在雨後的午夜裡 有些幽冷 不知道在哪裡 不知道是什麼 一個你路過的小角落 有一陣聲響\n\n「唔喵……」裡頭的生物被外頭經過的動靜驚擾了一下\n\n她將腦袋探了出來 小小的眼睛看著路過的你 似乎是想要 被摸一下\n\n但她又把腦袋縮了回去 感覺這樣子的要求 好像 太貪心了 似乎是對自己不太有自信……\n\n 平白的要求別人給予自己情緒價值 很不應該吧 她覺得 自己要堅強才對 怎麼可以 這麼弱呢\n\n她覺得自己能處理好自己 才不需要別人的安慰呢 於是 她又躲了回去"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在雨後的午夜裡 有些幽冷 不知道在哪裡 不知道是什麼 一個你路過的小角落 有一陣聲響\n\n「唔喵……」裡頭的生物被外頭經過的動靜驚擾了一下\n\n她將腦袋探了出來 小小的眼睛看著路過的你 似乎是想要 被摸一下\n\n但她又把腦袋縮了回去 感覺這樣子的要求 好像 太貪心了 似乎是對自己不太有自信……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 90,
+          "like_count": 3411,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3168
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

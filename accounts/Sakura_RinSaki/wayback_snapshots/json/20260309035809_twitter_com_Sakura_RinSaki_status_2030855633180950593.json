@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2030855633180950593",
+    "created_at": "2026-03-09T03:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030855633180950593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030855633180950593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到學費之後又破防了……\n\n明明如果讀南應大 3.5萬×8\n加上住宿費5000×8 \n\n再減掉獎學金 30萬\n\n也就只要2萬 為什麼為什麼 就是不想要自己去讀漫畫系\n\n為什麼要說出 「男孩子就是不適合讀漫畫系 」這句話\n\n知道自己後面不選漫畫系 就是因為 這句話 破防 賭氣 算了算了 都沒有意義了 \n\n沒有意義了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2030855633180950593",
+        "created_at": "2026-03-09T03:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030855633180950593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030855633180950593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到學費之後又破防了……\n\n明明如果讀南應大 3.5萬×8\n加上住宿費5000×8 \n\n再減掉獎學金 30萬\n\n也就只要2萬 為什麼為什麼 就是不想要自己去讀漫畫系\n\n為什麼要說出 「男孩子就是不適合讀漫畫系 」這句話\n\n知道自己後面不選漫畫系 就是因為 這句話 破防 賭氣 算了算了 都沒有意義了 \n\n沒有意義了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 91,
+          "like_count": 2002,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 1876
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

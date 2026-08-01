@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2050044633343000715",
+    "created_at": "2026-05-04T22:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051426505415397795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1341280509565968384",
+          "start": 0,
+          "username": "GchAP0o4prrvAHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051426505415397795",
+    "in_reply_to_user_id": "1341280509565968384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050044633343000715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GchAP0o4prrvAHw 咪!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050044620709773312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHM4uI8bQAARAZP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2050044633343000715",
+        "created_at": "2026-05-04T22:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051426505415397795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1341280509565968384",
+              "start": 0,
+              "username": "GchAP0o4prrvAHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051426505415397795",
+        "in_reply_to_user_id": "1341280509565968384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050044633343000715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GchAP0o4prrvAHw 咪!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050044620709773312"
+          ]
+        },
+        "author_id": "1341280509565968384",
+        "conversation_id": "2050044633343000715",
+        "created_at": "2026-05-01T02:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050044633343000715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "台中"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "跨性別"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "三性"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "ts"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o87j6Ru7JE",
+              "end": 52,
+              "expanded_url": "https://x.com/GchAP0o4prrvAHw/status/2050044633343000715/photo/1",
+              "media_key": "3_2050044620709773312",
+              "start": 29,
+              "url": "https://t.co/o87j6Ru7JE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050044633343000715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2090,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "歐耶三天連假🥰\n#台中 #跨性別 #三性 #ts #男娘 https://t.co/o87j6Ru7JE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 94,
+          "like_count": 3792,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 3470
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-22T07:12:56.000Z",
+        "description": "台中南區 | 2004 | 大學生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/NaaPWWSCf",
+                "end": 23,
+                "expanded_url": "https://discord.gg/NaaPWWSCf",
+                "start": 0,
+                "url": "https://t.co/iLpBA6I2gy"
+              }
+            ]
+          }
+        },
+        "id": "1341280509565968384",
+        "name": "三性 Aurora🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341280612636708867/rLDYSDU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 12,
+          "like_count": 58,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/iLpBA6I2gy",
+        "username": "GchAP0o4prrvAHw",
+        "verified": false
+      }
+    ]
+  }
+}

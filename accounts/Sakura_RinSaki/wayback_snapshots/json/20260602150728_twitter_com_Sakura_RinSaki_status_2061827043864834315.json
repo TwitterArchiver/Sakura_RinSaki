@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2061751435998732401",
+    "created_at": "2026-06-02T15:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061827043864834315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510268624409604102",
+          "start": 0,
+          "username": "sora_0802_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061827043864834315",
+    "in_reply_to_user_id": "1510268624409604102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061751435998732401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sora_0802_ 這是哪一間 好奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061751426637037568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzP_7fbAAAELQF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2061751435998732401",
+        "created_at": "2026-06-02T15:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061827043864834315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510268624409604102",
+              "start": 0,
+              "username": "sora_0802_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061827043864834315",
+        "in_reply_to_user_id": "1510268624409604102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751435998732401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sora_0802_ 這是哪一間 好奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061751426637037568"
+          ]
+        },
+        "author_id": "1510268624409604102",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061751435998732401",
+        "created_at": "2026-06-02T10:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061751435998732401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "里莫看這裡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/REho3fV3m6",
+              "end": 45,
+              "expanded_url": "https://x.com/sora_0802_/status/2061751435998732401/photo/1",
+              "media_key": "3_2061751426637037568",
+              "start": 22,
+              "url": "https://t.co/REho3fV3m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061751435998732401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍜\n\n飯友回歸(｡･ω･｡)\n#里莫看這裡 https://t.co/REho3fV3m6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 113,
+          "like_count": 4616,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 4098
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-02T14:51:30.000Z",
+        "description": "｜插畫創作｜不定時出沒",
+        "id": "1510268624409604102",
+        "name": "skysora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933210309545840640/FOgnveaF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 155,
+          "like_count": 3016,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 331
+        },
+        "username": "sora_0802_",
+        "verified": false
+      }
+    ]
+  }
+}

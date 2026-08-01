@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050309077906137088"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2050309098676392067",
+    "created_at": "2026-05-01T20:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050309098676392067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TY4Jy0KPzC",
+          "end": 42,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2050309098676392067/video/1",
+          "media_key": "7_2050309077906137088",
+          "start": 19,
+          "url": "https://t.co/TY4Jy0KPzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050309098676392067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜無聊捏捏自己的臉臉… 看心情刪掉 https://t.co/TY4Jy0KPzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2539,
+        "height": 1278,
+        "media_key": "7_2050309077906137088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050309077906137088/pu/img/VCuUevsXhAUIHFWo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050309077906137088/pu/vid/avc1/320x724/bvooqkmcOF-hjYcI.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050309077906137088/pu/vid/avc1/480x1086/AtN-MV7v-yjSQO5e.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050309077906137088/pu/vid/avc1/564x1278/u09eDkZCSXeH2LTV.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050309077906137088/pu/pl/qJeKeiwxwN1YsTtP.m3u8?tag=25"
+          }
+        ],
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050309077906137088"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2050309098676392067",
+        "created_at": "2026-05-01T20:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050309098676392067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TY4Jy0KPzC",
+              "end": 42,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2050309098676392067/video/1",
+              "media_key": "7_2050309077906137088",
+              "start": 19,
+              "url": "https://t.co/TY4Jy0KPzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050309098676392067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜無聊捏捏自己的臉臉… 看心情刪掉 https://t.co/TY4Jy0KPzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 92,
+          "like_count": 3578,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3323
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

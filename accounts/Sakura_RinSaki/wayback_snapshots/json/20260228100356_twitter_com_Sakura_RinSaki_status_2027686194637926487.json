@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2027640156958925112",
+    "created_at": "2026-02-28T10:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027686194637926487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752640236138684416",
+          "start": 0,
+          "username": "xiohunggu251015"
+        },
+        {
+          "end": 33,
+          "id": "1430312926737354753",
+          "start": 17,
+          "username": "sushiching_2006"
+        },
+        {
+          "end": 45,
+          "id": "1377114572843184139",
+          "start": 34,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027686194637926487",
+    "in_reply_to_user_id": "1752640236138684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027640156958925112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiohunggu251015 @sushiching_2006 @SONY846995 嗚嗚嗚哇 羨慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2027640146854821888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOf-H2aQAAk6UI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1623,
+        "media_key": "3_2027640147156865029",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOf-I-bEAUcFfo.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2027640156958925112",
+        "created_at": "2026-02-28T10:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027686194637926487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752640236138684416",
+              "start": 0,
+              "username": "xiohunggu251015"
+            },
+            {
+              "end": 33,
+              "id": "1430312926737354753",
+              "start": 17,
+              "username": "sushiching_2006"
+            },
+            {
+              "end": 45,
+              "id": "1377114572843184139",
+              "start": 34,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027686194637926487",
+        "in_reply_to_user_id": "1752640236138684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027640156958925112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiohunggu251015 @sushiching_2006 @SONY846995 嗚嗚嗚哇 羨慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027640146854821888",
+            "3_2027640147156865029"
+          ]
+        },
+        "author_id": "1752640236138684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027640156958925112",
+        "created_at": "2026-02-28T07:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027640156958925112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430312926737354753",
+              "start": 2,
+              "username": "sushiching_2006"
+            },
+            {
+              "end": 30,
+              "id": "1377114572843184139",
+              "start": 19,
+              "username": "SONY846995"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZayuPQCg9v",
+              "end": 62,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2027640156958925112/photo/1",
+              "media_key": "3_2027640146854821888",
+              "start": 39,
+              "url": "https://t.co/ZayuPQCg9v"
+            },
+            {
+              "display_url": "pic.x.com/ZayuPQCg9v",
+              "end": 62,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2027640156958925112/photo/1",
+              "media_key": "3_2027640147156865029",
+              "start": 39,
+              "url": "https://t.co/ZayuPQCg9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027640156958925112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1928,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被 @sushiching_2006 @SONY846995 当玩具抓走了😭 https://t.co/ZayuPQCg9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 75,
+          "like_count": 1529,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1247
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2026518405264834867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 866,
+          "like_count": 8170,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 1516
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "有證含糖🍥，是19y的貓貓吶❤️\n座標：台中 歡迎線下貼貼！！😺\n@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "你的人格裡",
+        "name": "小晴是逆天醬喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025403906839429218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023309371909042177/veAgsiEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11251,
+          "following_count": 185,
+          "like_count": 17701,
+          "listed_count": 13,
+          "media_count": 43,
+          "tweet_count": 377
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n    \n我家的銀漸層😺 @sushiching_2006 💕\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "廢文"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "sushiching_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021969844640559104/WpiYHTLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 143,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1099
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

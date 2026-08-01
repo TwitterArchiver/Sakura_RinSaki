@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2023917657028956472",
+    "created_at": "2026-02-18T11:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024084164782555143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945585146633097216",
+          "start": 0,
+          "username": "34A211143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024084164782555143",
+    "in_reply_to_user_id": "1945585146633097216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024069261036036474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@34A211143 咕欸！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2023917657028956472",
+        "created_at": "2026-02-18T11:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024084164782555143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945585146633097216",
+              "start": 0,
+              "username": "34A211143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024084164782555143",
+        "in_reply_to_user_id": "1945585146633097216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024069261036036474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@34A211143 咕欸！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945585146633097216",
+        "conversation_id": "2023917657028956472",
+        "created_at": "2026-02-18T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024069261036036474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024069261036036474",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023917657028956472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 自己插一個(*¯︶¯*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 71,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 941
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T20:43:59.000Z",
+        "description": "大家好\n(•̤̀ᵕ•̤́๑)\ntelegram https://t.co/vX85lw1FKN\n\n                            小男娘一隻 投喂有福利\n台南付費可約",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jdzfujsn",
+                "end": 47,
+                "expanded_url": "http://t.me/jdzfujsn",
+                "start": 24,
+                "url": "https://t.co/vX85lw1FKN"
+              }
+            ]
+          }
+        },
+        "id": "1945585146633097216",
+        "location": "Taiwan",
+        "name": "miko._.🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024056888992940032/wMF6kpth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 171,
+          "like_count": 1343,
+          "listed_count": 10,
+          "media_count": 91,
+          "tweet_count": 246
+        },
+        "username": "34A211143",
+        "verified": false
+      }
+    ]
+  }
+}

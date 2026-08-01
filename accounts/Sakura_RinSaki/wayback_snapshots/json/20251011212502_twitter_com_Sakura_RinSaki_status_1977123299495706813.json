@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1976895708570829192",
+    "created_at": "2025-10-11T21:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T22:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977123299495706813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1972166289050456064",
+          "start": 0,
+          "username": "BiLiCCBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977123299495706813",
+    "in_reply_to_user_id": "1972166289050456064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976895708570829192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiLiCCBG 衣服好好看！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1905,
+        "media_key": "3_1976895701918662656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29YKrbbwAAei9e.jpg",
+        "width": 1571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1976895708570829192",
+        "created_at": "2025-10-11T21:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977123299495706813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1972166289050456064",
+              "start": 0,
+              "username": "BiLiCCBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977123299495706813",
+        "in_reply_to_user_id": "1972166289050456064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976895708570829192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiLiCCBG 衣服好好看！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976895701918662656"
+          ]
+        },
+        "author_id": "1972166289050456064",
+        "conversation_id": "1976895708570829192",
+        "created_at": "2025-10-11T06:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976895708570829192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "伪娘"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "药娘"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtf"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "日雌"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "雌二醇"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7r5nprtOBg",
+              "end": 68,
+              "expanded_url": "https://x.com/BiLiCCBG/status/1976895708570829192/photo/1",
+              "media_key": "3_1976895701918662656",
+              "start": 45,
+              "url": "https://t.co/7r5nprtOBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976895708570829192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 51819,
+          "like_count": 614,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "原来日雌真的会让皮肤变好…\n#男娘 #伪娘 #药娘 #mtf #日雌 #雌二醇 #xyn https://t.co/7r5nprtOBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 48,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 305
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T05:07:48.000Z",
+        "description": "含糖小男娘 166 43kg 谢谢你陌生人 hrt2025.7.1",
+        "id": "1972166289050456064",
+        "name": "臣臣博格🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972166506877534208/ChbKjoxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "username": "BiLiCCBG",
+        "verified": false
+      }
+    ]
+  }
+}

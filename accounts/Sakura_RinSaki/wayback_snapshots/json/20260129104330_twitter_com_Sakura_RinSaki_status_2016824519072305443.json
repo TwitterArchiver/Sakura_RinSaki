@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2016467150362591404",
+    "created_at": "2026-01-29T10:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T11:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016824519072305443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1569596107692601346",
+          "start": 0,
+          "username": "berenge29017162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016824519072305443",
+    "in_reply_to_user_id": "1569596107692601346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016754805247557879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berenge29017162 怕聲音毀掉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2016467150362591404",
+        "created_at": "2026-01-29T10:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016824519072305443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1569596107692601346",
+              "start": 0,
+              "username": "berenge29017162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016824519072305443",
+        "in_reply_to_user_id": "1569596107692601346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016754805247557879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berenge29017162 怕聲音毀掉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569596107692601346",
+        "conversation_id": "2016467150362591404",
+        "created_at": "2026-01-29T06:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016754805247557879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754805247557879",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016467150362591404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 其实如果讨厌自己的声音 可以考虑做一个声带手术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 67,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 719
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T07:57:39.000Z",
+        "description": "une communitee inéblanlable ，et une féministe.anti le système capitalisme",
+        "id": "1569596107692601346",
+        "name": "吕玲绮",
+        "pinned_tweet_id": "1860800815377863157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570276519234392066/XmtgMZa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 80,
+          "like_count": 13152,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 9761
+        },
+        "username": "berenge29017162",
+        "verified": false
+      }
+    ]
+  }
+}

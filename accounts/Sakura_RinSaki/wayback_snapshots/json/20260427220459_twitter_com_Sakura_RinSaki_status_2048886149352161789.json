@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048838332210446587",
+    "created_at": "2026-04-27T22:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048886149352161789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604837080663617537",
+          "start": 0,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048886149352161789",
+    "in_reply_to_user_id": "1604837080663617537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048838332210446587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsukikawaii_ 祝好夢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048838332210446587",
+        "created_at": "2026-04-27T22:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048886149352161789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604837080663617537",
+              "start": 0,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048886149352161789",
+        "in_reply_to_user_id": "1604837080663617537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048838332210446587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsukikawaii_ 祝好夢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604837080663617537",
+        "conversation_id": "2048838332210446587",
+        "created_at": "2026-04-27T18:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048838332210446587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048838332210446587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想睡一個一覺醒來能見到所愛之人的覺  晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 91,
+          "like_count": 3477,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3196
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki すき♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 68,
+          "like_count": 2929,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1147
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

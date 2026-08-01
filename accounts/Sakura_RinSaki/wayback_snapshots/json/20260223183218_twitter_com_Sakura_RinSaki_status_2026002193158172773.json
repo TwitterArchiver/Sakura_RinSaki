@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2025978849327288712",
+    "created_at": "2026-02-23T18:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T19:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026002193158172773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026002193158172773",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025978849327288712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 嗚嗚嗚 羨慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2025978846651228160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB25BuUaIAAe2xP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025978846974197760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB25BvhaQAANOnR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2025978849327288712",
+        "created_at": "2026-02-23T18:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026002193158172773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026002193158172773",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025978849327288712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 嗚嗚嗚 羨慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025978846651228160",
+            "3_2025978846974197760"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2025978849327288712",
+        "created_at": "2026-02-23T16:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025978849327288712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKKOUX0RpW",
+              "end": 31,
+              "expanded_url": "https://x.com/sushiching_2006/status/2025978849327288712/photo/1",
+              "media_key": "3_2025978846651228160",
+              "start": 8,
+              "url": "https://t.co/NKKOUX0RpW"
+            },
+            {
+              "display_url": "pic.x.com/NKKOUX0RpW",
+              "end": 31,
+              "expanded_url": "https://x.com/sushiching_2006/status/2025978849327288712/photo/1",
+              "media_key": "3_2025978846974197760",
+              "start": 8,
+              "url": "https://t.co/NKKOUX0RpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978849327288712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拐到一個男娘了 https://t.co/NKKOUX0RpW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 72,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1069
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "有證含糖🍥，是19y的貓貓吶❤️\n座標：台中 歡迎線下貼貼！！😺\n@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "你的人格裡",
+        "name": "小晴是逆天醬喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025403906839429218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023309371909042177/veAgsiEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11101,
+          "following_count": 179,
+          "like_count": 17596,
+          "listed_count": 13,
+          "media_count": 40,
+          "tweet_count": 326
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

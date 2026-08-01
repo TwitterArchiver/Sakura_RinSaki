@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2064000051865936306",
+    "created_at": "2026-06-10T02:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064534061159473544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426922631492562949",
+          "start": 0,
+          "username": "IzunaTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064534061159473544",
+    "in_reply_to_user_id": "1426922631492562949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064000051865936306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzunaTw 喵喵喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064000042575519744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTNGmoa4AAXNyC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2064000051865936306",
+        "created_at": "2026-06-10T02:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064534061159473544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426922631492562949",
+              "start": 0,
+              "username": "IzunaTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064534061159473544",
+        "in_reply_to_user_id": "1426922631492562949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064000051865936306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzunaTw 喵喵喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064000042575519744"
+          ]
+        },
+        "author_id": "1426922631492562949",
+        "conversation_id": "2064000051865936306",
+        "created_at": "2026-06-08T15:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064000051865936306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYNp59WXuv",
+              "end": 54,
+              "expanded_url": "https://x.com/IzunaTw/status/2064000051865936306/photo/1",
+              "media_key": "3_2064000042575519744",
+              "start": 31,
+              "url": "https://t.co/SYNp59WXuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064000051865936306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6631,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小伊面臨財務危機\n被迫OOOO\n辛酸畫面流出\nಥ⁠╭⁠╮⁠ಥ https://t.co/SYNp59WXuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 114,
+          "like_count": 4658,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 4155
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-15T15:05:05.000Z",
+        "description": "生性害羞的小伊/女裝新手/嘗試讓自己變得更可愛\n喜歡小伊的話 歡迎追蹤喔!\n#女裝男子  #女裝 #娚孩子 #crossdresser",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "女裝男子"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "女裝"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "娚孩子"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "tag": "crossdresser"
+              }
+            ]
+          }
+        },
+        "id": "1426922631492562949",
+        "location": "Taiwan",
+        "name": "伊織娜(Izuna)",
+        "pinned_tweet_id": "1735925582331064474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695695475356397568/CrY-sptp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6219,
+          "following_count": 299,
+          "like_count": 1822,
+          "listed_count": 12,
+          "media_count": 266,
+          "tweet_count": 4778
+        },
+        "username": "IzunaTw",
+        "verified": false
+      }
+    ]
+  }
+}

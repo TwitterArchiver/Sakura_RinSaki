@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077652873165623788",
+    "created_at": "2026-07-16T18:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077818825786130439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077818825786130439",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077652873165623788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 卡皮巴拉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077652846804443137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVOQZxboAERDqP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2077652862545649664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVORUabYAA6CPo.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2077652867725557760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVORntagAAo7I8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077652873165623788",
+        "created_at": "2026-07-16T18:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077818825786130439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077818825786130439",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077652873165623788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 卡皮巴拉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077652846804443137",
+            "3_2077652862545649664",
+            "3_2077652867725557760"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2077652873165623788",
+        "created_at": "2026-07-16T07:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077652873165623788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWSD3OzbB4",
+              "end": 31,
+              "expanded_url": "https://x.com/SONY846995/status/2077652873165623788/photo/1",
+              "media_key": "3_2077652846804443137",
+              "start": 8,
+              "url": "https://t.co/pWSD3OzbB4"
+            },
+            {
+              "display_url": "pic.x.com/pWSD3OzbB4",
+              "end": 31,
+              "expanded_url": "https://x.com/SONY846995/status/2077652873165623788/photo/1",
+              "media_key": "3_2077652862545649664",
+              "start": 8,
+              "url": "https://t.co/pWSD3OzbB4"
+            },
+            {
+              "display_url": "pic.x.com/pWSD3OzbB4",
+              "end": 31,
+              "expanded_url": "https://x.com/SONY846995/status/2077652873165623788/photo/1",
+              "media_key": "3_2077652867725557760",
+              "start": 8,
+              "url": "https://t.co/pWSD3OzbB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077652873165623788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水豚可愛😺❤️ https://t.co/pWSD3OzbB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 133,
+          "like_count": 6079,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 4977
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /  僅約日常出來玩 不約色  /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n\n互fo私信\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 63,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "廢文"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076347776183767040/B80YQAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 169,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "SONY846995",
+        "verified": true
+      }
+    ]
+  }
+}

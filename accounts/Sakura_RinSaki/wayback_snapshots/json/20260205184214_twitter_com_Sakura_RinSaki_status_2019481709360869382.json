@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2019393134615282102",
+    "created_at": "2026-02-05T18:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019481709360869382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1416088958690160640",
+          "start": 0,
+          "username": "wenjieweller"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019481709360869382",
+    "in_reply_to_user_id": "1416088958690160640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019463670028181743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenjieweller 好貪心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2019393134615282102",
+        "created_at": "2026-02-05T18:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019481709360869382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1416088958690160640",
+              "start": 0,
+              "username": "wenjieweller"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019481709360869382",
+        "in_reply_to_user_id": "1416088958690160640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019463670028181743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenjieweller 好貪心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416088958690160640",
+        "conversation_id": "2019393134615282102",
+        "created_at": "2026-02-05T17:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019463670028181743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019463670028181743",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019393134615282102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 所以呢你这是在求被爱吗？抱抱你但是你一定要表达直接了当说出来我想被爱我想去爱，我想用我表达我想被爱的方式去表达我想爱，所以我想去爱，因此我说我想被爱   \n我想被爱=我想去爱——我要去爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 67,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 765
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T17:35:03.000Z",
+        "description": "HEMA/he/she/ASD /ADHD/HSP/gifted/2e/mtf/🏳️‍⚧️/医学生/高度自闭/跨性别女同/社恐/不要再往下看了好害羞meow",
+        "id": "1416088958690160640",
+        "name": "永远睡不醒的喵⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015564776714207232/7CwAMtnC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 962,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 152
+        },
+        "username": "wenjieweller",
+        "verified": false
+      }
+    ]
+  }
+}

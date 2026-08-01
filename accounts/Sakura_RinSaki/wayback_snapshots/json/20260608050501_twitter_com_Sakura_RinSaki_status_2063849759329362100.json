@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2063681228319125692",
+    "created_at": "2026-06-08T05:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063849759329362100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108658732295028737",
+          "start": 0,
+          "username": "hatachi0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849759329362100",
+    "in_reply_to_user_id": "1108658732295028737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063681228319125692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatachi0525 撞撞腦袋！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063681225974575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOrJCPbcAAbeRh.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2063681228319125692",
+        "created_at": "2026-06-08T05:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849759329362100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849759329362100",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063681228319125692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 撞撞腦袋！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063681225974575104"
+          ]
+        },
+        "author_id": "1108658732295028737",
+        "conversation_id": "2063681228319125692",
+        "created_at": "2026-06-07T17:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063681228319125692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GfTW78Zog",
+              "end": 27,
+              "expanded_url": "https://x.com/hatachi0525/status/2063681228319125692/photo/1",
+              "media_key": "3_2063681225974575104",
+              "start": 4,
+              "url": "https://t.co/0GfTW78Zog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063681228319125692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死宅風 https://t.co/0GfTW78Zog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 114,
+          "like_count": 4632,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 4143
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "170/48\n2016.12.19取證/含糖起始日不可考\n\n泛性戀？/顏值控/母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 好感度99：https://t.co/1Jq2aF3HTE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Enallalela",
+                "end": 111,
+                "expanded_url": "https://x.com/Enallalela",
+                "start": 88,
+                "url": "https://t.co/1Jq2aF3HTE"
+              }
+            ]
+          }
+        },
+        "id": "1108658732295028737",
+        "location": "雌二醇星",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2059704438118613178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 104,
+          "like_count": 266,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 609
+        },
+        "username": "hatachi0525",
+        "verified": true
+      }
+    ]
+  }
+}

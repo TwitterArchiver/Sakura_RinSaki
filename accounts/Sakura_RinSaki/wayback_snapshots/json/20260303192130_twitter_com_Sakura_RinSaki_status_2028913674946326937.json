@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2028906310285332847",
+    "created_at": "2026-03-03T19:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T20:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028913674946326937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365963013304446979",
+          "start": 0,
+          "username": "newfolder0905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028913674946326937",
+    "in_reply_to_user_id": "1365963013304446979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028908899424948301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newfolder0905 覺得小孩子不成熟 然後變相不認同小孩子的自主權"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2028906310285332847",
+        "created_at": "2026-03-03T19:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028913674946326937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365963013304446979",
+              "start": 0,
+              "username": "newfolder0905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028913674946326937",
+        "in_reply_to_user_id": "1365963013304446979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028908899424948301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newfolder0905 覺得小孩子不成熟 然後變相不認同小孩子的自主權"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365963013304446979",
+        "conversation_id": "2028906310285332847",
+        "created_at": "2026-03-03T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028908899424948301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028908899424948301",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028906310285332847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 我覺得主要問題在現在制度下，對年紀小的人的風控問題\n因為制度要考慮家庭和社會學校關係，首先是怕出事\n患者付出的代價是發育窗口可能錯過，每個人的痛苦程度也不一致，用粗糙的方法分容易造成不精確判斷\n私藥如果講出來也會被一些不了解的人貼標籤，目的只是痛苦無處宣洩，卻要被說成「不成熟亂買」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 86,
+          "like_count": 1670,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1456
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:52:22.000Z",
+        "description": "20 y/o 🏳️‍⚧️跨女 hrt 台中",
+        "id": "1365963013304446979",
+        "location": "Taiwan",
+        "name": "未命名檔案夾",
+        "pinned_tweet_id": "1642773629506297857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703091266924482560/0tAHFBr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 405,
+          "like_count": 14680,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 2843
+        },
+        "username": "newfolder0905",
+        "verified": false
+      }
+    ]
+  }
+}

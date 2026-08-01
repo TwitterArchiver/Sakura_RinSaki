@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2040051700099379482",
+    "created_at": "2026-04-03T13:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040051700099379482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040051700099379482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "day 52. 從大學回到家了\n姆…… 今天跟爸爸聊天了 \n\n爸爸說他還是有一點重男輕女的觀念 沒辦法一時之間改過來 就是為什麼對咱比較多嚴格 對妹妹則比較鬆懈\n\n然後就是 很關注自己的謀生能力 因為爸爸看不到咱對於賺錢的渴望 自己過得太安逸了 沒有想要賺錢的動力 嗯…… \n\n很現實很現實的東西就是……\n就……  這樣子吧\n\n然後阿嬤 又來問自己有沒有要交女朋友 呃呃啊啊 還沒給阿嬤出櫃啊啊QAQ\n\n謝謝你們看到這一篇 絨絨的碎碎念"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "day 52. 從大學回到家了\n姆…… 今天跟爸爸聊天了 \n\n爸爸說他還是有一點重男輕女的觀念 沒辦法一時之間改過來 就是為什麼對咱比較多嚴格 對妹妹則比較鬆懈\n\n然後就是 很關注自己的謀生能力 因為爸爸看不到咱對於賺錢的渴望 自己過得太安逸了 沒有想要賺錢的動力 嗯…… \n\n很現實很現實的東西就是……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2040051700099379482",
+        "created_at": "2026-04-03T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040051700099379482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040051700099379482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "day 52. 從大學回到家了\n姆…… 今天跟爸爸聊天了 \n\n爸爸說他還是有一點重男輕女的觀念 沒辦法一時之間改過來 就是為什麼對咱比較多嚴格 對妹妹則比較鬆懈\n\n然後就是 很關注自己的謀生能力 因為爸爸看不到咱對於賺錢的渴望 自己過得太安逸了 沒有想要賺錢的動力 嗯…… \n\n很現實很現實的東西就是……\n就……  這樣子吧\n\n然後阿嬤 又來問自己有沒有要交女朋友 呃呃啊啊 還沒給阿嬤出櫃啊啊QAQ\n\n謝謝你們看到這一篇 絨絨的碎碎念"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "day 52. 從大學回到家了\n姆…… 今天跟爸爸聊天了 \n\n爸爸說他還是有一點重男輕女的觀念 沒辦法一時之間改過來 就是為什麼對咱比較多嚴格 對妹妹則比較鬆懈\n\n然後就是 很關注自己的謀生能力 因為爸爸看不到咱對於賺錢的渴望 自己過得太安逸了 沒有想要賺錢的動力 嗯…… \n\n很現實很現實的東西就是……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 101,
+          "like_count": 2785,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 2874
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

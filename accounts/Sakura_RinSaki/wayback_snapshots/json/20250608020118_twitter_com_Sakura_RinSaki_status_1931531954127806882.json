@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1931356701053288904",
+    "created_at": "2025-06-08T02:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T03:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931531954127806882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931531954127806882",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931356701053288904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 喵喵喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_1931356698347995136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2OrzOagAA-r0n.jpg",
+        "width": 1269
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1931356701053288904",
+        "created_at": "2025-06-08T02:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T03:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931531954127806882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931531954127806882",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931356701053288904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 喵喵喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931356698347995136"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "1931356701053288904",
+        "created_at": "2025-06-07T14:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931356701053288904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4d8OZ2U0Eg",
+              "end": 64,
+              "expanded_url": "https://x.com/sushiching_2006/status/1931356701053288904/photo/1",
+              "media_key": "3_1931356698347995136",
+              "start": 41,
+              "url": "https://t.co/4d8OZ2U0Eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931356701053288904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1147,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直接穿出來啦\n有夠害羞的&gt;\\\\\\&lt;\n感覺大家都在看 好可怕嗚嗚嗚 🥺 https://t.co/4d8OZ2U0Eg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 37,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 225
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "台中笨蛋準大學生\n❤：@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "寿司晴🍣",
+        "pinned_tweet_id": "1808048839485804733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881658654803599361/kKDyzfTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7607,
+          "following_count": 154,
+          "like_count": 15331,
+          "listed_count": 8,
+          "media_count": 50,
+          "tweet_count": 1478
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

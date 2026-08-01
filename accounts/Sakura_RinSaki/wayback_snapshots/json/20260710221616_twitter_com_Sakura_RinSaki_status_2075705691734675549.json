@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2072764070881849607",
+    "created_at": "2026-07-10T22:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075705691734675549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724348868585013248",
+          "start": 0,
+          "username": "kiriu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075705691734675549",
+    "in_reply_to_user_id": "1724348868585013248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072842983452606964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriu07 沒什麼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2072842981212884992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQ3tYJbEAA6Cje.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2072764070881849607",
+        "created_at": "2026-07-10T22:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075705691734675549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "kiriu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075705691734675549",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072842983452606964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriu07 沒什麼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072842981212884992"
+          ]
+        },
+        "author_id": "1724348868585013248",
+        "conversation_id": "2072764070881849607",
+        "created_at": "2026-07-03T00:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072842983452606964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpJRkH8kvA",
+              "end": 39,
+              "expanded_url": "https://x.com/kiriu07/status/2072842983452606964/photo/1",
+              "media_key": "3_2072842981212884992",
+              "start": 16,
+              "url": "https://t.co/NpJRkH8kvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072842983452606964",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072764070881849607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki https://t.co/NpJRkH8kvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 132,
+          "like_count": 5781,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4721
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 主帳號系統已進入警急狀態並去世(🍥) / 一切以網站為主 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,47kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwWeDV"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "location": "Taiwan Taipei",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021740981062971393/0ODalPMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 76,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/HyV8DwWeDV",
+        "username": "kiriu07",
+        "verified": false
+      }
+    ]
+  }
+}

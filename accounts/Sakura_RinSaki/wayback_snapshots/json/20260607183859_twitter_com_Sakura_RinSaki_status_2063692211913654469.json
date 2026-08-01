@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2063676333151162842",
+    "created_at": "2026-06-07T18:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063692211913654469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509808650512216065",
+          "start": 0,
+          "username": "Wmouse_kon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063692211913654469",
+    "in_reply_to_user_id": "1509808650512216065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063676333151162842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wmouse_kon 讓自己表現的像正常人一樣咪？\n\n因為一直負面會被異樣的看待嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2063676333151162842",
+        "created_at": "2026-06-07T18:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063692211913654469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509808650512216065",
+              "start": 0,
+              "username": "Wmouse_kon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063692211913654469",
+        "in_reply_to_user_id": "1509808650512216065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063676333151162842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wmouse_kon 讓自己表現的像正常人一樣咪？\n\n因為一直負面會被異樣的看待嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509808650512216065",
+        "conversation_id": "2063676333151162842",
+        "created_at": "2026-06-07T17:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063676333151162842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063676333151162842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大多数时间我都会在人面前表现的心情不错，但每当回想近期的状态，好像总是不太好？\n是因为不想让人担心嘛？还是不想让别人发现自己的负面情绪？我不知道\n\n感觉我貌似属于精力较低的人群？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 114,
+          "like_count": 4615,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 4139
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T08:23:42.000Z",
+        "description": "有些焦虑强迫│\n喜欢插画、游戏、音乐│\n希望身边的朋友天天开心│\n没人会关注电影片尾的致谢内容，除非电影本身精彩绝伦，所以我的朋友，人生最重要的是过程。│\n想发一些自己的碎碎念",
+        "id": "1509808650512216065",
+        "name": "锡鼠白茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509809920169893888/IGbHNkOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 350
+        },
+        "username": "Wmouse_kon",
+        "verified": false
+      }
+    ]
+  }
+}

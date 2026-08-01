@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2012409953126887522",
+    "created_at": "2026-01-17T14:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012533422443360413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012533422443360413",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012409953126887522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 偷拍就很過分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2012409953126887522",
+        "created_at": "2026-01-17T14:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012533422443360413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012533422443360413",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012409953126887522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 偷拍就很過分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2012409953126887522",
+        "created_at": "2026-01-17T06:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012409953126887522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8az_pap/status…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/8az_pap/status/2012070788703432758",
+              "start": 116,
+              "url": "https://t.co/69x5WuvKVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012409953126887522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "互动全是脑残，谁跟你们说这是amab的？？跟有病一样在那发癫是吧？一群跨子在那“这是跨子”，顺直在那“没错我一眼就看出来了”，在那一唱一和的，又打成一片了是吧？\n在那狗叫的顺直你眼瞎了？狗叫的跨子你说有跨味，哪呢??哪来的跨味？？\n这鱼板的受众不就是爱穿高饱和度oversize卫衣、T恤+低厚度过膝袜的空间妹？别人偷拍，又二次转载，然后一群人看见个鱼板不知道在那犯什么病是吧？？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10930,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012070788703432758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互动全是脑残，谁跟你们说这是amab的？？跟有病一样在那发癫是吧？一群跨子在那“这是跨子”，顺直在那“没错我一眼就看出来了”，在那一唱一和的，又打成一片了是吧？\n在那狗叫的顺直你眼瞎了？狗叫的跨子你说有跨味，哪呢??哪来的跨味？？ https://t.co/69x5WuvKVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 69,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 553
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "2006947643399065949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 225,
+          "like_count": 2390,
+          "listed_count": 9,
+          "media_count": 3621,
+          "tweet_count": 12410
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

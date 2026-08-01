@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013713001585500160"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2012840359949152289",
+    "created_at": "2026-01-20T20:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T21:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013713015288537313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4LdtoIkYab",
+          "end": 57,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2013713015288537313/photo/1",
+          "media_key": "3_2013713001585500160",
+          "start": 34,
+          "url": "https://t.co/4LdtoIkYab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013713015288537313",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012840359949152289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 她 QAQ 所以他們知道…… 她是被送進來扭轉的 https://t.co/4LdtoIkYab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013713001585500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_IlTksW4AAGR1E.jpg",
+        "width": 904
+      },
+      {
+        "height": 829,
+        "media_key": "3_2012840351615127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8LoqOXkAAyu0Q.jpg",
+        "width": 649
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012839539094503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8K5XWWwAAN0i8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013713001585500160"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012840359949152289",
+        "created_at": "2026-01-20T20:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T21:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013713015288537313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LdtoIkYab",
+              "end": 57,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2013713015288537313/photo/1",
+              "media_key": "3_2013713001585500160",
+              "start": 34,
+              "url": "https://t.co/4LdtoIkYab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013713015288537313",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012840359949152289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 她 QAQ 所以他們知道…… 她是被送進來扭轉的 https://t.co/4LdtoIkYab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012840351615127552",
+            "3_2012839539094503424"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012840359949152289",
+        "created_at": "2026-01-18T10:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:48:40.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012839551744794848",
+          "2012840123717808249",
+          "2012840359949152289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zisQ8AhBLt",
+              "end": 51,
+              "expanded_url": "https://x.com/FJUNNNN/status/2012840359949152289/photo/1",
+              "media_key": "3_2012840351615127552",
+              "start": 28,
+              "url": "https://t.co/zisQ8AhBLt"
+            },
+            {
+              "display_url": "pic.x.com/zisQ8AhBLt",
+              "end": 51,
+              "expanded_url": "https://x.com/FJUNNNN/status/2012840359949152289/photo/1",
+              "media_key": "3_2012839539094503424",
+              "start": 28,
+              "url": "https://t.co/zisQ8AhBLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012840359949152289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 387545,
+          "like_count": 640,
+          "quote_count": 13,
+          "reply_count": 79,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "emmmmm\n矫正机构还拍上续集了_(´ཀ`」 ∠)_ https://t.co/zisQ8AhBLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 63,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 587
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 702,
+          "like_count": 1689,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 504
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

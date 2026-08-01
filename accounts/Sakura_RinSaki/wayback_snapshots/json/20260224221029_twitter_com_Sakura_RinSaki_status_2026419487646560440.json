@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2026418401464496461",
+    "created_at": "2026-02-24T22:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T23:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026419487646560440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026419487646560440",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026418401464496461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想寫小說 想做漫畫 想弄音樂 但但但 自己好沒有自信 帶出一個充滿自己想法的作品 也沒人會喜歡吧 唉唉 給自己自信啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2026418401464496461",
+        "created_at": "2026-02-24T22:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026419487646560440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026419487646560440",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026418401464496461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想寫小說 想做漫畫 想弄音樂 但但但 自己好沒有自信 帶出一個充滿自己想法的作品 也沒人會喜歡吧 唉唉 給自己自信啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2026418401464496461",
+        "created_at": "2026-02-24T22:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026418401464496461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026418401464496461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想創作好像創作好像創作\n\n雖然被家人打槍過 但還是 好想創作QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 74,
+          "like_count": 1310,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1094
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

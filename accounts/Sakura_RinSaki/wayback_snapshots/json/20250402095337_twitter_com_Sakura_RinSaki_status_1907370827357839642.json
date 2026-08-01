@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907370818977607680"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "1907370827357839642",
+    "created_at": "2025-04-02T09:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907370827357839642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UKZjUavit",
+          "end": 75,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/1907370827357839642/photo/1",
+          "media_key": "3_1907370818977607680",
+          "start": 52,
+          "url": "https://t.co/0UKZjUavit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907370827357839642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天同學問咱說\n「 為什麼要把腿腿弄這麼乾淨是不是有什麼目的」\n\n當然有呀 這樣子才能拍好看的照片^^ https://t.co/0UKZjUavit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1907370818977607680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhXp3gbMAA1cV0.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907370818977607680"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "1907370827357839642",
+        "created_at": "2025-04-02T09:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907370827357839642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UKZjUavit",
+              "end": 75,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1907370827357839642/photo/1",
+              "media_key": "3_1907370818977607680",
+              "start": 52,
+              "url": "https://t.co/0UKZjUavit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907370827357839642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天同學問咱說\n「 為什麼要把腿腿弄這麼乾淨是不是有什麼目的」\n\n當然有呀 這樣子才能拍好看的照片^^ https://t.co/0UKZjUavit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨隱藏\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 21,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

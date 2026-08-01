@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2024849530664149331",
+    "created_at": "2026-02-21T11:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025176908724609318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025176908724609318",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024849530664149331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 何意味 ！！ 然後！！羨慕有市場"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2024849530664149331",
+        "created_at": "2026-02-21T11:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025176908724609318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025176908724609318",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024849530664149331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 何意味 ！！ 然後！！羨慕有市場"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430312926737354753",
+        "conversation_id": "2024849530664149331",
+        "created_at": "2026-02-20T14:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024849530664149331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024849530664149331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1905,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人想買小晴尿布嗎....嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 72,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1030
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "有證含糖🍥，是19y的貓貓吶❤️\n座標：台中 歡迎線下貼貼！！😺\n@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "你的人格裡",
+        "name": "小晴是逆天醬喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1996790764144398397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023309371909042177/veAgsiEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10921,
+          "following_count": 171,
+          "like_count": 17542,
+          "listed_count": 12,
+          "media_count": 35,
+          "tweet_count": 307
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1913190200827593105",
+    "created_at": "2025-04-19T00:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T01:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913394796078764244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821290197893758976",
+          "start": 0,
+          "username": "IntegritasNyssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913394796078764244",
+    "in_reply_to_user_id": "1821290197893758976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913190200827593105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntegritasNyssa 有人為了改變自己 吃藥 手術 疼痛 卻有人只是因為找不到樂趣 而把樂趣建立在別人之上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_1913190192737099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0EWAHbIAAvXvK.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1913190200827593105",
+        "created_at": "2025-04-19T00:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T01:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913394796078764244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821290197893758976",
+              "start": 0,
+              "username": "IntegritasNyssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913394796078764244",
+        "in_reply_to_user_id": "1821290197893758976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913190200827593105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntegritasNyssa 有人為了改變自己 吃藥 手術 疼痛 卻有人只是因為找不到樂趣 而把樂趣建立在別人之上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913190192737099776"
+          ]
+        },
+        "author_id": "1821290197893758976",
+        "conversation_id": "1913190200827593105",
+        "created_at": "2025-04-18T11:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T12:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913190200827593105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZW8c8y0uLt",
+              "end": 23,
+              "expanded_url": "https://x.com/IntegritasNyssa/status/1913190200827593105/photo/1",
+              "media_key": "3_1913190192737099776",
+              "start": 0,
+              "url": "https://t.co/ZW8c8y0uLt"
+            },
+            {
+              "display_url": "x.com/mengqing8964/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mengqing8964/status/1912814347010920944",
+              "start": 24,
+              "url": "https://t.co/pX8vME6arM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913190200827593105",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 25441,
+          "like_count": 357,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912814347010920944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZW8c8y0uLt https://t.co/pX8vME6arM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 30,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 130
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T21:00:04.000Z",
+        "description": "feel free to harass me, I'm bored",
+        "id": "1821290197893758976",
+        "location": "Zug, Switzerland",
+        "name": "Integritas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821290294555398144/6koKjFus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 262,
+          "like_count": 14806,
+          "listed_count": 1,
+          "media_count": 874,
+          "tweet_count": 5762
+        },
+        "username": "IntegritasNyssa",
+        "verified": false
+      }
+    ]
+  }
+}

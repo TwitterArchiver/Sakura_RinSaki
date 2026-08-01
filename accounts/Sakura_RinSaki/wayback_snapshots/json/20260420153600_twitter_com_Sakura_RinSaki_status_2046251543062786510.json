@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046251467724697600"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046251543062786510",
+    "created_at": "2026-04-20T15:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046251543062786510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbavivLOmK",
+          "end": 29,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2046251543062786510/photo/1",
+          "media_key": "3_2046251467724697600",
+          "start": 6,
+          "url": "https://t.co/lbavivLOmK"
+        },
+        {
+          "display_url": "x.com/Sakura_RinSaki…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2045734281872560237",
+          "start": 30,
+          "url": "https://t.co/0WN0k508Bs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046251543062786510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045734281872560237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第三天玩~ https://t.co/lbavivLOmK https://t.co/0WN0k508Bs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2046251467724697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW-3k7aMAAjtBR.jpg",
+        "width": 1511
+      },
+      {
+        "height": 488,
+        "media_key": "3_2045734239115911168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPoc6NboAAysf_.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046251467724697600"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046251543062786510",
+        "created_at": "2026-04-20T15:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046251543062786510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbavivLOmK",
+              "end": 29,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2046251543062786510/photo/1",
+              "media_key": "3_2046251467724697600",
+              "start": 6,
+              "url": "https://t.co/lbavivLOmK"
+            },
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2045734281872560237",
+              "start": 30,
+              "url": "https://t.co/0WN0k508Bs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046251543062786510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045734281872560237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三天玩~ https://t.co/lbavivLOmK https://t.co/0WN0k508Bs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045734239115911168"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045734281872560237",
+        "created_at": "2026-04-19T05:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045734281872560237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjGbVNhFP6",
+              "end": 29,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2045734281872560237/photo/1",
+              "media_key": "3_2045734239115911168",
+              "start": 6,
+              "url": "https://t.co/XjGbVNhFP6"
+            },
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2045241022456950983",
+              "start": 30,
+              "url": "https://t.co/h1GBaJYZYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045734281872560237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045241022456950983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二天玩~ https://t.co/XjGbVNhFP6 https://t.co/h1GBaJYZYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 88,
+          "like_count": 3277,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 3124
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

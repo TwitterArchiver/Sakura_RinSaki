@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2015820283635277911",
+    "created_at": "2026-01-26T16:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015820283635277911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015820283635277911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天早上10.要直接帶爸爸陪咱去中國醫 hhh\n看能不能直接開證+拿藥\n咕咕咕  臭直男爸爸 一點共感能力都沒有 會不會到醫院的時候 直接炸櫃呢？\n\n唉這樣子做對不對呢……\n\n兩年前的9月第一次知道跨圈這種東西 那時候就 後悔沒吃了 結果拖了這麼久 還是一樣的想法 想早點吃糖 果然 越晚吃越後悔呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2015820283635277911",
+        "created_at": "2026-01-26T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015820283635277911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015820283635277911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天早上10.要直接帶爸爸陪咱去中國醫 hhh\n看能不能直接開證+拿藥\n咕咕咕  臭直男爸爸 一點共感能力都沒有 會不會到醫院的時候 直接炸櫃呢？\n\n唉這樣子做對不對呢……\n\n兩年前的9月第一次知道跨圈這種東西 那時候就 後悔沒吃了 結果拖了這麼久 還是一樣的想法 想早點吃糖 果然 越晚吃越後悔呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 64,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 690
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

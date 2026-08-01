@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988070444390604800"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "1988070452930244622",
+    "created_at": "2025-11-11T02:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988070452930244622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cEsahGYG34",
+          "end": 156,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/1988070452930244622/photo/1",
+          "media_key": "3_1988070444390604800",
+          "start": 133,
+          "url": "https://t.co/cEsahGYG34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988070452930244622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（被脆刪掉了 來這裡發好了）\n關於自殘\n\n很多人第一印象都是割手手\n\n我是個只要腦袋有很負面的情緒 就會找東西撞腦袋或用手手用力敲腦袋\n因為我認為我會負面是因為前額葉在作祟\n\n但有一次在同學面前這樣子做的時候，就被駡說這樣子跟自殘有什麼兩樣，所以，真的沒兩樣嗎…… https://t.co/cEsahGYG34"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1988070444390604800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cLiTJa4AADQt4.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988070444390604800"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "1988070452930244622",
+        "created_at": "2025-11-11T02:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988070452930244622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEsahGYG34",
+              "end": 156,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1988070452930244622/photo/1",
+              "media_key": "3_1988070444390604800",
+              "start": 133,
+              "url": "https://t.co/cEsahGYG34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988070452930244622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（被脆刪掉了 來這裡發好了）\n關於自殘\n\n很多人第一印象都是割手手\n\n我是個只要腦袋有很負面的情緒 就會找東西撞腦袋或用手手用力敲腦袋\n因為我認為我會負面是因為前額葉在作祟\n\n但有一次在同學面前這樣子做的時候，就被駡說這樣子跟自殘有什麼兩樣，所以，真的沒兩樣嗎…… https://t.co/cEsahGYG34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 63,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 415
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

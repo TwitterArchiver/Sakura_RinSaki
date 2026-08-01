@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048706362591572206",
+    "created_at": "2026-04-29T00:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T01:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049286881695989788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1373596163723567112",
+          "start": 0,
+          "username": "AC_Aqua_Crew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049286881695989788",
+    "in_reply_to_user_id": "1373596163723567112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048803810190275067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AC_Aqua_Crew 超絕頂級身體~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048706362591572206",
+        "created_at": "2026-04-29T00:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049286881695989788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1373596163723567112",
+              "start": 0,
+              "username": "AC_Aqua_Crew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049286881695989788",
+        "in_reply_to_user_id": "1373596163723567112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048803810190275067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AC_Aqua_Crew 超絕頂級身體~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373596163723567112",
+        "conversation_id": "2048706362591572206",
+        "created_at": "2026-04-27T16:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048803810190275067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048803810190275067",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048706362591572206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 超絕頂級作息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 92,
+          "like_count": 3516,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 3240
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T11:23:56.000Z",
+        "description": "幾乎只有轉推跟留言，偶爾發瘋 | OK: 線下(交朋友)/私訊聊天/給點陪伴 | NG: 意義不明的私訊(包括只說你好)/詐騙/外貌協會(主要是我也不好看) | 自介網頁→https://t.co/wPHksIQbE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "about-me.ac-for-personal.com",
+                "end": 109,
+                "expanded_url": "http://about-me.ac-for-personal.com/",
+                "start": 86,
+                "url": "https://t.co/wPHksIQbE3"
+              }
+            ]
+          }
+        },
+        "id": "1373596163723567112",
+        "location": "from tw",
+        "name": "AC(Aqua Crew)あくあクルー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679760289552805888/_4c6cgLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 103,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 166
+        },
+        "username": "AC_Aqua_Crew",
+        "verified": false
+      }
+    ]
+  }
+}

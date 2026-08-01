@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053024627392491525",
+    "created_at": "2026-05-09T10:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053061177996181605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1373596163723567112",
+          "start": 0,
+          "username": "AC_Aqua_Crew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053061177996181605",
+    "in_reply_to_user_id": "1373596163723567112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053024627392491525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AC_Aqua_Crew 揉揉你……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053024627392491525",
+        "created_at": "2026-05-09T10:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053061177996181605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1373596163723567112",
+              "start": 0,
+              "username": "AC_Aqua_Crew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053061177996181605",
+        "in_reply_to_user_id": "1373596163723567112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053024627392491525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AC_Aqua_Crew 揉揉你……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373596163723567112",
+        "conversation_id": "2053024627392491525",
+        "created_at": "2026-05-09T08:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053024627392491525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053024627392491525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是不喜歡，只是放棄ㄌ...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨 吸血喵喵\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 97,
+          "like_count": 4072,
+          "listed_count": 7,
+          "media_count": 215,
+          "tweet_count": 3641
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T11:23:56.000Z",
+        "description": "幾乎只有轉推跟留言，偶爾發瘋 | OK: 線下(交朋友)/私訊聊天/給點陪伴 | NG: 意義不明的私訊(包括只說你好)/詐騙/外貌協會(主要是我也不好看) | 自介網頁→https://t.co/wPHksIQbE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "about-me.ac-for-personal.com",
+                "end": 109,
+                "expanded_url": "http://about-me.ac-for-personal.com/",
+                "start": 86,
+                "url": "https://t.co/wPHksIQbE3"
+              }
+            ]
+          }
+        },
+        "id": "1373596163723567112",
+        "location": "from tw",
+        "name": "AC(Aqua Crew)あくあクルー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679760289552805888/_4c6cgLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 104,
+          "like_count": 4269,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 222
+        },
+        "username": "AC_Aqua_Crew",
+        "verified": false
+      }
+    ]
+  }
+}

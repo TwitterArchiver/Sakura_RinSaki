@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2073383189356421206",
+    "created_at": "2026-07-07T03:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074342003375288360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724348868585013248",
+          "start": 0,
+          "username": "kiriu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074342003375288360",
+    "in_reply_to_user_id": "1724348868585013248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073920247963566503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriu07 唔…… 難得找到不良嗜好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2073920245996380160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgLecMa4AAe8P1.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2073383189356421206",
+        "created_at": "2026-07-07T03:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074342003375288360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "kiriu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074342003375288360",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073920247963566503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriu07 唔…… 難得找到不良嗜好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073920245996380160"
+          ]
+        },
+        "author_id": "1724348868585013248",
+        "conversation_id": "2073383189356421206",
+        "created_at": "2026-07-06T00:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073920247963566503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLbbikgm5a",
+              "end": 45,
+              "expanded_url": "https://x.com/kiriu07/status/2073920247963566503/photo/1",
+              "media_key": "3_2073920245996380160",
+              "start": 22,
+              "url": "https://t.co/TLbbikgm5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073920247963566503",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073383189356421206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 食鹽成癮症 https://t.co/TLbbikgm5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 129,
+          "like_count": 5727,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4678
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 主帳號系統已進入警急狀態並去世(🍥) / 一切以網站為主 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,47kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwWeDV"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "location": "Taiwan Taipei",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021740981062971393/0ODalPMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 75,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/HyV8DwWeDV",
+        "username": "kiriu07",
+        "verified": false
+      }
+    ]
+  }
+}

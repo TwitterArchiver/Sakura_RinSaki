@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077289976941998437",
+    "created_at": "2026-07-15T07:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077301742996492644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077301742996492644",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077289976941998437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 防曬防曬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077289944369008640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQEMs2bEAAD4zA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077289976941998437",
+        "created_at": "2026-07-15T07:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077301742996492644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077301742996492644",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077289976941998437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 防曬防曬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077289944369008640"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2077289976941998437",
+        "created_at": "2026-07-15T07:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077289976941998437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fD2F8bcHf",
+              "end": 54,
+              "expanded_url": "https://x.com/SONY846995/status/2077289976941998437/photo/1",
+              "media_key": "3_2077289944369008640",
+              "start": 31,
+              "url": "https://t.co/1fD2F8bcHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077289976941998437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天氣好好🏖️\n來學衝浪～⁠(⁠つ⁠ˆ⁠Д⁠ˆ⁠)⁠つ⁠｡⁠☆ https://t.co/1fD2F8bcHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 133,
+          "like_count": 6057,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 4956
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /  僅約日常出來玩 不約色  /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n\n互fo私信\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 63,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "廢文"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076347776183767040/B80YQAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 169,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 1500
+        },
+        "url": "",
+        "username": "SONY846995",
+        "verified": true
+      }
+    ]
+  }
+}

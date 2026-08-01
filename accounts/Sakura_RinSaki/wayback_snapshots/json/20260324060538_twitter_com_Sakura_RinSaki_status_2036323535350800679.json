@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2035890965693812995",
+    "created_at": "2026-03-24T06:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036323535350800679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028509490119864324",
+          "start": 0,
+          "username": "Yuhane_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036323535350800679",
+    "in_reply_to_user_id": "2028509490119864324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036083516124041692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuhane_ZZZ （抱住）\n姆…… 情緒能發洩出來是好事情 如果可以 可以試試看更好一點的方法喔 盡量以不傷害人為原則！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2035890965693812995",
+        "created_at": "2026-03-24T06:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036323535350800679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028509490119864324",
+              "start": 0,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036323535350800679",
+        "in_reply_to_user_id": "2028509490119864324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036083516124041692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuhane_ZZZ （抱住）\n姆…… 情緒能發洩出來是好事情 如果可以 可以試試看更好一點的方法喔 盡量以不傷害人為原則！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028509490119864324",
+        "conversation_id": "2035890965693812995",
+        "created_at": "2026-03-23T14:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036083516124041692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036083516124041692",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035944166707105890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 呜绒绒…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 99,
+          "like_count": 2433,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 2689
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T16:38:24.000Z",
+        "description": "舞萌吃/音击吃/珠洲岛有栖厨/emu厨/总是好困w…/喜欢可爱的说话方式和颜文字/ESFP/顺女/＝幻霭澪愿/视成分互fo/最喜欢的宝宝@hydrogen_nia/神秘小号@mione_awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "hydrogen_nia"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "mione_awa"
+              }
+            ]
+          }
+        },
+        "id": "2028509490119864324",
+        "location": "奏坂学园",
+        "name": "星奏谷 夢羽_ほしかなや ゆはね",
+        "pinned_tweet_id": "2029106548501524686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028510415190388743/wWHAIIEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 69,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 430
+        },
+        "username": "Yuhane_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

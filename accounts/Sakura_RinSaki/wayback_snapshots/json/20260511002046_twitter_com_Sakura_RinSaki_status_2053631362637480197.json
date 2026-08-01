@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053359364703211965",
+    "created_at": "2026-05-11T00:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053631362637480197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446039940672868355",
+          "start": 0,
+          "username": "ChiStardust2112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053631362637480197",
+    "in_reply_to_user_id": "1446039940672868355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053465369990533550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiStardust2112 也揉揉你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053359364703211965",
+        "created_at": "2026-05-11T00:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053631362637480197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446039940672868355",
+              "start": 0,
+              "username": "ChiStardust2112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053631362637480197",
+        "in_reply_to_user_id": "1446039940672868355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053465369990533550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiStardust2112 也揉揉你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446039940672868355",
+        "conversation_id": "2053359364703211965",
+        "created_at": "2026-05-10T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053465369990533550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053465369990533550",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053359364703211965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 我大学的时候分新宿舍，第一个月还能勉强应付后面就不行了。在宿舍里很痛苦，一点声音我就会心脏砰砰直跳，我尽量卡点十点半回去，回去就躲在床上，带着两个耳机一个入耳一个头戴，每天凌晨一两点睡觉，早上六点起来，整个人都不好。后来得了慢性病，索性在家里呆着了，只去学校考试。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨 吸血喵喵\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 100,
+          "like_count": 4184,
+          "listed_count": 7,
+          "media_count": 215,
+          "tweet_count": 3713
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-07T09:09:43.000Z",
+        "description": "天生万物以养人，人无一善以报天， \n杀！杀！杀！杀！杀！杀！杀！",
+        "id": "1446039940672868355",
+        "location": "冰河时代冰川区",
+        "name": "Dekw Dekw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726043124445982720/k_Cy3bK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 258,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 293
+        },
+        "username": "ChiStardust2112",
+        "verified": false
+      }
+    ]
+  }
+}

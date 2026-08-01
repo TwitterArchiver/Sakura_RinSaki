@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2055049144256090467",
+    "created_at": "2026-05-15T08:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055199210048491964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1523281813195558914",
+          "start": 0,
+          "username": "lisa_lina_14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055199210048491964",
+    "in_reply_to_user_id": "1523281813195558914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055049144256090467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lisa_lina_14 生日快惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2055049138195382272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUATZYbwAApYoK.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2055049144256090467",
+        "created_at": "2026-05-15T08:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055199210048491964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1523281813195558914",
+              "start": 0,
+              "username": "lisa_lina_14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055199210048491964",
+        "in_reply_to_user_id": "1523281813195558914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055049144256090467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisa_lina_14 生日快惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055049138195382272"
+          ]
+        },
+        "author_id": "1523281813195558914",
+        "conversation_id": "2055049144256090467",
+        "created_at": "2026-05-14T22:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055049144256090467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/do0J3qxRuZ",
+              "end": 44,
+              "expanded_url": "https://x.com/lisa_lina_14/status/2055049144256090467/photo/1",
+              "media_key": "3_2055049138195382272",
+              "start": 21,
+              "url": "https://t.co/do0J3qxRuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055049144256090467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1136,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "請對我說那四個字⌯&gt;𖥦&lt;⌯ಣ https://t.co/do0J3qxRuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 102,
+          "like_count": 4360,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 3848
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-08T12:41:13.000Z",
+        "description": "主推朔Sakuro/ENFJ/有事沒事也會發一些cos照 歡迎大家來認識我🫰🏻這裡可以看到話很多的玥婷  @yt_0515",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yt_0515"
+              }
+            ]
+          }
+        },
+        "id": "1523281813195558914",
+        "name": "玥婷婷婷婷婷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931403417618186240/CsXKSCGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 289,
+          "like_count": 17522,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 3197
+        },
+        "username": "lisa_lina_14",
+        "verified": false
+      }
+    ]
+  }
+}

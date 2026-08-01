@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074628480688627915",
+    "created_at": "2026-07-08T02:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074679711016595871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        },
+        {
+          "end": 20,
+          "id": "221020818",
+          "start": 11,
+          "username": "GanYuluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074679711016595871",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074628480688627915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo @GanYuluo 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074628466709012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqPmT8aoAAi5ZE.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074628480688627915",
+        "created_at": "2026-07-08T02:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074679711016595871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            },
+            {
+              "end": 20,
+              "id": "221020818",
+              "start": 11,
+              "username": "GanYuluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074679711016595871",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074628480688627915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo @GanYuluo 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074628466709012480"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2074628480688627915",
+        "created_at": "2026-07-07T22:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074628480688627915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "221020818",
+              "start": 0,
+              "username": "GanYuluo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVzditJNFb",
+              "end": 46,
+              "expanded_url": "https://x.com/liulingyo/status/2074628480688627915/photo/1",
+              "media_key": "3_2074628466709012480",
+              "start": 23,
+              "url": "https://t.co/AVzditJNFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074628480688627915",
+        "in_reply_to_user_id": "221020818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@GanYuluo 和对象深圳面基成功😋😈🥵 https://t.co/AVzditJNFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 131,
+          "like_count": 5737,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4691
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "mtf，19，175，55，性取向男，简/繁中，日语，hrt🍥2024.10，对象：@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "浙",
+        "name": "悠悠🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2062696310688682230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071264803205906432/7GHE-cjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 1030,
+          "like_count": 4007,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-29T14:31:30.000Z",
+        "description": "mtx 断糖中 不混圈只关注对象@liulingyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "liulingyo"
+              }
+            ]
+          }
+        },
+        "id": "221020818",
+        "location": "colombia",
+        "name": "甘雨洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071254843872997376/ezh1rNPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 1,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "GanYuluo",
+        "verified": false
+      }
+    ]
+  }
+}

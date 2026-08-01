@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047602776163991552"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2044454591430070404",
+    "created_at": "2026-04-24T09:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047602778030452748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377860792599519237",
+          "start": 0,
+          "username": "alexder51947745"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mr0HOP9X0E",
+          "end": 40,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2047602778030452748/photo/1",
+          "media_key": "3_2047602776163991552",
+          "start": 17,
+          "url": "https://t.co/Mr0HOP9X0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047602778030452748",
+    "in_reply_to_user_id": "1377860792599519237",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044691980375204223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexder51947745 https://t.co/Mr0HOP9X0E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 76,
+        "media_key": "3_2047602776163991552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqL4FJbwAAhHCu.jpg",
+        "width": 228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047602776163991552"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2044454591430070404",
+        "created_at": "2026-04-24T09:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047602778030452748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mr0HOP9X0E",
+              "end": 40,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2047602778030452748/photo/1",
+              "media_key": "3_2047602776163991552",
+              "start": 17,
+              "url": "https://t.co/Mr0HOP9X0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047602778030452748",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044691980375204223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 https://t.co/Mr0HOP9X0E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377860792599519237",
+        "conversation_id": "2044454591430070404",
+        "created_at": "2026-04-16T08:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044691980375204223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044691980375204223",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044454591430070404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 超级可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 90,
+          "like_count": 3337,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3152
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 3153,
+          "like_count": 201521,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 10461
+        },
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

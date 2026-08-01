@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2009036880923525307",
+    "created_at": "2026-01-07T22:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T23:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009036880923525307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sushiching_200…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/sushiching_2006/status/2008433239548194845",
+          "start": 24,
+          "url": "https://t.co/oERTirdxH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009036880923525307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008433239548194845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好嫉妒别人啊，嫉妒他们为什么能过那么好的人生 https://t.co/oERTirdxH2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2009036880923525307",
+        "created_at": "2026-01-07T22:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T23:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009036880923525307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sushiching_200…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sushiching_2006/status/2008433239548194845",
+              "start": 24,
+              "url": "https://t.co/oERTirdxH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009036880923525307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008433239548194845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好嫉妒别人啊，嫉妒他们为什么能过那么好的人生 https://t.co/oERTirdxH2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430312926737354753",
+        "conversation_id": "2008433239548194845",
+        "created_at": "2026-01-06T06:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008433239548194845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngffaBang/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1997632740825485780",
+              "start": 24,
+              "url": "https://t.co/jkUuAx3amW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008433239548194845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997632740825485780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好嫉妒别人啊，嫉妒他们为什么能过那么好的人生 https://t.co/jkUuAx3amW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 65,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 515
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "小晴是銀漸層喵",
+        "pinned_tweet_id": "1993122952259490267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005704757080686592/pUpGc5Zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10550,
+          "following_count": 103,
+          "like_count": 16842,
+          "listed_count": 11,
+          "media_count": 66,
+          "tweet_count": 436
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

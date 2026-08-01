@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2062602475321069939",
+    "created_at": "2026-06-05T03:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062740106772160730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688015387663949824",
+          "start": 0,
+          "username": "TOWinZH_CN"
+        },
+        {
+          "end": 21,
+          "id": "1587787644419072000",
+          "start": 12,
+          "username": "OwO_yude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062740106772160730",
+    "in_reply_to_user_id": "1688015387663949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062645587435229634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOWinZH_CN @OwO_yude 台灣這邊比較容易買"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2062602475321069939",
+        "created_at": "2026-06-05T03:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062740106772160730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688015387663949824",
+              "start": 0,
+              "username": "TOWinZH_CN"
+            },
+            {
+              "end": 21,
+              "id": "1587787644419072000",
+              "start": 12,
+              "username": "OwO_yude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062740106772160730",
+        "in_reply_to_user_id": "1688015387663949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062645587435229634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOWinZH_CN @OwO_yude 台灣這邊比較容易買"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688015387663949824",
+        "conversation_id": "2062602475321069939",
+        "created_at": "2026-06-04T21:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062645587435229634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587787644419072000",
+              "start": 0,
+              "username": "OwO_yude"
+            },
+            {
+              "end": 25,
+              "id": "1898849785559580672",
+              "start": 10,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062645587435229634",
+        "in_reply_to_user_id": "1587787644419072000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062637186558877813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwO_yude @Sakura_RinSaki 亚硝酸钠也不是随随便便就能买的，真想快点结束还是得物理损伤，对，我是说跳楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 113,
+          "like_count": 4617,
+          "listed_count": 8,
+          "media_count": 241,
+          "tweet_count": 4110
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T02:33:34.000Z",
+        "description": "某19INFP/双相情感障碍/休学中/自学各种东西中/日常推~/计算机领域笨蛋大猫咪/不可以鉴证/缺觉但睡不着ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.towdesite.top",
+                "end": 23,
+                "expanded_url": "https://blog.towdesite.top/",
+                "start": 0,
+                "url": "https://t.co/8qsI49I7s3"
+              }
+            ]
+          }
+        },
+        "id": "1688015387663949824",
+        "name": "TOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906937186551058432/aIBGuDqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 201,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/8qsI49I7s3",
+        "username": "TOWinZH_CN",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:44:18.000Z",
+        "description": "MtF 持大證含糖\nhrt|2019/03/27|依舊我大急診室牛逼\n寶貝: @moexi_neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "moexi_neko"
+              }
+            ]
+          }
+        },
+        "id": "1587787644419072000",
+        "location": "taiwan",
+        "name": "Hoshimiya ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062666398594441216/31qJh3gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 197,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "OwO_yude",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1989613485421175052",
+    "created_at": "2025-11-15T11:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989649708797837379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        },
+        {
+          "end": 32,
+          "id": "1430312926737354753",
+          "start": 16,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989649708797837379",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989613485421175052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki @sushiching_2006 浩想去 😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989613471877795842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yG6UebkAIXFmz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989613471860924416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yG6UaaIAAB3gH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1989613485421175052",
+        "created_at": "2025-11-15T11:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989649708797837379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 32,
+              "id": "1430312926737354753",
+              "start": 16,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989649708797837379",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989613485421175052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki @sushiching_2006 浩想去 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989613471877795842",
+            "3_1989613471860924416"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989613485421175052",
+        "created_at": "2025-11-15T08:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989613485421175052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4a2SSOtpEa",
+              "end": 31,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1989613485421175052/photo/1",
+              "media_key": "3_1989613471877795842",
+              "start": 8,
+              "url": "https://t.co/4a2SSOtpEa"
+            },
+            {
+              "display_url": "pic.x.com/4a2SSOtpEa",
+              "end": 31,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1989613485421175052/photo/1",
+              "media_key": "3_1989613471860924416",
+              "start": 8,
+              "url": "https://t.co/4a2SSOtpEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989613485421175052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打舞萌、搞抽象 https://t.co/4a2SSOtpEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 64,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 435
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年持证含糖｜INFP-T｜168 50｜xyn｜天赋党｜ 药攻｜N1考取中｜造t｜同类私信互fo🏳️‍⚧️｜@WangPu90983｜妈妈@BloodCatOvO｜妹妹 @Littlecat111007 ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqMt6n"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985023762073595904/ldfYn_gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 580,
+          "like_count": 12968,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/N9KjiqMt6n",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "HRT:2025 10/07🍥\n座標：台中 沙鹿/南屯\n可線下同類貼貼！（但有點社恐 請見諒）\n但還是可以約我吃飯逛逛啥的(⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠｡⁠∩⁠`⁠)\n 裏帳？：@chingmiao_2006",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 92,
+                "username": "chingmiao_2006"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "青日午言🍥",
+        "pinned_tweet_id": "1985299401963892823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986871229744390144/MzROQUUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9088,
+          "following_count": 202,
+          "like_count": 15905,
+          "listed_count": 10,
+          "media_count": 70,
+          "tweet_count": 1717
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

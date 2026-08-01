@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2014669045715632387",
+    "created_at": "2026-01-24T09:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014987699397251453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808726116842229762",
+          "start": 0,
+          "username": "ahuang70378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014987699397251453",
+    "in_reply_to_user_id": "1808726116842229762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014762234409582902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahuang70378 姆唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2014669045715632387",
+        "created_at": "2026-01-24T09:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014987699397251453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808726116842229762",
+              "start": 0,
+              "username": "ahuang70378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014987699397251453",
+        "in_reply_to_user_id": "1808726116842229762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014762234409582902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahuang70378 姆唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808726116842229762",
+        "conversation_id": "2014669045715632387",
+        "created_at": "2026-01-23T18:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014762234409582902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014762234409582902",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014669045715632387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki rua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 64,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 670
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T04:54:56.000Z",
+        "description": "06/192cm/68kg\n男娘，加阿皇qq的条件，满足以下任意一点①明日方舟120级②kards大佬③男娘。阿皇的情商不是很高，而且阿皇不怎么喜欢理人，所以加了我之后可能会很无聊",
+        "id": "1808726116842229762",
+        "location": "-18cm",
+        "name": "阿皇(限流中）",
+        "pinned_tweet_id": "1821926810407370754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980074616212140032/3YPK1Eqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 659,
+          "like_count": 1041,
+          "listed_count": 24,
+          "media_count": 243,
+          "tweet_count": 1082
+        },
+        "username": "ahuang70378",
+        "verified": false
+      }
+    ]
+  }
+}

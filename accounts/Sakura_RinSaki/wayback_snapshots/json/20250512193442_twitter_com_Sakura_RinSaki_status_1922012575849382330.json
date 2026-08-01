@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1921967959276183842",
+    "created_at": "2025-05-12T19:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T20:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922012575849382330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922012575849382330",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921967959276183842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 咕咕咕——（盯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_1921967952875945986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqwzq4zbAAI41RT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1180,
+        "media_key": "3_1921967952909500420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqwzq47bAAQteo_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1921967959276183842",
+        "created_at": "2025-05-12T19:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T20:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922012575849382330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922012575849382330",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921967959276183842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 咕咕咕——（盯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921967952875945986",
+            "3_1921967952909500420"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1921967959276183842",
+        "created_at": "2025-05-12T16:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921967959276183842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3C2Kb6h9l",
+              "end": 39,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1921967959276183842/photo/1",
+              "media_key": "3_1921967952875945986",
+              "start": 16,
+              "url": "https://t.co/A3C2Kb6h9l"
+            },
+            {
+              "display_url": "pic.x.com/A3C2Kb6h9l",
+              "end": 39,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1921967959276183842/photo/1",
+              "media_key": "3_1921967952909500420",
+              "start": 16,
+              "url": "https://t.co/A3C2Kb6h9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921967959276183842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能下次填就有od和自残了（？ https://t.co/A3C2Kb6h9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 32,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 178
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜🏳️‍⚧️同类互fo｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1901667171320959058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 329,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 331
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

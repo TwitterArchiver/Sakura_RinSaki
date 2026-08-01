@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073080774992265220"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2073080781824790924",
+    "created_at": "2026-07-03T16:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073080781824790924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ROkJdpclXD",
+          "end": 98,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2073080781824790924/photo/1",
+          "media_key": "3_2073080774992265220",
+          "start": 75,
+          "url": "https://t.co/ROkJdpclXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073080781824790924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗚嗚嗚\n今天今天絨絨跟夏希外出的時候\n夏希問咱：為什麼頭上紫紫的\n然後咱說：因為昨天吃鹽哇。。\n然後然後 就被打腦袋了 QAQ\n是家暴 家暴 ！！！ https://t.co/ROkJdpclXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2073080774992265220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUP-zAbAAQFlpJ.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073080774992265220"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2073080781824790924",
+        "created_at": "2026-07-03T16:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073080781824790924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROkJdpclXD",
+              "end": 98,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2073080781824790924/photo/1",
+              "media_key": "3_2073080774992265220",
+              "start": 75,
+              "url": "https://t.co/ROkJdpclXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073080781824790924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗚嗚嗚\n今天今天絨絨跟夏希外出的時候\n夏希問咱：為什麼頭上紫紫的\n然後咱說：因為昨天吃鹽哇。。\n然後然後 就被打腦袋了 QAQ\n是家暴 家暴 ！！！ https://t.co/ROkJdpclXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 129,
+          "like_count": 5615,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 4649
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2042484770744234410",
+    "created_at": "2026-04-10T06:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042485356751438335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20415…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/status/2041536758165483527",
+          "start": 4,
+          "url": "https://t.co/AC5VXzukky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042485356751438335",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041536758165483527",
+        "type": "quoted"
+      },
+      {
+        "id": "2042484770744234410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上一篇：https://t.co/AC5VXzukky\n\n感覺 白色好顯肩寬啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041536750070480896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT-24_bQAAgWtc.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042484761630031875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhdEbQbQAM-_S5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2042484770744234410",
+        "created_at": "2026-04-10T06:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042485356751438335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20415…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/status/2041536758165483527",
+              "start": 4,
+              "url": "https://t.co/AC5VXzukky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042485356751438335",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041536758165483527",
+            "type": "quoted"
+          },
+          {
+            "id": "2042484770744234410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一篇：https://t.co/AC5VXzukky\n\n感覺 白色好顯肩寬啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041536750070480896"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2041536758165483527",
+        "created_at": "2026-04-07T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041536758165483527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8mHZpd3Tc",
+              "end": 43,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2041536758165483527/photo/1",
+              "media_key": "3_2041536750070480896",
+              "start": 20,
+              "url": "https://t.co/D8mHZpd3Tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041536758165483527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1818,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Day56.\n\n今天依舊長的不pass https://t.co/D8mHZpd3Tc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042484761630031875"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2042484770744234410",
+        "created_at": "2026-04-10T06:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042484770744234410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKo63ij3fO",
+              "end": 59,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2042484770744234410/photo/1",
+              "media_key": "3_2042484761630031875",
+              "start": 36,
+              "url": "https://t.co/HKo63ij3fO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042484770744234410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 58的時候拍的 不一樣的風格\n但還是怪怪的 反正 不露臉都好看 https://t.co/HKo63ij3fO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 106,
+          "like_count": 2946,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 3004
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

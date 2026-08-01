@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074679536017711115",
+    "created_at": "2026-07-10T22:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075713605568438325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495200550279086081",
+          "start": 0,
+          "username": "yuyu50650448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075713605568438325",
+    "in_reply_to_user_id": "1495200550279086081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074847886404440191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu50650448 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074679536017711115",
+        "created_at": "2026-07-10T22:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075713605568438325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495200550279086081",
+              "start": 0,
+              "username": "yuyu50650448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075713605568438325",
+        "in_reply_to_user_id": "1495200550279086081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074847886404440191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu50650448 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495200550279086081",
+        "conversation_id": "2074679536017711115",
+        "created_at": "2026-07-08T13:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074847886404440191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074847886404440191",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074765606294061379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 喔不 我是沒有爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 133,
+          "like_count": 5954,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4838
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T00:56:34.000Z",
+        "description": "你是雜魚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@kiwi_uu23456",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@kiwi_uu23456",
+                "start": 0,
+                "url": "https://t.co/6WmLiOx6u3"
+              }
+            ]
+          }
+        },
+        "id": "1495200550279086081",
+        "location": "Taiwan",
+        "name": "於羽 kiwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946690457414549505/ka88PAnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 453,
+          "like_count": 10639,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/6WmLiOx6u3",
+        "username": "yuyu50650448",
+        "verified": false
+      }
+    ]
+  }
+}

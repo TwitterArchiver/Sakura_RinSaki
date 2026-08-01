@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2032029239609037166",
+    "created_at": "2026-03-12T09:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032029239609037166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SonogamiRinneT…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2031993229370146836",
+          "start": 42,
+          "url": "https://t.co/gN2MBbWzSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032029239609037166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031993229370146836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想吃人妖药了😭为什么我不能生来就是女孩子😭为什么不能有一个爱我、理解我的父母😭 https://t.co/gN2MBbWzSY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2032029239609037166",
+        "created_at": "2026-03-12T09:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032029239609037166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2031993229370146836",
+              "start": 42,
+              "url": "https://t.co/gN2MBbWzSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032029239609037166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031993229370146836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想吃人妖药了😭为什么我不能生来就是女孩子😭为什么不能有一个爱我、理解我的父母😭 https://t.co/gN2MBbWzSY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2031993229370146836",
+        "created_at": "2026-03-12T07:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031993229370146836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangwenwen91/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/wangwenwen91/status/2031839934072463861",
+              "start": 42,
+              "url": "https://t.co/1U4MqBDNZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031993229370146836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 871,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031839934072463861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想吃人妖药了😭为什么我不能生来就是女孩子😭为什么不能有一个爱我、理解我的父母😭 https://t.co/1U4MqBDNZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 95,
+          "like_count": 2127,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 2154
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3870,
+          "following_count": 2921,
+          "like_count": 1120,
+          "listed_count": 13,
+          "media_count": 199,
+          "tweet_count": 1388
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

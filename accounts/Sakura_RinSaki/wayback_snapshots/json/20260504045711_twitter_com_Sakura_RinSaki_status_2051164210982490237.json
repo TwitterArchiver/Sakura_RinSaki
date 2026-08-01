@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051164204405792768"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2045215873024340433",
+    "created_at": "2026-05-04T04:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051164210982490237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdaKrHYjQ6",
+          "end": 31,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2051164210982490237/photo/1",
+          "media_key": "3_2051164204405792768",
+          "start": 8,
+          "url": "https://t.co/gdaKrHYjQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051164210982490237",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045215873024340433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "連愛心也是67 https://t.co/gdaKrHYjQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2051164204405792768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcy-fOaoAARJ8l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 733,
+        "media_key": "3_2045215866464452608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIQ_pmbQAAq1JH.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051164204405792768"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2045215873024340433",
+        "created_at": "2026-05-04T04:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051164210982490237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdaKrHYjQ6",
+              "end": 31,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2051164210982490237/photo/1",
+              "media_key": "3_2051164204405792768",
+              "start": 8,
+              "url": "https://t.co/gdaKrHYjQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051164210982490237",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045215873024340433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "連愛心也是67 https://t.co/gdaKrHYjQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045215866464452608"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2045215873024340433",
+        "created_at": "2026-04-17T19:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045215873024340433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJIzqkAnCv",
+              "end": 30,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2045215873024340433/photo/1",
+              "media_key": "3_2045215866464452608",
+              "start": 7,
+              "url": "https://t.co/VJIzqkAnCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045215873024340433",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1726,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "67！！！（ https://t.co/VJIzqkAnCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 92,
+          "like_count": 3748,
+          "listed_count": 5,
+          "media_count": 210,
+          "tweet_count": 3456
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

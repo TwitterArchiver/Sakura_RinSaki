@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1946905513138299287",
+    "created_at": "2025-07-21T12:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947268767441997957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1201714025769234432",
+          "start": 0,
+          "username": "rairai_happy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947268767441997957",
+    "in_reply_to_user_id": "1201714025769234432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947156961625289148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rairai_happy_ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1946905513138299287",
+        "created_at": "2025-07-21T12:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947268767441997957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1201714025769234432",
+              "start": 0,
+              "username": "rairai_happy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947268767441997957",
+        "in_reply_to_user_id": "1201714025769234432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947156961625289148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rairai_happy_ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1201714025769234432",
+        "conversation_id": "1946905513138299287",
+        "created_at": "2025-07-21T04:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947156961625289148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947156961625289148",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946905513138299287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 好可愛、ヾ( 〃∇〃)ﾂ ｷｬｰｰｰｯ♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937534658205691904/zhGwDYdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 38,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 227
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-03T04:05:39.000Z",
+        "description": "あなたの重荷が少しでも下ろせます様に✨\n気軽にらいちゃんと呼んでね🎵\nいつも皆さまに助けられて生きています。\nらいのお悩み相談コーナー→\nhttps://t.co/QNP3VVN7Uz\n欲しい物リスト↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rairai_happy_",
+                "end": 92,
+                "expanded_url": "http://marshmallow-qa.com/rairai_happy_",
+                "start": 69,
+                "url": "https://t.co/QNP3VVN7Uz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3OC6Y5SL8FBLH?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/0nN0tp3lpi"
+              }
+            ]
+          }
+        },
+        "id": "1201714025769234432",
+        "name": "らい🏊‍♂️🦈@去台湾✈️𓈒𓂂𓏸",
+        "pinned_tweet_id": "1568238262690643969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871931993145139200/lMY_3QEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10794,
+          "following_count": 8846,
+          "like_count": 248097,
+          "listed_count": 54,
+          "media_count": 13101,
+          "tweet_count": 121738
+        },
+        "url": "https://t.co/0nN0tp3lpi",
+        "username": "rairai_happy_",
+        "verified": true
+      }
+    ]
+  }
+}

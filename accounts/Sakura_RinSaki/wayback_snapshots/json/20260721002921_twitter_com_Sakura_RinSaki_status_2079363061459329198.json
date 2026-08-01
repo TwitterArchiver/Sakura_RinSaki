@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2078293247307448638",
+    "created_at": "2026-07-21T00:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079363061459329198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079363061459329198",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078379681963966751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 不接受反駁！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2078379677216129024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfjTgDbwAA0abb.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2078293247307448638",
+        "created_at": "2026-07-21T00:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079363061459329198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079363061459329198",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078379681963966751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 不接受反駁！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078379677216129024"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2078293247307448638",
+        "created_at": "2026-07-18T07:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078379681963966751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVz3EbkrBQ",
+              "end": 55,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2078379681963966751/photo/1",
+              "media_key": "3_2078379677216129024",
+              "start": 32,
+              "url": "https://t.co/FVz3EbkrBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078379681963966751",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078293247307448638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 啊對的對的對的，啊不對不對不對 https://t.co/FVz3EbkrBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 134,
+          "like_count": 6163,
+          "listed_count": 10,
+          "media_count": 283,
+          "tweet_count": 5054
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "location": "上級敘事層(bushi)",
+        "name": "無量哈基米(≖ ◡ ≖)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075919887630000128/tsVsceep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 39,
+          "like_count": 2310,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 898
+        },
+        "url": "",
+        "username": "Epyq59QJZV90802",
+        "verified": false
+      }
+    ]
+  }
+}

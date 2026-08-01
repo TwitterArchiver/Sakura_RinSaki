@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2022280279549972480"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2022280298592153986",
+    "created_at": "2026-02-13T12:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022280298592153986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ki8Ybkh08F",
+          "end": 35,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2022280298592153986/photo/1",
+          "media_key": "16_2022280279549972480",
+          "start": 12,
+          "url": "https://t.co/Ki8Ybkh08F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022280298592153986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "醒來！咱要吃飯飯！！！ https://t.co/Ki8Ybkh08F"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022280298592153986].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022280298592153986",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022280298592153986"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "16_2022280279549972480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBCVMyLakAAQOV_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBCVMyLakAAQOV_.mp4"
+          }
+        ],
+        "width": 386
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 68,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 777
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

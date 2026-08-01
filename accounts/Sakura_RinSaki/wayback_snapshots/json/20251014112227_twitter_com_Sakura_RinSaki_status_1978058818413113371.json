@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978058815674429440"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "1978058818413113371",
+    "created_at": "2025-10-14T11:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T12:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978058818413113371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRzmV483hY",
+          "end": 140,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/1978058818413113371/photo/1",
+          "media_key": "3_1978058815674429440",
+          "start": 117,
+          "url": "https://t.co/gRzmV483hY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978058818413113371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一隻善良的刺蝟\n\n==========\n\n因為害怕自己會傷害別人，因而渴望情感卻不願追求。\n你是個善良的小刺蝟。\n應該可以不用再努力了。\n所以，自己一個人去毀滅吧。\n\n或許是覺得自己配不上，自己不值得擁有。\n討厭自己，自己不夠完美。 https://t.co/gRzmV483hY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1978058815674429440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3N6Az0asAAgPpP.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978058815674429440"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "1978058818413113371",
+        "created_at": "2025-10-14T11:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978058818413113371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRzmV483hY",
+              "end": 140,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1978058818413113371/photo/1",
+              "media_key": "3_1978058815674429440",
+              "start": 117,
+              "url": "https://t.co/gRzmV483hY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978058818413113371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一隻善良的刺蝟\n\n==========\n\n因為害怕自己會傷害別人，因而渴望情感卻不願追求。\n你是個善良的小刺蝟。\n應該可以不用再努力了。\n所以，自己一個人去毀滅吧。\n\n或許是覺得自己配不上，自己不值得擁有。\n討厭自己，自己不夠完美。 https://t.co/gRzmV483hY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 49,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 322
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1912746029168148891",
+    "created_at": "2025-04-17T05:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T06:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912746029168148891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "sxshuishuimao"
+        },
+        {
+          "end": 31,
+          "id": "1844025283676094464",
+          "start": 19,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912746029168148891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912480636272886094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sxshuishuimao: @Konekoutena 其实..应该火星撞地球，把全人类包括赖以生存的家园地球都给消灭了才好…虽然这是不可能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1912746029168148891",
+        "created_at": "2025-04-17T05:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912746029168148891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "sxshuishuimao"
+            },
+            {
+              "end": 31,
+              "id": "1844025283676094464",
+              "start": 19,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912746029168148891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912480636272886094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sxshuishuimao: @Konekoutena 其实..应该火星撞地球，把全人类包括赖以生存的家园地球都给消灭了才好…虽然这是不可能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1912435143123562691",
+        "created_at": "2025-04-16T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912480636272886094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912480636272886094",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1732,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912435143123562691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 其实..应该火星撞地球，把全人类包括赖以生存的家园地球都给消灭了才好…虽然这是不可能的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 31,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 123
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜一只笨蛋xyn｜同类回关｜男朋友@yujiudu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "yujiudu"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你3km",
+        "name": "神仙水水猫🍥",
+        "pinned_tweet_id": "1912486755175137611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911651993254236160/G6anvnBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 662,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2231
+        },
+        "username": "sxshuishuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "出生于不幸的原生家庭，遭受过其父（北京高通律师事务所律师张海秦）的极端家暴。现开始接受家暴事件投稿，愿为每一个受到家暴的孩子发声。只有我们敢于反抗，才能制止家暴的恶行  邮箱：konekoutena@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1912435143123562691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911940891087933440/rQttHo5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7560,
+          "following_count": 1538,
+          "like_count": 5250,
+          "listed_count": 27,
+          "media_count": 3714,
+          "tweet_count": 11378
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

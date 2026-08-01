@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1937356979770655163",
+    "created_at": "2025-06-24T06:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T07:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937401648013541846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697955190044061696",
+          "start": 0,
+          "username": "aurora100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937401648013541846",
+    "in_reply_to_user_id": "1697955190044061696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937356979770655163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurora100204 喵……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937356970031480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLf5lHagAApAbt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1937356979770655163",
+        "created_at": "2025-06-24T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937401648013541846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697955190044061696",
+              "start": 0,
+              "username": "aurora100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937401648013541846",
+        "in_reply_to_user_id": "1697955190044061696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937356979770655163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurora100204 喵……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937356970031480832"
+          ]
+        },
+        "author_id": "1697955190044061696",
+        "conversation_id": "1937356979770655163",
+        "created_at": "2025-06-24T03:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937356979770655163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDk49311Uj",
+              "end": 77,
+              "expanded_url": "https://x.com/aurora100204/status/1937356979770655163/photo/1",
+              "media_key": "3_1937356970031480832",
+              "start": 54,
+              "url": "https://t.co/fDk49311Uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937356979770655163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3057,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "高人指點後，付費約條件有放寬\n詳細資訊請見留言區\n價格私信詢問，剛開始價格比較低\n其他特殊需求請私信提出😏 https://t.co/fDk49311Uj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 36,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 226
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T12:51:01.000Z",
+        "description": "04’/大家桉桉~一顆有甜味的檸檬🍋 /雙聲類👧🏻🧒🏻/🍥23.12.13/ 178高海拔萌妹 / 🌱新竹🏫台中 / 現居台中 / 微內向，但熟了之後我會很吵 /抖內私信比較快回111018334628 linebank 824",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aurora0210",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/aurora0210",
+                "start": 0,
+                "url": "https://t.co/ETXTtz4zs4"
+              }
+            ]
+          }
+        },
+        "id": "1697955190044061696",
+        "location": "台中市, 台灣",
+        "name": "檸檬桉果🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903264925495201792/0ioaMxei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11734,
+          "following_count": 505,
+          "like_count": 5751,
+          "listed_count": 21,
+          "media_count": 485,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/ETXTtz4zs4",
+        "username": "aurora100204",
+        "verified": true
+      }
+    ]
+  }
+}

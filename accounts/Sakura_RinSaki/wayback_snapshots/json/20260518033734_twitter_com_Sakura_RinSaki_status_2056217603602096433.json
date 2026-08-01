@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2056046952807358723",
+    "created_at": "2026-05-18T03:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056217603602096433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056217603602096433",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056046952807358723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@smiroyama 想要陪陪...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056042316843159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiHmAKbkAAVddd.jpg",
+        "width": 2752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2056046952807358723",
+        "created_at": "2026-05-18T03:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056217603602096433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056217603602096433",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056046952807358723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@smiroyama 想要陪陪...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056042316843159552"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2056046952807358723",
+        "created_at": "2026-05-17T16:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056046952807358723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlcwN58E4l",
+              "end": 144,
+              "expanded_url": "https://x.com/smiroyama/status/2056046952807358723/photo/1",
+              "media_key": "3_2056042316843159552",
+              "start": 121,
+              "url": "https://t.co/zlcwN58E4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056046952807358723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对药娘而言，陪伴是一件具有切实必要性的事，它在相当程度上能够缓解她们所承受的痛苦。\n\n这里所说的陪伴，要求长久、持续，且贯穿日常。基于身边的观察，药娘群体的情感普遍较为脆弱，若一段关系骤然终止，当事人极有可能产生过激反应，这一风险不容轻视。\n\n受内外多重因素影响，大多数药娘都不同程度地罹患身心疾病，这在客观上加深了她们对稳定陪伴的依赖。曾有一个流传甚广的所谓\"笑话\"，大意是药娘如同一次性消耗品，玩腻了便弃之不顾，任其自生自灭。这类说法令人厌恶，其背后隐藏的是极度恶毒的物化与剥削逻辑。它将那些承受着巨大痛苦与挣扎的个体，强行降格为猎奇的\"消耗品\"，彻底抹杀了她们作为人的尊严与主体价值。\n\n陪伴从来都不是施舍，而是平等尊重基础上的生命支持。药娘所需要的，是在漫长且艰难的自我重构过程中，能够给予她们确定性与安全感的真实依托。\n\n每一个在痛苦中挣扎的灵魂都值得被温柔以待。唯有当陪伴真正回归人与人之间最纯粹的爱与支持，那些脆弱的羽翼，方能在持久的善意中寻得栖息的港湾。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 5039,
+          "like_count": 160,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "对药娘而言，陪伴是一件具有切实必要性的事，它在相当程度上能够缓解她们所承受的痛苦。\n\n这里所说的陪伴，要求长久、持续，且贯穿日常。基于身边的观察，药娘群体的情感普遍较为脆弱，若一段关系骤然终止，当事人极有可能产生过激反应，这一风险不容轻视。 https://t.co/zlcwN58E4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 102,
+          "like_count": 4390,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 3869
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5133,
+          "following_count": 2251,
+          "like_count": 11389,
+          "listed_count": 17,
+          "media_count": 1691,
+          "tweet_count": 6638
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

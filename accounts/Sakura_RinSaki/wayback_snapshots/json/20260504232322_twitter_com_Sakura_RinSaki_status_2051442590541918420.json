@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2042768384086151531",
+    "created_at": "2026-05-04T23:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T00:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051442590541918420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997308154946961408",
+          "start": 0,
+          "username": "kndbxls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051442590541918420",
+    "in_reply_to_user_id": "1997308154946961408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051217893489295831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kndbxls 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2042768384086151531",
+        "created_at": "2026-05-04T23:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051442590541918420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997308154946961408",
+              "start": 0,
+              "username": "kndbxls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051442590541918420",
+        "in_reply_to_user_id": "1997308154946961408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051217893489295831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kndbxls 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997308154946961408",
+        "conversation_id": "2042768384086151531",
+        "created_at": "2026-05-04T08:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051217893489295831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051217893489295831",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051163662887579811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 好叭喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 94,
+          "like_count": 3795,
+          "listed_count": 6,
+          "media_count": 210,
+          "tweet_count": 3476
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T14:12:37.000Z",
+        "description": "15 岁的小药娘喵\n梦想是成为一名真正的女生！（似乎做不到）\n另外互fo互fo互fo互fo互fo互fo",
+        "id": "1997308154946961408",
+        "name": "予安🍥",
+        "pinned_tweet_id": "2036475275060670475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021265712434774020/whhMHn2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 176,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 185
+        },
+        "username": "kndbxls",
+        "verified": false
+      }
+    ]
+  }
+}

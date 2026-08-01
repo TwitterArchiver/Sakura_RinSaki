@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1920434820506587578",
+    "created_at": "2025-05-09T02:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T03:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920674007487013342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582420236329840642",
+          "start": 0,
+          "username": "Coldtea2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920674007487013342",
+    "in_reply_to_user_id": "1582420236329840642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920482587874611711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coldtea2025 謝謝你！（抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1920434820506587578",
+        "created_at": "2025-05-09T02:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920674007487013342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582420236329840642",
+              "start": 0,
+              "username": "Coldtea2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920674007487013342",
+        "in_reply_to_user_id": "1582420236329840642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920482587874611711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coldtea2025 謝謝你！（抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582420236329840642",
+        "conversation_id": "1920434820506587578",
+        "created_at": "2025-05-08T14:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920482587874611711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920482587874611711",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920434820506587578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨備考N5丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 31,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 166
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T17:16:15.000Z",
+        "description": "《退药坑🍥🏳️‍⚧️》90后老古董已从良/身高181cm 体重120g 🤪在现实的泥潭里疯狂挣扎🫠/愿意倾听，善于理解🤗/欢迎互fo🥳/最爱的老婆酱@HFLMTF🤬/三流影视工业末梢人事🎥/摄影剪辑📸/短视频运营📺/玩车一族（赛道）🏎/业余胶佬💸/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "HFLMTF"
+              }
+            ]
+          }
+        },
+        "id": "1582420236329840642",
+        "location": "China",
+        "name": "Coldtea♥HFRin🎉",
+        "pinned_tweet_id": "1909294139008860194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076126364794880/2NOOuDNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 544,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1435
+        },
+        "username": "Coldtea2025",
+        "verified": false
+      }
+    ]
+  }
+}

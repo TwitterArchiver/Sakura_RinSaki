@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979298992082108416"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "1979298999883755746",
+    "created_at": "2025-10-17T21:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T22:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979298999883755746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPu26MwPpS",
+          "end": 41,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/1979298999883755746/photo/1",
+          "media_key": "3_1979298992082108416",
+          "start": 18,
+          "url": "https://t.co/jPu26MwPpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979298999883755746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天處於死掉又想繼續努力的量子糾纏 https://t.co/jPu26MwPpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979298992082108416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fh8k9XwAAJ_97.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979298992082108416"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "1979298999883755746",
+        "created_at": "2025-10-17T21:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T22:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979298999883755746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPu26MwPpS",
+              "end": 41,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1979298999883755746/photo/1",
+              "media_key": "3_1979298992082108416",
+              "start": 18,
+              "url": "https://t.co/jPu26MwPpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979298999883755746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天處於死掉又想繼續努力的量子糾纏 https://t.co/jPu26MwPpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 57,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 355
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

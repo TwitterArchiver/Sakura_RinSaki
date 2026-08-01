@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2063508206215963019",
+    "created_at": "2026-06-07T07:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063518882858754339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948797747089604613",
+          "start": 0,
+          "username": "BloodCatOvO"
+        },
+        {
+          "end": 24,
+          "id": "1051744812007739393",
+          "start": 13,
+          "username": "gaby901123"
+        },
+        {
+          "end": 37,
+          "id": "707856257034551296",
+          "start": 25,
+          "username": "Mamashu0123"
+        },
+        {
+          "end": 50,
+          "id": "1948645787959001095",
+          "start": 38,
+          "username": "Melanin_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518882858754339",
+    "in_reply_to_user_id": "1948797747089604613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063508206215963019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodCatOvO @gaby901123 @Mamashu0123 @Melanin_VRC 鮭魚！！！！！！！（大叫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063508198460682240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMNxgha8AARyRs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063508198477512704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMNxglbwAAlH5K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2063508206215963019",
+        "created_at": "2026-06-07T07:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063518882858754339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948797747089604613",
+              "start": 0,
+              "username": "BloodCatOvO"
+            },
+            {
+              "end": 24,
+              "id": "1051744812007739393",
+              "start": 13,
+              "username": "gaby901123"
+            },
+            {
+              "end": 37,
+              "id": "707856257034551296",
+              "start": 25,
+              "username": "Mamashu0123"
+            },
+            {
+              "end": 50,
+              "id": "1948645787959001095",
+              "start": 38,
+              "username": "Melanin_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518882858754339",
+        "in_reply_to_user_id": "1948797747089604613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063508206215963019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodCatOvO @gaby901123 @Mamashu0123 @Melanin_VRC 鮭魚！！！！！！！（大叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063508198460682240",
+            "3_2063508198477512704"
+          ]
+        },
+        "author_id": "1948797747089604613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063508206215963019",
+        "created_at": "2026-06-07T06:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063508206215963019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "No. 18, Lane 233, Yanji St, Guangxin Village, Da’an District, Taipei City, Taiwan 106",
+              "display_url": "maps.app.goo.gl/mzMBusNRygLa2C…",
+              "end": 84,
+              "expanded_url": "https://maps.app.goo.gl/mzMBusNRygLa2Cn69?g_st=ic",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2063508209550405632/5DN4byXm?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063508209550405632/5DN4byXm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "Kingyo Taipei · 4.1★(5274) · Japanese restaurant",
+              "unwound_url": "https://www.google.com/maps?q=106%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%85%89%E4%BF%A1%E9%87%8C%E5%BB%B6%E5%90%89%E8%A1%97233%E5%B7%B718%E8%99%9F%E9%87%91%E9%AD%9A%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86&ftid=0x3442abc8fa827f3d:0xa081a6eeb0f83523&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813469,94286869&g_ep=CAISEjI2LjIyLjIuOTIxMTAxNzU3MBgAIIgnKkksOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY5LDk0Mjg2ODY5QgJUVw%3D%3D&skid=ce4492ac-596c-4fef-96aa-a83acce128fd&g_st=ic",
+              "url": "https://t.co/rpn26auHLW"
+            },
+            {
+              "display_url": "pic.x.com/DEp6APISZN",
+              "end": 108,
+              "expanded_url": "https://x.com/BloodCatOvO/status/2063508206215963019/photo/1",
+              "media_key": "3_2063508198460682240",
+              "start": 85,
+              "url": "https://t.co/DEp6APISZN"
+            },
+            {
+              "display_url": "pic.x.com/DEp6APISZN",
+              "end": 108,
+              "expanded_url": "https://x.com/BloodCatOvO/status/2063508206215963019/photo/1",
+              "media_key": "3_2063508198477512704",
+              "start": 85,
+              "url": "https://t.co/DEp6APISZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063508206215963019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天沒發喵！\n面面的很開心喵！\n就是東西吃不完嗚 還好把鮭魚吃完惹！\n地址在這噠！有興趣可以去吃吃看喵！份量好恐怖qwq\nhttps://t.co/rpn26auHLW https://t.co/DEp6APISZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 113,
+          "like_count": 4639,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 4134
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "location": "台北市, 台灣",
+        "name": "血貓🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 804,
+          "like_count": 8289,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1692
+        },
+        "username": "BloodCatOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-15T08:01:18.000Z",
+        "description": "maru 台灣人TW 是個喜歡貼貼的人 歡迎跟我搭話~貼貼Ok ＋好友也ok 聊天ok 也是個比較缺陪伴的人 如果願意陪我 我會很開心～ \n\n💍:@leechng022\n\nVRchat ID:丸把刃maru discord:maru1123 女裝?：@haori901123 QQ:1282513842",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "leechng022"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "haori901123"
+              }
+            ]
+          }
+        },
+        "id": "1051744812007739393",
+        "location": "Keelung City, Taiwan",
+        "name": "丸把刃",
+        "pinned_tweet_id": "1571763471632723969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670278771289755648/-IFFNbGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 2534,
+          "like_count": 66342,
+          "listed_count": 11,
+          "media_count": 1158,
+          "tweet_count": 9621
+        },
+        "username": "gaby901123",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T09:10:57.000Z",
+        "description": "VRC id:Mamashu，Discord˸mamashu0123，台湾人，11點追蹤+臉追玩家，CP:黑瑟素ϯMelanin࿔，不定時更新VRC日常和電腦硬體相關，歡迎找我一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/mamash…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/mamashu0123.bsky.social",
+                "start": 0,
+                "url": "https://t.co/N8QFF7Z1BJ"
+              }
+            ]
+          }
+        },
+        "id": "707856257034551296",
+        "name": "Mamashu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044619136068964353/PRAIbaXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 374,
+          "like_count": 1975,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/N8QFF7Z1BJ",
+        "username": "Mamashu0123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T07:26:44.000Z",
+        "description": "VRC ID:黑瑟素ϯMelanin࿔  CP:Mamashu  喜愛聊天與交朋友的社交份子 Kipfel愛好者",
+        "id": "1948645787959001095",
+        "location": "Taipei City, Taiwan",
+        "name": "黑瑟素💚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001555301871550466/TScXrJFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 150,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 428
+        },
+        "username": "Melanin_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

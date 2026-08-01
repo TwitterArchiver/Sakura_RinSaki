@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2060569903116288348",
+    "created_at": "2026-06-20T03:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068175722674622542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068175722674622542",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060747123713597914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 唔？ 沒有的劇情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2060747121285033984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk-lqgacAAxsDr.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2060569903116288348",
+        "created_at": "2026-06-20T03:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068175722674622542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068175722674622542",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060747123713597914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 唔？ 沒有的劇情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060747121285033984"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2060569903116288348",
+        "created_at": "2026-05-30T15:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060747123713597914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s27EPZwoR",
+              "end": 67,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2060747123713597914/photo/1",
+              "media_key": "3_2060747121285033984",
+              "start": 44,
+              "url": "https://t.co/2s27EPZwoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060747123713597914",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569903116288348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 拿老婆手機拍照是不是等下就要被扣壞了(⁠・⁠∀⁠・⁠) https://t.co/2s27EPZwoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 119,
+          "like_count": 5079,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 4351
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "name": "入機王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042592482115088384/lLVrIOfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "Epyq59QJZV90802",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2028954003233751440",
+    "created_at": "2026-03-04T15:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029222857633636793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777127815558975488",
+          "start": 0,
+          "username": "946552143544k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029222857633636793",
+    "in_reply_to_user_id": "1777127815558975488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028954003233751440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@946552143544k 絨絨出現了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2028953999098167296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChK6Y3awAAgNJ8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2028954003233751440",
+        "created_at": "2026-03-04T15:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029222857633636793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777127815558975488",
+              "start": 0,
+              "username": "946552143544k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029222857633636793",
+        "in_reply_to_user_id": "1777127815558975488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028954003233751440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@946552143544k 絨絨出現了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028953999098167296"
+          ]
+        },
+        "author_id": "1777127815558975488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2028954003233751440",
+        "created_at": "2026-03-03T22:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028954003233751440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/M1WlCpN0gR"
+            },
+            {
+              "display_url": "pic.x.com/AeecNwxsI6",
+              "end": 64,
+              "expanded_url": "https://x.com/946552143544k/status/2028954003233751440/photo/1",
+              "media_key": "3_2028953999098167296",
+              "start": 41,
+              "url": "https://t.co/AeecNwxsI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028954003233751440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/M1WlCpN0gR https://t.co/AeecNwxsI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 82,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1498
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:14:40.000Z",
+        "description": "镇命@AlimataOue45353，大猫咪@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AlimataOue45353"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "x16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1777127815558975488",
+        "name": "月螢🍥tsukiHotaru",
+        "pinned_tweet_id": "2025896000704123148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707303386857472/OU3Tl8gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 537,
+          "like_count": 15973,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 478
+        },
+        "username": "946552143544k",
+        "verified": false
+      }
+    ]
+  }
+}

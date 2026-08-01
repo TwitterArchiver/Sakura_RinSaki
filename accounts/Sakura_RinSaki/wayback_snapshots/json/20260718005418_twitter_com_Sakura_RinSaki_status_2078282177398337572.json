@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077920094072799686",
+    "created_at": "2026-07-18T00:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078282177398337572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948797747089604613",
+          "start": 0,
+          "username": "BloodCatOvO"
+        },
+        {
+          "end": 24,
+          "id": "1888635222885076992",
+          "start": 13,
+          "username": "blood_foxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078282177398337572",
+    "in_reply_to_user_id": "1948797747089604613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077931663884181980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodCatOvO @blood_foxs 欺負血貓貓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077920094072799686",
+        "created_at": "2026-07-18T00:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078282177398337572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948797747089604613",
+              "start": 0,
+              "username": "BloodCatOvO"
+            },
+            {
+              "end": 24,
+              "id": "1888635222885076992",
+              "start": 13,
+              "username": "blood_foxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078282177398337572",
+        "in_reply_to_user_id": "1948797747089604613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077931663884181980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodCatOvO @blood_foxs 欺負血貓貓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948797747089604613",
+        "conversation_id": "2077920094072799686",
+        "created_at": "2026-07-17T01:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077931663884181980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888635222885076992",
+              "start": 0,
+              "username": "blood_foxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077931663884181980",
+        "in_reply_to_user_id": "1888635222885076992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077920094072799686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blood_foxs 受受得很好呀! 好欺負喵! (x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 134,
+          "like_count": 6049,
+          "listed_count": 10,
+          "media_count": 283,
+          "tweet_count": 5008
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "location": "台北市, 台灣",
+        "name": "血貓🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 996,
+          "like_count": 10242,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "BloodCatOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T17:05:28.000Z",
+        "description": "來自地獄的狐狸，目前在嘗試當個小小的Vtuber，有興趣的話可以來我的圖奇聊聊天或一起玩，歡迎聯動邀約！！！ 通用tag #笨笨血狐 繪圖tag #血繪 美食tag #餓狐咆哮\n聯動信箱:blood.arctic.fox@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "笨笨血狐"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "血繪"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "餓狐咆哮"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/blood_foxs",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/blood_foxs",
+                "start": 0,
+                "url": "https://t.co/kaFjKqM0YH"
+              }
+            ]
+          }
+        },
+        "id": "1888635222885076992",
+        "name": "血狐🩸寵物勢Vtuber準備中（麥塊星域競遊第五屆準備中）",
+        "pinned_tweet_id": "2053814887336575471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053838677496020992/19cPVk7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1657,
+          "like_count": 8484,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/kaFjKqM0YH",
+        "username": "blood_foxs",
+        "verified": false
+      }
+    ]
+  }
+}

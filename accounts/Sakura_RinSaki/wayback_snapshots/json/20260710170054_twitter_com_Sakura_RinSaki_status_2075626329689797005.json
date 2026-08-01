@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2075434666446991629",
+    "created_at": "2026-07-10T17:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075626329689797005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283955685588254720",
+          "start": 0,
+          "username": "xiao_yu_yu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075626329689797005",
+    "in_reply_to_user_id": "1283955685588254720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075434666446991629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yu_yu_ 好過分QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2075434663154470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1s1Hva0AApQcH.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2075434666446991629",
+        "created_at": "2026-07-10T17:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075626329689797005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283955685588254720",
+              "start": 0,
+              "username": "xiao_yu_yu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075626329689797005",
+        "in_reply_to_user_id": "1283955685588254720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075434666446991629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yu_yu_ 好過分QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075434663154470912"
+          ]
+        },
+        "author_id": "1283955685588254720",
+        "conversation_id": "2075434666446991629",
+        "created_at": "2026-07-10T04:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075434666446991629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYwOqhsjIP",
+              "end": 162,
+              "expanded_url": "https://x.com/xiao_yu_yu_/status/2075434666446991629/photo/1",
+              "media_key": "3_2075434663154470912",
+              "start": 139,
+              "url": "https://t.co/MYwOqhsjIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075434666446991629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真的是看一次就難過一次\n\n年初，我好不容易存了錢，買了一個自己一直很想要的東西\n蝦皮上買的\n不便宜\n我非常期待的打開盒子\n結果，遇到很大的瑕疵\n那天已經爆哭過了\n\n這種東西...很難退換貨，很多人就算跟官方買都沒辦法了，更何況跟個人賣家買\n\n只能認了，但我真的還是很想要那東西\n我想再買一個...其實也不是買不起，但畢竟不是必需品，這錢也是花過了\n花第二次為了賭沒瑕疵嗎...\n\n當我看到又有人賣時\n都會很想買\n又買不下去，我知道我不該買\n結果就是看到一次都會大爆哭一次\n\n真不知道該繼續看一次破防一次\n還是狠心買下去，然後可能非常後悔"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5581,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的是看一次就難過一次\n\n年初，我好不容易存了錢，買了一個自己一直很想要的東西\n蝦皮上買的\n不便宜\n我非常期待的打開盒子\n結果，遇到很大的瑕疵\n那天已經爆哭過了\n\n這種東西...很難退換貨，很多人就算跟官方買都沒辦法了，更何況跟個人賣家買\n\n只能認了，但我真的還是很想要那東西 https://t.co/MYwOqhsjIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 132,
+          "like_count": 5759,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4710
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-17T02:44:35.000Z",
+        "description": "非單小貓🩵🐈/主人的寵物貓(sub)💜🐈\n\n喜歡的話追蹤一下嘛～還有那個愛心跟轉推也點一下～謝謝泥(⁎⁍̴̛ᴗ⁍̴̛⁎)\n\n小貓沒有小帳❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/xiaoyuyu",
+                "end": 23,
+                "expanded_url": "http://patreon.com/xiaoyuyu",
+                "start": 0,
+                "url": "https://t.co/BT0J1zclJS"
+              }
+            ]
+          }
+        },
+        "id": "1283955685588254720",
+        "location": " Taiwan",
+        "name": "小御寒喵",
+        "pinned_tweet_id": "1828756353466438130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028090554949726208/cQ1Crgzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28529,
+          "following_count": 215,
+          "like_count": 8565,
+          "listed_count": 44,
+          "media_count": 1152,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/BT0J1zclJS",
+        "username": "xiao_yu_yu_",
+        "verified": true
+      }
+    ]
+  }
+}

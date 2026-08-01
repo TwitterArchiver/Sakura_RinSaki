@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2067964931060924847",
+    "created_at": "2026-06-22T22:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T23:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069188422204535142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409725254671376388",
+          "start": 0,
+          "username": "ritsu_9604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069188422204535142",
+    "in_reply_to_user_id": "1409725254671376388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067964931060924847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsu_9604 咕咕嘎嘎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2067964931060924847",
+        "created_at": "2026-06-22T22:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069188422204535142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409725254671376388",
+              "start": 0,
+              "username": "ritsu_9604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069188422204535142",
+        "in_reply_to_user_id": "1409725254671376388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067964931060924847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsu_9604 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409725254671376388",
+        "conversation_id": "2067964931060924847",
+        "created_at": "2026-06-19T13:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067964931060924847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067964931060924847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘎，無聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 127,
+          "like_count": 5340,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 4489
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T04:08:01.000Z",
+        "description": "19y/設計和藝術大學生/多聲\n\n/喔？歡迎來到祈禱室，那麼，這位使徒有什麼疑惑嗎？\n\n🚫禁止AI學習/🚫無断転載禁止\n\n橫幅：星夜\n頭像: 真白\n\n/裏垢：@matsukata_py\n/音源配布資訊： @inoru_vb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "matsukata_py"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "inoru_vb"
+              }
+            ]
+          }
+        },
+        "id": "1409725254671376388",
+        "location": "Yunlin County, Taiwan",
+        "name": "リツ🐾",
+        "pinned_tweet_id": "2016078133460664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948332969195880448/vzA6e-Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 1697,
+          "like_count": 2385,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 4676
+        },
+        "url": "",
+        "username": "ritsu_9604",
+        "verified": false
+      }
+    ]
+  }
+}

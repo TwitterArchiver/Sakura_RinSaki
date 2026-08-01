@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053752733782671674",
+    "created_at": "2026-06-22T22:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T23:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069188062513668395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604260027677581312",
+          "start": 0,
+          "username": "huasheng1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069188062513668395",
+    "in_reply_to_user_id": "1604260027677581312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053752733782671674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasheng1225 薯條！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053752730922135552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBlOj8aMAA96Xq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053752733782671674",
+        "created_at": "2026-06-22T22:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069188062513668395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604260027677581312",
+              "start": 0,
+              "username": "huasheng1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069188062513668395",
+        "in_reply_to_user_id": "1604260027677581312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053752733782671674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasheng1225 薯條！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053752730922135552"
+          ]
+        },
+        "author_id": "1604260027677581312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053752733782671674",
+        "created_at": "2026-05-11T08:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053752733782671674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fR1PcH1YgA",
+              "end": 36,
+              "expanded_url": "https://x.com/huasheng1225/status/2053752733782671674/photo/1",
+              "media_key": "3_2053752730922135552",
+              "start": 13,
+              "url": "https://t.co/fR1PcH1YgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053752733782671674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5435,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦麦是掌管薯条的神🤤🤤🤤 https://t.co/fR1PcH1YgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 127,
+          "like_count": 5337,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 4487
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T23:39:38.000Z",
+        "description": "05 | MTF |  169 50kg | 小证，家长不爆金币党｜🍥2024 11.6 | 同类会互fo其他看成分fo | 想要结交更多朋友 |郑州   目前在广州随机刷新 ｜上班攒钱手术ing，时不时上推看看\n🚪50",
+        "id": "1604260027677581312",
+        "location": "距离521m",
+        "name": "花生🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053274568106856449/dPWPbnqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 1311,
+          "like_count": 1290,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "huasheng1225",
+        "verified": false
+      }
+    ]
+  }
+}

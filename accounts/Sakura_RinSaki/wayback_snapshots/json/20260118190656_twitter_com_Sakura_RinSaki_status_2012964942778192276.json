@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012964934724849664"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2012939332097872115",
+    "created_at": "2026-01-18T19:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012964942778192276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMFUhtOYis",
+          "end": 40,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2012964942778192276/photo/1",
+          "media_key": "3_2012964934724849664",
+          "start": 17,
+          "url": "https://t.co/tMFUhtOYis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012964942778192276",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012939332097872115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 https://t.co/tMFUhtOYis"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2012964934724849664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-988WeXkAAYwlP.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 3157,
+        "height": 496,
+        "media_key": "7_2012939320185745408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012939320185745408/pu/img/XB-qMROcXPUQMm36.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012939320185745408/pu/vid/avc1/496x270/kc2xfY86RoC9IWf3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012939320185745408/pu/vid/avc1/660x360/r9BtTQZvdAsItxdS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012939320185745408/pu/vid/avc1/912x496/p4HfWyP2srII4lle.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012939320185745408/pu/pl/Z7Dq4Unpti_Lkegc.m3u8?tag=12"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012964934724849664"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2012939332097872115",
+        "created_at": "2026-01-18T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012964942778192276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMFUhtOYis",
+              "end": 40,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2012964942778192276/photo/1",
+              "media_key": "3_2012964934724849664",
+              "start": 17,
+              "url": "https://t.co/tMFUhtOYis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012964942778192276",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012939332097872115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 https://t.co/tMFUhtOYis"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012939320185745408"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2012939332097872115",
+        "created_at": "2026-01-18T17:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012939332097872115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d75AqSxPti",
+              "end": 32,
+              "expanded_url": "https://x.com/sushiching_2006/status/2012939332097872115/video/1",
+              "media_key": "7_2012939320185745408",
+              "start": 9,
+              "url": "https://t.co/d75AqSxPti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012939332097872115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想o d（？ https://t.co/d75AqSxPti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 63,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 568
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "晴是銀漸層喵",
+        "pinned_tweet_id": "1996790764144398397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012135108099334147/Q1pMxvzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10534,
+          "following_count": 116,
+          "like_count": 16964,
+          "listed_count": 11,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

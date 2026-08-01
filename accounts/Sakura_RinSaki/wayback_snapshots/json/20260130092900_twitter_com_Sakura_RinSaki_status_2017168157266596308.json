@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2016720824712171549",
+    "created_at": "2026-01-30T09:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017168157266596308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1683745587701899272",
+          "start": 0,
+          "username": "zhang_jia61517"
+        },
+        {
+          "end": 23,
+          "id": "1546431985086009344",
+          "start": 16,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017168157266596308",
+    "in_reply_to_user_id": "1683745587701899272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017164316760576266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_jia61517 @NL8526 嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2016720824712171549",
+        "created_at": "2026-01-30T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017168157266596308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1683745587701899272",
+              "start": 0,
+              "username": "zhang_jia61517"
+            },
+            {
+              "end": 23,
+              "id": "1546431985086009344",
+              "start": 16,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017168157266596308",
+        "in_reply_to_user_id": "1683745587701899272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017164316760576266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_jia61517 @NL8526 嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683745587701899272",
+        "conversation_id": "2016720824712171549",
+        "created_at": "2026-01-30T09:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017164316760576266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 23,
+              "id": "1546431985086009344",
+              "start": 16,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017164316760576266",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016857626521592059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @NL8526 咱賭到1%了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 67,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 724
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T07:47:02.000Z",
+        "description": "07年 167 64 mtf 有證含糖🍥| 割手od 雙相二型&焦慮症 OSDD-1B ptsd|多意識體 梓玥系統 目前號主是璃安（經常換人）|已出櫃 家長+天殘黨|hrt 25.06.03| @hgsbtin_nisaki 的貓貓|是個小m 喜歡被照顧的感覺|rle中 正在練習偽音|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1683745587701899272",
+        "name": "梓萱吖🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1957696102851088638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956640553191559168/M9fBAN44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 475,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1344
+        },
+        "username": "zhang_jia61517",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🇨🇳🏳️‍⚧️07MTF 🍥无证含糖 🎹音游\n🍀ISFP-T 📚本科在读 贷款上学 深柜 低气压ing 负面内容致歉…",
+        "id": "1546431985086009344",
+        "location": "参宿四",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982315591961616384/XOHEeGGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 255,
+          "like_count": 2841,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 137
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

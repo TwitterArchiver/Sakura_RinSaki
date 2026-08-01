@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072519746751541248",
+        "3_2072519746826997760"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2072519755681128763",
+    "created_at": "2026-07-02T03:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072519755681128763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGlJuWsFZr",
+          "end": 176,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2072519755681128763/photo/1",
+          "media_key": "3_2072519746751541248",
+          "start": 153,
+          "url": "https://t.co/JGlJuWsFZr"
+        },
+        {
+          "display_url": "pic.x.com/JGlJuWsFZr",
+          "end": 176,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2072519755681128763/photo/1",
+          "media_key": "3_2072519746826997760",
+          "start": 153,
+          "url": "https://t.co/JGlJuWsFZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072519755681128763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "好煩 好煩好煩好煩  好討厭自己\n==\n長大後才發現自己超級不正常的……\n誰家好小孩國小一直跑輔導室的\n他媽的 什麼亞斯 什麼妥瑞的 煩死\n==\n啊所以什麼時候轉躁期 雙相搞得自己沒辦法像正常人一樣活著\n感覺像在等死\n==\n為什麼怪原生家庭 也有長大後發現就是那邊出了問題呀\n草 什麼咱很自私 只會怪家人 \n對對對 養育之恩\n==\n好希望自己是正常人……"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好煩 好煩好煩好煩  好討厭自己\n==\n長大後才發現自己超級不正常的……\n誰家好小孩國小一直跑輔導室的\n他媽的 什麼亞斯 什麼妥瑞的 煩死\n==\n啊所以什麼時候轉躁期 雙相搞得自己沒辦法像正常人一樣活著\n感覺像在等死\n==\n為什麼怪原生家庭 也有長大後發現就是那邊出了問題呀\n草 什麼咱很自私 只會怪家人 https://t.co/JGlJuWsFZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2072519746751541248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMRup8bsAArvmG.jpg",
+        "width": 512
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072519746826997760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMRuqObEAANRmO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072519746751541248",
+            "3_2072519746826997760"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2072519755681128763",
+        "created_at": "2026-07-02T03:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072519755681128763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGlJuWsFZr",
+              "end": 176,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2072519755681128763/photo/1",
+              "media_key": "3_2072519746751541248",
+              "start": 153,
+              "url": "https://t.co/JGlJuWsFZr"
+            },
+            {
+              "display_url": "pic.x.com/JGlJuWsFZr",
+              "end": 176,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2072519755681128763/photo/1",
+              "media_key": "3_2072519746826997760",
+              "start": 153,
+              "url": "https://t.co/JGlJuWsFZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072519755681128763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好煩 好煩好煩好煩  好討厭自己\n==\n長大後才發現自己超級不正常的……\n誰家好小孩國小一直跑輔導室的\n他媽的 什麼亞斯 什麼妥瑞的 煩死\n==\n啊所以什麼時候轉躁期 雙相搞得自己沒辦法像正常人一樣活著\n感覺像在等死\n==\n為什麼怪原生家庭 也有長大後發現就是那邊出了問題呀\n草 什麼咱很自私 只會怪家人 \n對對對 養育之恩\n==\n好希望自己是正常人……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好煩 好煩好煩好煩  好討厭自己\n==\n長大後才發現自己超級不正常的……\n誰家好小孩國小一直跑輔導室的\n他媽的 什麼亞斯 什麼妥瑞的 煩死\n==\n啊所以什麼時候轉躁期 雙相搞得自己沒辦法像正常人一樣活著\n感覺像在等死\n==\n為什麼怪原生家庭 也有長大後發現就是那邊出了問題呀\n草 什麼咱很自私 只會怪家人 https://t.co/JGlJuWsFZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 129,
+          "like_count": 5616,
+          "listed_count": 10,
+          "media_count": 271,
+          "tweet_count": 4630
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

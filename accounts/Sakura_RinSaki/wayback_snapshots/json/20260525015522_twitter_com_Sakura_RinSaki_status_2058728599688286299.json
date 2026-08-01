@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058728566184083456"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2058728599688286299",
+    "created_at": "2026-05-25T01:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058728599688286299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xCE6vwE96K",
+          "end": 31,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2058728599688286299/video/1",
+          "media_key": "7_2058728566184083456",
+          "start": 8,
+          "url": "https://t.co/xCE6vwE96K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058728599688286299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打maimai https://t.co/xCE6vwE96K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21384,
+        "height": 960,
+        "media_key": "7_2058728566184083456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058728566184083456/pu/img/XYE4aATIVc_DbF_q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058728566184083456/pu/vid/avc1/320x426/wwDEPjWJkyHrVloA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058728566184083456/pu/vid/avc1/480x640/9U7sOX1IAlhV7h14.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058728566184083456/pu/vid/avc1/720x960/EwSwnDyz5hEOwx0f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058728566184083456/pu/pl/AoSmwLcYAlxq03yv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058728566184083456"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2058728599688286299",
+        "created_at": "2026-05-25T01:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058728599688286299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCE6vwE96K",
+              "end": 31,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2058728599688286299/video/1",
+              "media_key": "7_2058728566184083456",
+              "start": 8,
+              "url": "https://t.co/xCE6vwE96K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058728599688286299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打maimai https://t.co/xCE6vwE96K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 106,
+          "like_count": 4506,
+          "listed_count": 8,
+          "media_count": 234,
+          "tweet_count": 3974
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

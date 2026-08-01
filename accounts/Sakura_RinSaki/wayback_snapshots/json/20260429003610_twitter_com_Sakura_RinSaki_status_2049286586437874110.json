@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048558699523010838",
+    "created_at": "2026-04-29T00:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T01:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049286586437874110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653220875314032642",
+          "start": 0,
+          "username": "GUlusishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049286586437874110",
+    "in_reply_to_user_id": "1653220875314032642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048574493350912471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GUlusishi 再吃一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048558699523010838",
+        "created_at": "2026-04-29T00:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049286586437874110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653220875314032642",
+              "start": 0,
+              "username": "GUlusishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049286586437874110",
+        "in_reply_to_user_id": "1653220875314032642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048574493350912471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GUlusishi 再吃一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653220875314032642",
+        "conversation_id": "2048558699523010838",
+        "created_at": "2026-04-27T01:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048574493350912471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048574493350912471",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048558699523010838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 刚吃过～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 92,
+          "like_count": 3511,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 3236
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T02:12:52.000Z",
+        "description": "电报被冻了，有事可以联系🛰Fog040101，看到都会通过回的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/valkionen",
+                "end": 23,
+                "expanded_url": "http://t.me/valkionen",
+                "start": 0,
+                "url": "https://t.co/reGEej9kuH"
+              }
+            ]
+          }
+        },
+        "id": "1653220875314032642",
+        "location": "诸王峡谷📍",
+        "name": "制花人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047416983881408512/aJJsoUs6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 440,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/reGEej9kuH",
+        "username": "GUlusishi",
+        "verified": false
+      }
+    ]
+  }
+}

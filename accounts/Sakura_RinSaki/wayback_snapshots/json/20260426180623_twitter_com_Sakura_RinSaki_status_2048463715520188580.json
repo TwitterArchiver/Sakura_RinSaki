@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1435210499524751363",
+    "created_at": "2026-04-26T18:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048463715520188580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426206305174179848",
+          "start": 0,
+          "username": "kitakazecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048463715520188580",
+    "in_reply_to_user_id": "1426206305174179848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1435210499524751363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitakazecat （偷看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31045,
+        "height": 720,
+        "media_key": "7_1435210420730556420",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1435210420730556420/pu/img/UrgvWbK5oixTTMTS.jpg",
+        "public_metrics": {
+          "view_count": 56565
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1435210420730556420/pu/vid/480x270/3BsCtOc5XAJFK_2R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1435210420730556420/pu/vid/640x360/n-l011adL0YYdx1e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1435210420730556420/pu/vid/1280x720/wvNyuE5Wf8eLTtiN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1435210420730556420/pu/pl/HuRqc2tiLReqsfAi.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1435210499524751363",
+        "created_at": "2026-04-26T18:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048463715520188580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426206305174179848",
+              "start": 0,
+              "username": "kitakazecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048463715520188580",
+        "in_reply_to_user_id": "1426206305174179848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1435210499524751363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitakazecat （偷看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1435210420730556420"
+          ]
+        },
+        "author_id": "1426206305174179848",
+        "conversation_id": "1435210499524751363",
+        "created_at": "2021-09-07T11:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2021-09-07T12:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1435210499524751363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "女裝"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "女裝大佬"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "貼貼"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "偽娘"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1426206305174179848",
+              "start": 49,
+              "username": "kitakazecat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddzm3cO9gh",
+              "end": 145,
+              "expanded_url": "https://x.com/kitakazecat/status/1435210499524751363/video/1",
+              "media_key": "7_1435210420730556420",
+              "start": 122,
+              "url": "https://t.co/ddzm3cO9gh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1435210499524751363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 0,
+          "like_count": 1392,
+          "quote_count": 6,
+          "reply_count": 30,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "恩對 ///////     \n我好幸福,第一次體驗貼貼就是三個(人*´∀｀)｡*ﾟ+\n阿福 : @kitakazecat\n島風 : @saika4141\n巫女 : @Rem58112036 \n\n#女裝  #女裝大佬 #貼貼 #偽娘 #男の娘 https://t.co/ddzm3cO9gh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 91,
+          "like_count": 3447,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3182
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T15:38:04.000Z",
+        "description": "诶嘿   歡迎來到北風喵的小小世界\n\n/ 歡迎跟隨.轉推        (*´∀`)~♥ / 是枚女裝新手,歡迎給點建議或蕉流 / 台中人 / 平時男裝,興趣女裝 / 可私下認親 / 吃貨  很乖 不菸不酒 / 就是有點瑟情www\n\n#偽娘 #女裝 #男の娘 #女裝男子  #抖M",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 117,
+                "tag": "偽娘"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "女裝"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "男の娘"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "女裝男子"
+              },
+              {
+                "end": 140,
+                "start": 137,
+                "tag": "抖M"
+              }
+            ]
+          }
+        },
+        "id": "1426206305174179848",
+        "location": "Taichung City, Taiwan",
+        "name": "北風喵_男の娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426331736414179330/-YQLgPMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4301,
+          "following_count": 125,
+          "like_count": 880,
+          "listed_count": 14,
+          "media_count": 71,
+          "tweet_count": 638
+        },
+        "username": "kitakazecat",
+        "verified": false
+      }
+    ]
+  }
+}

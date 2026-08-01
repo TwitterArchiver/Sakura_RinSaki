@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2049472596417364132",
+    "created_at": "2026-05-02T02:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050395632368783436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1294492339805839362",
+          "start": 0,
+          "username": "facean4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050395632368783436",
+    "in_reply_to_user_id": "1294492339805839362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049764504779817384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@facean4 唔…… 不可以罵髒話"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2049472596417364132",
+        "created_at": "2026-05-02T02:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050395632368783436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1294492339805839362",
+              "start": 0,
+              "username": "facean4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050395632368783436",
+        "in_reply_to_user_id": "1294492339805839362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049764504779817384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facean4 唔…… 不可以罵髒話"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294492339805839362",
+        "conversation_id": "2049472596417364132",
+        "created_at": "2026-04-30T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764504779817384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764504779817384",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049476620122312813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 不能讨厌我..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 92,
+          "like_count": 3618,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3333
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-15T04:33:39.000Z",
+        "description": "none",
+        "id": "1294492339805839362",
+        "name": "facean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295578538444169217/vaV_iOqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 79,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "facean4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2051158483027030381",
+    "created_at": "2026-05-04T04:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051158483027030381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051158483027030381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033486064380441024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 絨絨也會克制自己 讓自己不要在大家面前大發作 可是 絨絨也很缺愛呀 QAQ 但是 但是 絨絨藏起來\n把自己保護的好好的 \n\n可是 又好像接近大家 可是 又很害怕\n好矛盾 好矛盾 好矛盾 \n怎麼可以變成迴避性人格 又有焦慮型人格\n\n害怕其他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2051158483027030381",
+        "created_at": "2026-05-04T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051158483027030381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051158483027030381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033486064380441024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 絨絨也會克制自己 讓自己不要在大家面前大發作 可是 絨絨也很缺愛呀 QAQ 但是 但是 絨絨藏起來\n把自己保護的好好的 \n\n可是 又好像接近大家 可是 又很害怕\n好矛盾 好矛盾 好矛盾 \n怎麼可以變成迴避性人格 又有焦慮型人格\n\n害怕其他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2033486064380441024",
+        "created_at": "2026-03-16T10:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033486064380441024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033486064380441024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "絨絨也會克制自己 讓自己不要在大家面前大發作 可是 絨絨也很缺愛呀 QAQ 但是 但是 絨絨藏起來\n把自己保護的好好的 \n\n可是 又好像接近大家 可是 又很害怕\n好矛盾 好矛盾 好矛盾 \n怎麼可以變成迴避性人格 又有焦慮型人格\n\n害怕其他人不關注絨絨 又不敢去太要求其他人關注絨絨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 92,
+          "like_count": 3724,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 3438
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

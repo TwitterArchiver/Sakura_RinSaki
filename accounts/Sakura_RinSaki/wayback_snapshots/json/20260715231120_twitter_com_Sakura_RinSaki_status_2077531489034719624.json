@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077346033206796761",
+    "created_at": "2026-07-15T23:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077531489034719624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495200550279086081",
+          "start": 0,
+          "username": "yuyu50650448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077531489034719624",
+    "in_reply_to_user_id": "1495200550279086081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077346033206796761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu50650448 好小……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077346025464074240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ3NDNbEAAOhwl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077346033206796761",
+        "created_at": "2026-07-15T23:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077531489034719624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495200550279086081",
+              "start": 0,
+              "username": "yuyu50650448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077531489034719624",
+        "in_reply_to_user_id": "1495200550279086081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077346033206796761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu50650448 好小……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077346025464074240"
+          ]
+        },
+        "author_id": "1495200550279086081",
+        "conversation_id": "2077346033206796761",
+        "created_at": "2026-07-15T10:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077346033206796761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTz4PoIGxz",
+              "end": 30,
+              "expanded_url": "https://x.com/yuyu50650448/status/2077346033206796761/photo/1",
+              "media_key": "3_2077346025464074240",
+              "start": 7,
+              "url": "https://t.co/aTz4PoIGxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077346033206796761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是有點雜魚了 https://t.co/aTz4PoIGxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 133,
+          "like_count": 6059,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 4962
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T00:56:34.000Z",
+        "description": "你是雜魚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@kiwi_uu23456",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@kiwi_uu23456",
+                "start": 0,
+                "url": "https://t.co/6WmLiOx6u3"
+              }
+            ]
+          }
+        },
+        "id": "1495200550279086081",
+        "location": "Taiwan",
+        "name": "於羽 小可愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076976857317285888/KFQiVWS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 460,
+          "like_count": 10708,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/6WmLiOx6u3",
+        "username": "yuyu50650448",
+        "verified": false
+      }
+    ]
+  }
+}

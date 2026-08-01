@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065282904675258368"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2065282920747839668",
+    "created_at": "2026-06-12T03:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065282920747839668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7LHXcsD7F",
+          "end": 37,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2065282920747839668/video/1",
+          "media_key": "7_2065282904675258368",
+          "start": 14,
+          "url": "https://t.co/a7LHXcsD7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065282920747839668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咖哩加馬鈴薯不是很正常喵~ https://t.co/a7LHXcsD7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4508,
+        "height": 1280,
+        "media_key": "7_2065282904675258368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065282904675258368/pu/img/Y0pLsnJ_4fBHZvGZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065282904675258368/pu/vid/avc1/320x568/ephtrMoQjngfQh66.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065282904675258368/pu/vid/avc1/480x852/INkzKnu-ZbSMEauI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065282904675258368/pu/vid/avc1/720x1280/jjUm6k8Naqys1qju.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065282904675258368/pu/pl/lRuTHDjOFxQBaEE6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065282904675258368"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2065282920747839668",
+        "created_at": "2026-06-12T03:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065282920747839668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7LHXcsD7F",
+              "end": 37,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2065282920747839668/video/1",
+              "media_key": "7_2065282904675258368",
+              "start": 14,
+              "url": "https://t.co/a7LHXcsD7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282920747839668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖哩加馬鈴薯不是很正常喵~ https://t.co/a7LHXcsD7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 114,
+          "like_count": 4664,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 4161
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

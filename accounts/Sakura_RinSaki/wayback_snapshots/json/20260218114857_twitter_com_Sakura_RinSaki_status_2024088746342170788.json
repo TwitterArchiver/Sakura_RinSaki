@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2023879225116405867",
+    "created_at": "2026-02-18T11:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024088746342170788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016022863174852609",
+          "start": 0,
+          "username": "hamster_pro_max"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024088746342170788",
+    "in_reply_to_user_id": "2016022863174852609",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024073308749353464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamster_pro_max QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2023879225116405867",
+        "created_at": "2026-02-18T11:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024088746342170788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016022863174852609",
+              "start": 0,
+              "username": "hamster_pro_max"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024088746342170788",
+        "in_reply_to_user_id": "2016022863174852609",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024073308749353464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamster_pro_max QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016022863174852609",
+        "conversation_id": "2023879225116405867",
+        "created_at": "2026-02-18T10:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024073308749353464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024073308749353464",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023879225116405867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 抱抱🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 72,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 959
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T05:38:10.000Z",
+        "description": "第一次玩推，第一个推特账号，终于找到大部队了（以前只玩贴吧知乎b站之类的，别问我为啥知道很多圈内事，我只是刚注册推特账号，不代表我断了网了🥹😇）/HRT 2024.1月mtf，攒钱手术中/分享碎碎念和我的生活！可以同类互fo交友哦（纯绿）",
+        "id": "2016022863174852609",
+        "location": "距离您十万八千里",
+        "name": "囤囤鼠🍥",
+        "pinned_tweet_id": "2023380080551207253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016057442216669184/Oi8cR-nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 96,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "hamster_pro_max",
+        "verified": false
+      }
+    ]
+  }
+}

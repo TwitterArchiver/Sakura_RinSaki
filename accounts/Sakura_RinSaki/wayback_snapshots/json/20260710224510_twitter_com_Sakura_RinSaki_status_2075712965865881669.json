@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074109276889702887",
+    "created_at": "2026-07-10T22:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075712965865881669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        },
+        {
+          "end": 22,
+          "id": "1604837080663617537",
+          "start": 7,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075712965865881669",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074158736743235843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq @Natsukikawaii_ 唔——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074109276889702887",
+        "created_at": "2026-07-10T22:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075712965865881669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            },
+            {
+              "end": 22,
+              "id": "1604837080663617537",
+              "start": 7,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075712965865881669",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074158736743235843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @Natsukikawaii_ 唔——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2074109276889702887",
+        "created_at": "2026-07-06T15:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074158736743235843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074158736743235843",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074109276889702887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Natsukikawaii_ 要珍惜喵⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 133,
+          "like_count": 5936,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4829
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\nmtf；家長反對無效\n曾經的hrt紀錄：since2026/5/6～2026/5/13（國補+螺內脂）已斷糖\n2007～永遠\n職業樂手\n電子產品維修與銷售\n插畫、寫程式 （探索ing）\n免費的心裡委員 \n不建政喵\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 145,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣臺北",
+        "name": "いいちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2068341924051013979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 893,
+          "like_count": 3554,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 3292
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "門檻🚪520\n提供陪聊 偶爾會發大尺度照片\n銀行轉帳請私訊我\n-\n可投餵夏希ᐡ ̳ᴗ ̫ ᴗ ̳ᐡ（綠界⬇️）\n使用綠界入門檻請告訴我你是誰\nhttps://t.co/yCcMwWvRCU\n\n@Sakura_RinSaki 老婆大人♥︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Sakura_RinSaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.ecpay.tw/aPtD",
+                "end": 94,
+                "expanded_url": "http://a.ecpay.tw/aPtD",
+                "start": 71,
+                "url": "https://t.co/yCcMwWvRCU"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "大宋 - 白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 59,
+          "like_count": 3174,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

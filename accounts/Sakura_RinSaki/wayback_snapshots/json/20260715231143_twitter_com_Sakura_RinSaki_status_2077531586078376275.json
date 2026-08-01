@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077415262836621370",
+    "created_at": "2026-07-15T23:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077531586078376275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024565245428322304",
+          "start": 0,
+          "username": "tiger66172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077531586078376275",
+    "in_reply_to_user_id": "2024565245428322304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077415262836621370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiger66172 偷咬一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077415259497963521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2LAFaIAEy3Gr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077415262836621370",
+        "created_at": "2026-07-15T23:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077531586078376275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024565245428322304",
+              "start": 0,
+              "username": "tiger66172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077531586078376275",
+        "in_reply_to_user_id": "2024565245428322304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077415262836621370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiger66172 偷咬一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077415259497963521"
+          ]
+        },
+        "author_id": "2024565245428322304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077415262836621370",
+        "created_at": "2026-07-15T15:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077415262836621370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78Ppf5jy8P",
+              "end": 39,
+              "expanded_url": "https://x.com/tiger66172/status/2077415262836621370/photo/1",
+              "media_key": "3_2077415259497963521",
+              "start": 16,
+              "url": "https://t.co/78Ppf5jy8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415262836621370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oooooo 好o愛o 天天o https://t.co/78Ppf5jy8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 133,
+          "like_count": 6060,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 4963
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T19:22:40.000Z",
+        "description": "出場日期2010.04.07|Hrt日期2024.11.12|175cm|52kg|INFP|酒好喝😋|偶尔发发电|🎸.mai|抑郁 双向 o zc🤓|",
+        "id": "2024565245428322304",
+        "location": "台灣",
+        "name": "伊伊II🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070201203951316992/SJaCycdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 149,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "tiger66172",
+        "verified": false
+      }
+    ]
+  }
+}

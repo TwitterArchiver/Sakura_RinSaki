@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2024600989672841305",
+    "created_at": "2026-02-20T21:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T22:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024956456089595967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1294492339805839362",
+          "start": 0,
+          "username": "facean4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024956456089595967",
+    "in_reply_to_user_id": "1294492339805839362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024902510818050280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@facean4 新的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2024600989672841305",
+        "created_at": "2026-02-20T21:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024956456089595967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1294492339805839362",
+              "start": 0,
+              "username": "facean4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024956456089595967",
+        "in_reply_to_user_id": "1294492339805839362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024902510818050280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facean4 新的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294492339805839362",
+        "conversation_id": "2024600989672841305",
+        "created_at": "2026-02-20T17:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024902510818050280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024902510818050280",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024600989672841305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 是新头像喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 72,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1021
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T04:33:39.000Z",
+        "description": "none",
+        "id": "1294492339805839362",
+        "name": "facean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295578538444169217/vaV_iOqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 71,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "facean4",
+        "verified": false
+      }
+    ]
+  }
+}

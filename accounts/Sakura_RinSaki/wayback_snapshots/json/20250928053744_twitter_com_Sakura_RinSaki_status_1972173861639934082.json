@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1971900474103418969",
+    "created_at": "2025-09-28T05:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T06:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972173861639934082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724087334772285440",
+          "start": 0,
+          "username": "kiriyoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972173861639934082",
+    "in_reply_to_user_id": "1724087334772285440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972059697642721568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriyoX 🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1971900474103418969",
+        "created_at": "2025-09-28T05:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972173861639934082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724087334772285440",
+              "start": 0,
+              "username": "kiriyoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972173861639934082",
+        "in_reply_to_user_id": "1724087334772285440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972059697642721568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriyoX 🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724087334772285440",
+        "conversation_id": "1971900474103418969",
+        "created_at": "2025-09-27T22:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T23:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972059697642721568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972059697642721568",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971900474103418969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 炸櫃進病院的案例這裡有一個w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937534658205691904/zhGwDYdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 44,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 282
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T15:30:39.000Z",
+        "description": "在學MTX｜165｜Minecraft PJSK｜DEV Design｜渴望愛與溫暖｜是超高親和度的懶散生物｜半家暴黨｜02/14無證微糖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiriyo.link",
+                "end": 23,
+                "expanded_url": "https://kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/vYuthJc6Cy"
+              }
+            ]
+          }
+        },
+        "id": "1724087334772285440",
+        "location": "台北 Taiwan",
+        "name": "為夢而行(kiriyo)🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934462444912693248/laZRSScW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 140,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/vYuthJc6Cy",
+        "username": "kiriyoX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2013977580110520470",
+    "created_at": "2026-01-22T17:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014397514246717548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1262403927472930816",
+          "start": 0,
+          "username": "KwsN8GsT7BNzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014397514246717548",
+    "in_reply_to_user_id": "1262403927472930816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014283790060069061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KwsN8GsT7BNzH 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-22T17:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014397514246717548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1262403927472930816",
+              "start": 0,
+              "username": "KwsN8GsT7BNzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014397514246717548",
+        "in_reply_to_user_id": "1262403927472930816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014283790060069061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KwsN8GsT7BNzH 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262403927472930816",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-22T10:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014283790060069061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014283790060069061",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013977580110520470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 64,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 624
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T15:25:31.000Z",
+        "description": "我是冰制~~~涼到徹底🧊一坨超魂的魂🧊廢到非洲ㄉ爆肝程式音符（CH🤔JP🤔EN🤔（畫畫...就那樣好了🧊（頭文字D起來！（p到不能再pㄉp人（我的E是很多I組成ㄉ（老車玩家~（資電宅、老車宅、音樂宅綜合體（想到再加~",
+        "id": "1262403927472930816",
+        "location": "寒冰王國的田裡",
+        "name": "冰制𖣘こりせい（無量轉發系~（あああああ（轟炸中（太閒系~",
+        "pinned_tweet_id": "1916771323147325573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975603277363634176/GqAKAV7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1795,
+          "like_count": 56548,
+          "listed_count": 8,
+          "media_count": 1053,
+          "tweet_count": 34514
+        },
+        "username": "KwsN8GsT7BNzH",
+        "verified": false
+      }
+    ]
+  }
+}

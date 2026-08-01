@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053903091788100004",
+    "created_at": "2026-05-12T22:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054335204140220879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047152618188029952",
+          "start": 0,
+          "username": "bayunxiaoke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054335204140220879",
+    "in_reply_to_user_id": "2047152618188029952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054045917129662953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bayunxiaoke 喵 不怎麼有印象的粉絲！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053903091788100004",
+        "created_at": "2026-05-12T22:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054335204140220879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047152618188029952",
+              "start": 0,
+              "username": "bayunxiaoke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054335204140220879",
+        "in_reply_to_user_id": "2047152618188029952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054045917129662953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bayunxiaoke 喵 不怎麼有印象的粉絲！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047152618188029952",
+        "conversation_id": "2053903091788100004",
+        "created_at": "2026-05-12T03:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054045917129662953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054045917129662953",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053903091788100004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 好像是前两天看到你，然后记住了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 102,
+          "like_count": 4313,
+          "listed_count": 7,
+          "media_count": 221,
+          "tweet_count": 3817
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T03:16:54.000Z",
+        "description": "",
+        "id": "2047152618188029952",
+        "location": "时代万达新宿广场",
+        "name": "八雲白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047154800752746496/j3IqY2_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 37,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 84
+        },
+        "username": "bayunxiaoke",
+        "verified": false
+      }
+    ]
+  }
+}

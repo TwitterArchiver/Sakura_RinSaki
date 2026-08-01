@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2078761761902297408",
+    "created_at": "2026-07-23T04:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080152242360033728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1962345834173104128",
+          "start": 0,
+          "username": "vrcpre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080152242360033728",
+    "in_reply_to_user_id": "1962345834173104128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078761761902297408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vrcpre 參加"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2078695030139879424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkCHdPbgAArUaT.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2078761761902297408",
+        "created_at": "2026-07-23T04:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080152242360033728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1962345834173104128",
+              "start": 0,
+              "username": "vrcpre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080152242360033728",
+        "in_reply_to_user_id": "1962345834173104128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078761761902297408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vrcpre 參加"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078695030139879424"
+          ]
+        },
+        "author_id": "1962345834173104128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Virtual Reality",
+              "id": "898670051594649601",
+              "name": "Virtual reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2078761761902297408",
+        "created_at": "2026-07-19T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078761761902297408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "VRC"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "VRChat"
+            },
+            {
+              "end": 107,
+              "start": 97,
+              "tag": "metaquest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdGYGCBeDk",
+              "end": 131,
+              "expanded_url": "https://x.com/vrcpre/status/2078761761902297408/photo/1",
+              "media_key": "3_2078695030139879424",
+              "start": 108,
+              "url": "https://t.co/pdGYGCBeDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078761761902297408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 72875,
+          "like_count": 853,
+          "quote_count": 15,
+          "reply_count": 487,
+          "retweet_count": 1113
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#VRC #VRChat 夏休みゲリラ企画📢\n＼\n\n🎁内容（各1名）\nVRゴーグル３種（①～③）\n\n✅参加条件\n・フォロー＆リポスト\n・『参加』リプライ（任意）\n\n✅応募締切\n7月22日\n\n#metaquest https://t.co/pdGYGCBeDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 134,
+          "like_count": 6213,
+          "listed_count": 11,
+          "media_count": 283,
+          "tweet_count": 5077
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T02:45:03.000Z",
+        "description": "#VRChat 好きとつながりたい VRChat好きの方のために微力ながらプレゼント企画を実施していきます🎁（アバター、衣装等）フォロー&リポストで参加可能です⭐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "VRChat"
+              }
+            ]
+          }
+        },
+        "id": "1962345834173104128",
+        "name": "ねころん@VRChat支援🎁固定ポスト参照",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003500353522925569/E0sjOidj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 3232,
+          "like_count": 2733,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "vrcpre",
+        "verified": false
+      }
+    ]
+  }
+}

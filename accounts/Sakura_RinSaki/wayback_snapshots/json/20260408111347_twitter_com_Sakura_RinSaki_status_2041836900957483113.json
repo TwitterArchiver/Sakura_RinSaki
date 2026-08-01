@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041836896222113797"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2041836900957483113",
+    "created_at": "2026-04-08T11:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041836900957483113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BePkYsq6EZ",
+          "end": 157,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2041836900957483113/photo/1",
+          "media_key": "3_2041836896222113797",
+          "start": 134,
+          "url": "https://t.co/BePkYsq6EZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041836900957483113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "討厭男的…… 尤其是那種超級大直噁男 好噁心\n一直說咱是gay什麼的 明明知道咱是跨 還一直說是gay 這個就算了 \n\n看不出來人家現在心情不好嗎 看不出來嗎 對 看不出來 大直男就是這樣子 不會讀空氣 好過分……\n\n說話噁心 還不會讀空氣 噁心死了 好噁心 好噁心 https://t.co/BePkYsq6EZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041836896222113797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYP1sia8AUIB-8.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041836896222113797"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2041836900957483113",
+        "created_at": "2026-04-08T11:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041836900957483113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BePkYsq6EZ",
+              "end": 157,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2041836900957483113/photo/1",
+              "media_key": "3_2041836896222113797",
+              "start": 134,
+              "url": "https://t.co/BePkYsq6EZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041836900957483113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "討厭男的…… 尤其是那種超級大直噁男 好噁心\n一直說咱是gay什麼的 明明知道咱是跨 還一直說是gay 這個就算了 \n\n看不出來人家現在心情不好嗎 看不出來嗎 對 看不出來 大直男就是這樣子 不會讀空氣 好過分……\n\n說話噁心 還不會讀空氣 噁心死了 好噁心 好噁心 https://t.co/BePkYsq6EZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 105,
+          "like_count": 2889,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2977
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

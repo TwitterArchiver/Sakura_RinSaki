@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074715704520270297",
+    "created_at": "2026-07-08T05:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074735188521967992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "802450977135525888",
+          "start": 0,
+          "username": "2Jshizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074735188521967992",
+    "in_reply_to_user_id": "802450977135525888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074715704520270297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Jshizuku （呆呆看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074715704520270297",
+        "created_at": "2026-07-08T05:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074735188521967992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "802450977135525888",
+              "start": 0,
+              "username": "2Jshizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074735188521967992",
+        "in_reply_to_user_id": "802450977135525888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074715704520270297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Jshizuku （呆呆看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802450977135525888",
+        "conversation_id": "2074715704520270297",
+        "created_at": "2026-07-08T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074715704520270297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "可爱吧！！每天六点直播！喜欢的宝宝点点关注！, 视频播放量 96978、弹幕量 166、点赞数 8173、投硬币枚数 194、收藏人数 1884、转发人数 1179, 视频作者 h46, 作者简介 可爱对吧？但是是男主播。喜欢的宝宝点点关注谢谢！，相关视频：为什么你去JHP没人找你ERP?，我还是决定去卖了，【VRChat】最新版手机端下载教程，一秒把群里的男通炸出来 2.0，我发现我爸偷我裙子穿，【VRChat】账号注册与绑定steam教程，幼儿园，爬到女生床上。。。，我不是变态，我只是忘了换衣服。。，当你有了VR设备，反着穿没毛病啊",
+              "display_url": "b23.tv/lJA3sbm",
+              "end": 43,
+              "expanded_url": "https://b23.tv/lJA3sbm",
+              "start": 20,
+              "status": 200,
+              "title": "我准备开一个ERP体验馆_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1aaFSzyEEp/?buvid=XU6FCD1646E93A94DFEF9C60F4BCFFCFDDC46&from_spmid=main.my-history.0.0&is_story_h5=false&mid=K%2Fa0uyGj4ZyhjrD9pGxfy38FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android_i&share_plat=android&share_session_id=1c00f630-4a10-4ba8-b4b0-943b18418d9f&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1783485701&unique_k=lJA3sbm&up_id=678612",
+              "url": "https://t.co/8i8um0A0Vl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074715704520270297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【我准备开一个ERP体验馆-哔哩哔哩】 https://t.co/8i8um0A0Vl\n跟前輩學習一下開店經驗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 131,
+          "like_count": 5755,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4697
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "location": "台灣",
+        "name": "2J綾崎雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1157,
+          "like_count": 26817,
+          "listed_count": 3,
+          "media_count": 1276,
+          "tweet_count": 10964
+        },
+        "url": "",
+        "username": "2Jshizuku",
+        "verified": true
+      }
+    ]
+  }
+}

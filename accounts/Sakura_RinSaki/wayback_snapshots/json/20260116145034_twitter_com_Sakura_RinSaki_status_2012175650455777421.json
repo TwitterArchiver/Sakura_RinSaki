@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2012175650455777421",
+    "created_at": "2026-01-16T14:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012175650455777421"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012175650455777421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "還是覺得會鹿管的小藥娘很奇怪 可能 咱比他們更異類吧    \n畢竟 不是所有人都可以扛得住三大慾望的本能 好痛苦 要一直禁欲 這不是咱的身體 咱不想用這種方式去使用它 好噁心 它連在咱身上 是一條Bug"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2012175650455777421",
+        "created_at": "2026-01-16T14:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012175650455777421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012175650455777421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還是覺得會鹿管的小藥娘很奇怪 可能 咱比他們更異類吧    \n畢竟 不是所有人都可以扛得住三大慾望的本能 好痛苦 要一直禁欲 這不是咱的身體 咱不想用這種方式去使用它 好噁心 它連在咱身上 是一條Bug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 68,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 534
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

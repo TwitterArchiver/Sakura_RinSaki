@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053624150166749296",
+    "created_at": "2026-05-11T09:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053765547683402178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "802450977135525888",
+          "start": 0,
+          "username": "2Jshizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053765547683402178",
+    "in_reply_to_user_id": "802450977135525888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053713228040192036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Jshizuku 嗚欸 麻麻就叫麻麻就好QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053624150166749296",
+        "created_at": "2026-05-11T09:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053765547683402178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "802450977135525888",
+              "start": 0,
+              "username": "2Jshizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053765547683402178",
+        "in_reply_to_user_id": "802450977135525888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053713228040192036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Jshizuku 嗚欸 麻麻就叫麻麻就好QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802450977135525888",
+        "conversation_id": "2053624150166749296",
+        "created_at": "2026-05-11T05:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053713228040192036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053713228040192036",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053624150166749296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 我不要了ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨 吸血喵喵\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 100,
+          "like_count": 4204,
+          "listed_count": 7,
+          "media_count": 215,
+          "tweet_count": 3731
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "location": "台灣",
+        "name": "2J綾崎雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1131,
+          "like_count": 26201,
+          "listed_count": 3,
+          "media_count": 1261,
+          "tweet_count": 10807
+        },
+        "username": "2Jshizuku",
+        "verified": true
+      }
+    ]
+  }
+}

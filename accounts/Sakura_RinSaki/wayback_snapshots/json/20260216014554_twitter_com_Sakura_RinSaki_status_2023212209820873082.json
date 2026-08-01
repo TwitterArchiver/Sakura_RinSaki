@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2023188474002866497",
+    "created_at": "2026-02-16T01:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023212209820873082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782771721759862785",
+          "start": 0,
+          "username": "kawaryuu_cute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023212209820873082",
+    "in_reply_to_user_id": "1782771721759862785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023191821799817224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaryuu_cute 174 超級不吉利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2023188474002866497",
+        "created_at": "2026-02-16T01:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023212209820873082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782771721759862785",
+              "start": 0,
+              "username": "kawaryuu_cute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023212209820873082",
+        "in_reply_to_user_id": "1782771721759862785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023191821799817224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaryuu_cute 174 超級不吉利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782771721759862785",
+        "conversation_id": "2023188474002866497",
+        "created_at": "2026-02-16T00:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023191821799817224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023191821799817224",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023188474002866497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 絨絨多高哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 71,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 861
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T14:01:26.000Z",
+        "description": "一隻可愛的龍 18⬆️ 170/50喜歡可愛的東西 不接色色 DMで🆗",
+        "id": "1782771721759862785",
+        "location": "台灣",
+        "name": "ㄌㄌ的龍龍",
+        "pinned_tweet_id": "1793727735556456847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782772593776611329/E_aN1mxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 93,
+          "like_count": 1395,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 100
+        },
+        "username": "kawaryuu_cute",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904129360942231552"
+      ],
+      "media_source_tweet_id": [
+        "1904129371880738857"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1904249907525107930",
+    "created_at": "2025-03-24T19:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T20:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904249907525107930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801382796436639745",
+          "start": 3,
+          "username": "_Snow0717"
+        },
+        {
+          "end": 31,
+          "id": "1407034837953748995",
+          "start": 16,
+          "username": "Kinaiyurun0128"
+        },
+        {
+          "end": 47,
+          "id": "1898849785559580672",
+          "start": 32,
+          "username": "Sakura_RinSaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/huHUOhfalV",
+          "end": 78,
+          "expanded_url": "https://x.com/_Snow0717/status/1904129371880738857/photo/1",
+          "media_key": "3_1904129360942231552",
+          "start": 55,
+          "url": "https://t.co/huHUOhfalV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904249907525107930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904129371880738857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Snow0717: 跟@Kinaiyurun0128和@Sakura_RinSaki一起出来玩了～ https://t.co/huHUOhfalV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1904129360942231552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzTkLVacAAHJsk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904129360942231552"
+          ],
+          "media_source_tweet_id": [
+            "1904129371880738857"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904249907525107930",
+        "created_at": "2025-03-24T19:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T20:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904249907525107930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801382796436639745",
+              "start": 3,
+              "username": "_Snow0717"
+            },
+            {
+              "end": 31,
+              "id": "1407034837953748995",
+              "start": 16,
+              "username": "Kinaiyurun0128"
+            },
+            {
+              "end": 47,
+              "id": "1898849785559580672",
+              "start": 32,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huHUOhfalV",
+              "end": 78,
+              "expanded_url": "https://x.com/_Snow0717/status/1904129371880738857/photo/1",
+              "media_key": "3_1904129360942231552",
+              "start": 55,
+              "url": "https://t.co/huHUOhfalV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904249907525107930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904129371880738857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Snow0717: 跟@Kinaiyurun0128和@Sakura_RinSaki一起出来玩了～ https://t.co/huHUOhfalV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904129360942231552"
+          ]
+        },
+        "author_id": "1801382796436639745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904129371880738857",
+        "created_at": "2025-03-24T11:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T12:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904129371880738857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1407034837953748995",
+              "start": 1,
+              "username": "Kinaiyurun0128"
+            },
+            {
+              "end": 32,
+              "id": "1898849785559580672",
+              "start": 17,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huHUOhfalV",
+              "end": 63,
+              "expanded_url": "https://x.com/_Snow0717/status/1904129371880738857/photo/1",
+              "media_key": "3_1904129360942231552",
+              "start": 40,
+              "url": "https://t.co/huHUOhfalV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904129371880738857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟@Kinaiyurun0128和@Sakura_RinSaki一起出来玩了～ https://t.co/huHUOhfalV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨隱藏丨隱藏\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 无证含糖 2024.05.21\n║重度抑郁 / 疑似双相二型 / ADHD / BPD / 疑似ASD\n║家里蹲 / 音游人 / 渴望温暖\n║喜欢@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "_SnowUra0717"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 1311,
+          "like_count": 2874,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1133
+        },
+        "username": "_Snow0717",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "18歲高中生/接援交中/善待這個世界 卻被無情折磨/男想變女/思覺失調 重度抑鬱",
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1810643240733032908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 500,
+          "like_count": 88553,
+          "listed_count": 4,
+          "media_count": 755,
+          "tweet_count": 19172
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

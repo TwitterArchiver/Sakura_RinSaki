@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923895458834821121"
+      ],
+      "media_source_tweet_id": [
+        "1923895461368430608"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2051160726648303978",
+    "created_at": "2026-05-04T04:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051160726648303978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6DNUysIsgd",
+          "end": 66,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/1923895461368430608/photo/1",
+          "media_key": "3_1923895458834821121",
+          "start": 43,
+          "url": "https://t.co/6DNUysIsgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051160726648303978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923895461368430608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 什麼都不想做，不想努力，再怎麼努力也做不到啊 https://t.co/6DNUysIsgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_1923895458834821121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrMMugDWMAEOgKH.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923895458834821121"
+          ],
+          "media_source_tweet_id": [
+            "1923895461368430608"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2051160726648303978",
+        "created_at": "2026-05-04T04:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051160726648303978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DNUysIsgd",
+              "end": 66,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1923895461368430608/photo/1",
+              "media_key": "3_1923895458834821121",
+              "start": 43,
+              "url": "https://t.co/6DNUysIsgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051160726648303978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923895461368430608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 什麼都不想做，不想努力，再怎麼努力也做不到啊 https://t.co/6DNUysIsgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923895458834821121"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "1923895461368430608",
+        "created_at": "2025-05-18T00:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T01:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923895461368430608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DNUysIsgd",
+              "end": 46,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/1923895461368430608/photo/1",
+              "media_key": "3_1923895458834821121",
+              "start": 23,
+              "url": "https://t.co/6DNUysIsgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923895461368430608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1522,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "什麼都不想做，不想努力，再怎麼努力也做不到啊 https://t.co/6DNUysIsgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 92,
+          "like_count": 3725,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 3442
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

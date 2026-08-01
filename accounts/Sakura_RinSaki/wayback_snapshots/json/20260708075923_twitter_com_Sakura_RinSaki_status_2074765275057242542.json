@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074521703032721914",
+    "created_at": "2026-07-08T07:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074765275057242542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "906487635425730561",
+          "start": 0,
+          "username": "Benlin0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074765275057242542",
+    "in_reply_to_user_id": "906487635425730561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074521703032721914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benlin0707 縮角落OAO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2074521239046246401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMouE1xa0AEk7fq.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074521703032721914",
+        "created_at": "2026-07-08T07:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074765275057242542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "906487635425730561",
+              "start": 0,
+              "username": "Benlin0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074765275057242542",
+        "in_reply_to_user_id": "906487635425730561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074521703032721914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benlin0707 縮角落OAO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074521239046246401"
+          ]
+        },
+        "author_id": "906487635425730561",
+        "conversation_id": "2074521703032721914",
+        "created_at": "2026-07-07T15:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074521703032721914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ME9MhLqy4",
+              "end": 39,
+              "expanded_url": "https://x.com/Benlin0707/status/2074521703032721914/photo/1",
+              "media_key": "3_2074521239046246401",
+              "start": 16,
+              "url": "https://t.co/8ME9MhLqy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074521703032721914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝大家\n好多人🎉\n我好開心🎂 https://t.co/8ME9MhLqy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 132,
+          "like_count": 5755,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4698
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-09T12:01:08.000Z",
+        "description": "🍄MushroomCat🍄板栗蘑菇🌰板栗是個蘑菇貓🍄是一個有CP的VRC玩家🙂\n蘑菇是聖物 紅色是信仰 我喜歡摸摸 貼貼 抱抱 玩遊戲 看Vtuber 我也喜歡出去玩\n  偶爾發一下我想發的 #VRChat",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "VRChat"
+              }
+            ]
+          }
+        },
+        "id": "906487635425730561",
+        "location": "Tainan City, Taiwan",
+        "name": "Benlin🍄板栗キノコ🌰VRC",
+        "pinned_tweet_id": "2024513219675771118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843333388276736000/t4qQs6oB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 106,
+          "like_count": 3850,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Benlin0707",
+        "verified": false
+      }
+    ]
+  }
+}

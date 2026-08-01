@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2030143800707104768",
+    "created_at": "2026-03-08T03:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030481611314327765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030481611314327765",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030143800707104768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 嗚哇 好好看！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2030143795917193216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyFBrabgAAretY.jpg",
+        "width": 1129
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2030143795912912896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyFBrZaMAAsxW_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2030143800707104768",
+        "created_at": "2026-03-08T03:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030481611314327765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030481611314327765",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030143800707104768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 嗚哇 好好看！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030143795917193216",
+            "3_2030143795912912896"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2030143800707104768",
+        "created_at": "2026-03-07T04:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030143800707104768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o68ysh2c44",
+              "end": 65,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2030143800707104768/photo/1",
+              "media_key": "3_2030143795917193216",
+              "start": 42,
+              "url": "https://t.co/o68ysh2c44"
+            },
+            {
+              "display_url": "pic.x.com/o68ysh2c44",
+              "end": 65,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2030143800707104768/photo/1",
+              "media_key": "3_2030143795912912896",
+              "start": 42,
+              "url": "https://t.co/o68ysh2c44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030143800707104768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21754,
+          "like_count": 443,
+          "quote_count": 2,
+          "reply_count": 79,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "6000关注非常感谢，更新一个自我介绍，希望大家可以更加了解我，这样比较容易互动。 https://t.co/o68ysh2c44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 88,
+          "like_count": 1961,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 1820
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男的！//日常推//看女装直接去亮点//都内一般会社員//120% sub//169cm 50-60Kg//不扩列//提问箱📦https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 89,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 66,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "塩化Ayano",
+        "pinned_tweet_id": "2030143800707104768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6351,
+          "following_count": 538,
+          "like_count": 2502,
+          "listed_count": 29,
+          "media_count": 136,
+          "tweet_count": 2782
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

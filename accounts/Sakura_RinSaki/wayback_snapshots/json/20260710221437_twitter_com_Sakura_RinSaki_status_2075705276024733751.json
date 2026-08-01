@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2073081133521420788",
+    "created_at": "2026-07-10T22:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075705276024733751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587787644419072000",
+          "start": 0,
+          "username": "AmeHoshimiya"
+        },
+        {
+          "end": 29,
+          "id": "1604837080663617537",
+          "start": 14,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075705276024733751",
+    "in_reply_to_user_id": "1587787644419072000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073235832325165179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeHoshimiya @Natsukikawaii_ 哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2073081133521420788",
+        "created_at": "2026-07-10T22:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075705276024733751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587787644419072000",
+              "start": 0,
+              "username": "AmeHoshimiya"
+            },
+            {
+              "end": 29,
+              "id": "1604837080663617537",
+              "start": 14,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075705276024733751",
+        "in_reply_to_user_id": "1587787644419072000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073235832325165179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeHoshimiya @Natsukikawaii_ 哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587787644419072000",
+        "conversation_id": "2073081133521420788",
+        "created_at": "2026-07-04T02:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073235832325165179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073235832325165179",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073081133521420788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Natsukikawaii_ 壞小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 132,
+          "like_count": 5766,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4713
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T12:44:18.000Z",
+        "description": "MtF 持大證含糖\nhrt|2019/03/27|大家都要好好活著呦喵\n寶貝: @moexi_neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "moexi_neko"
+              }
+            ]
+          }
+        },
+        "id": "1587787644419072000",
+        "location": "taiwan",
+        "name": "Hoshimiya ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062666398594441216/31qJh3gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 209,
+          "like_count": 5238,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "AmeHoshimiya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "門檻🚪520\n提供陪聊 偶爾會發大尺度照片\n銀行轉帳請私訊我\n-\n可投餵夏希ᐡ ̳ᴗ ̫ ᴗ ̳ᐡ（綠界⬇️）\n使用綠界入門檻請告訴我你是誰\nhttps://t.co/yCcMwWvRCU\n\n@Sakura_RinSaki 老婆大人♥︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Sakura_RinSaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.ecpay.tw/aPtD",
+                "end": 94,
+                "expanded_url": "http://a.ecpay.tw/aPtD",
+                "start": 71,
+                "url": "https://t.co/yCcMwWvRCU"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "大宋 - 白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 59,
+          "like_count": 3174,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

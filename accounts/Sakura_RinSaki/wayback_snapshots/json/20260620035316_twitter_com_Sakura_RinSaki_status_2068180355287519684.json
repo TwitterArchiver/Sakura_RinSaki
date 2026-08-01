@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2067205900465852686",
+    "created_at": "2026-06-20T03:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068180355287519684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628968696315265024",
+          "start": 0,
+          "username": "kuronekoVTTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068180355287519684",
+    "in_reply_to_user_id": "1628968696315265024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067216683920732266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuronekoVTTV 是黑色的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2067205900465852686",
+        "created_at": "2026-06-20T03:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068180355287519684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628968696315265024",
+              "start": 0,
+              "username": "kuronekoVTTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068180355287519684",
+        "in_reply_to_user_id": "1628968696315265024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067216683920732266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuronekoVTTV 是黑色的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628968696315265024",
+        "conversation_id": "2067205900465852686",
+        "created_at": "2026-06-17T12:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067216683920732266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067216683920732266",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067205900465852686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 是過膝襪!!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 121,
+          "like_count": 5179,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 4410
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T04:03:28.000Z",
+        "description": "🇹🇼 Vtuber/個人勢\n我是貓星球1●歲的高中貓娘，在人類世界的名字是子音露玖，平常最喜歡換上可愛的衣服，喝著手搖飲邊玩遊戲。\n直播內容是：APEX、單機遊戲、歌回、雜談\n希望大家能夠在露玖開台的時候，陪伴著露玖\n繪師馬麻： @hosizukikagami\n曬家常菜： #玖家菜\n露玖請看：#微笑小露露",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "玖家菜"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "微笑小露露"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "hosizukikagami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kuroneko0423",
+                "end": 23,
+                "expanded_url": "https://lit.link/kuroneko0423",
+                "start": 0,
+                "url": "https://t.co/EilzkCXrmp"
+              }
+            ]
+          }
+        },
+        "id": "1628968696315265024",
+        "location": "貓之國",
+        "name": "子音露玖/遜砲系貓娘VTuber",
+        "pinned_tweet_id": "1845430984952643755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728364487538032640/AbM46sT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 901,
+          "like_count": 12807,
+          "listed_count": 6,
+          "media_count": 600,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/EilzkCXrmp",
+        "username": "kuronekoVTTV",
+        "verified": false
+      }
+    ]
+  }
+}

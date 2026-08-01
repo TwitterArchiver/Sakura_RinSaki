@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1909028318269276388",
+    "created_at": "2025-04-06T23:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T00:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909028318269276388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957544663275028481",
+          "start": 3,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909028318269276388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908866416239128976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuBanXia1120: 我发现嗓音女性化训练需要语料，然后，那些语料太死板太无趣，我提供以下语料\n我觉得现在的人生，就很幸福了。\n对我来说，做一个普通的女孩子，只是一种奢望。如果能普通的穿起裙子，束起长发，普通的像你表白，普通的向你相爱，可是，我做不到。\n你欠我个人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1909028318269276388",
+        "created_at": "2025-04-06T23:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T00:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909028318269276388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957544663275028481",
+              "start": 3,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909028318269276388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908866416239128976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SuBanXia1120: 我发现嗓音女性化训练需要语料，然后，那些语料太死板太无趣，我提供以下语料\n我觉得现在的人生，就很幸福了。\n对我来说，做一个普通的女孩子，只是一种奢望。如果能普通的穿起裙子，束起长发，普通的像你表白，普通的向你相爱，可是，我做不到。\n你欠我个人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "1908866416239128976",
+        "created_at": "2025-04-06T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908866416239128976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908866416239128976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现嗓音女性化训练需要语料，然后，那些语料太死板太无趣，我提供以下语料\n我觉得现在的人生，就很幸福了。\n对我来说，做一个普通的女孩子，只是一种奢望。如果能普通的穿起裙子，束起长发，普通的像你表白，普通的向你相爱，可是，我做不到。\n你欠我个人情哦，想还的话，就帮我做件事吧。\n如果有一天我不在了，你会怎么样？\n从那天起，你就成了我生命中最重要的人。\n不管看不看得到，我都知道，你就在这里啊。\n不，不需要那么久。爱，只需要一瞬就够了。\n我不是忘了什么重要的事……而是忘了一个重要的人。\n课题也好，我的记忆也好。总有一天，我会靠着自己的努力找回来的。\n那个，我叫苏半夏，谢谢你救了我。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 7485,
+          "like_count": 100,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现嗓音女性化训练需要语料，然后，那些语料太死板太无趣，我提供以下语料\n我觉得现在的人生，就很幸福了。\n对我来说，做一个普通的女孩子，只是一种奢望。如果能普通的穿起裙子，束起长发，普通的像你表白，普通的向你相爱，可是，我做不到。\n你欠我个人情哦，想还的话，就帮我做件事吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 29,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 103
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”好友🚪50丨性转幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 62,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 39,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 93,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 70,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1906248656321479019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17513,
+          "following_count": 892,
+          "like_count": 6598,
+          "listed_count": 52,
+          "media_count": 593,
+          "tweet_count": 4012
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

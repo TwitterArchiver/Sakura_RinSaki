@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2039866304056942654",
+    "created_at": "2026-04-04T08:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040338859175854129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1413430234775384066",
+          "start": 0,
+          "username": "notagoodiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040338859175854129",
+    "in_reply_to_user_id": "1413430234775384066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039866304056942654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notagoodiea 看看！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2039866304056942654",
+        "created_at": "2026-04-04T08:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040338859175854129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1413430234775384066",
+              "start": 0,
+              "username": "notagoodiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338859175854129",
+        "in_reply_to_user_id": "1413430234775384066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039866304056942654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notagoodiea 看看！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413430234775384066",
+        "conversation_id": "2039866304056942654",
+        "created_at": "2026-04-03T00:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039866304056942654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039866304056942654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪完头发现在看起来跟BL本子里面会出现的人物一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 102,
+          "like_count": 2794,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 2888
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-09T09:30:13.000Z",
+        "description": "🏳️‍⚧️ she/they TransWomen\n\\crybaby\\shy\\💗bi\n\n     | 💕 Air-soft |\n⚡ Embedded-hardware\n| 🍲 sometimes cook",
+        "id": "1413430234775384066",
+        "name": "小块小块的在冰箱里🩵🩷🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987577888615571456/PjlJeZM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 143,
+          "like_count": 2824,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 519
+        },
+        "username": "notagoodiea",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T09:30:13.000Z",
+        "description": "🏳️‍⚧️ she/they TransWomen\n\\crybaby\\shy\\💗bi\n\n     | 💕 Air-soft |\n⚡ Embedded-hardware\n| 🍲 sometimes cook",
+        "id": "1413430234775384066",
+        "name": "小块小块的在冰箱里🩵🩷🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987577888615571456/PjlJeZM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 143,
+          "like_count": 2824,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "notagoodiea",
+        "verified": false
+      }
+    ]
+  }
+}

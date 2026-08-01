@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2072221685714235615",
+    "created_at": "2026-07-02T10:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072628463358607543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "754731084693196800",
+          "start": 0,
+          "username": "jsp_ch102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072628463358607543",
+    "in_reply_to_user_id": "754731084693196800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072221685714235615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsp_ch102 小天超可愛！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2072221682568478720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMICpCVbQAApBHP.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2072221685714235615",
+        "created_at": "2026-07-02T10:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072628463358607543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "754731084693196800",
+              "start": 0,
+              "username": "jsp_ch102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072628463358607543",
+        "in_reply_to_user_id": "754731084693196800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072221685714235615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsp_ch102 小天超可愛！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072221682568478720"
+          ]
+        },
+        "author_id": "754731084693196800",
+        "conversation_id": "2072221685714235615",
+        "created_at": "2026-07-01T07:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072221685714235615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfDPbjlsTr",
+              "end": 36,
+              "expanded_url": "https://x.com/jsp_ch102/status/2072221685714235615/photo/1",
+              "media_key": "3_2072221682568478720",
+              "start": 13,
+              "url": "https://t.co/lfDPbjlsTr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0055935f345a3649"
+        },
+        "id": "2072221685714235615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3095,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你們這群人到底想要幹嘛啦 https://t.co/lfDPbjlsTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 129,
+          "like_count": 5617,
+          "listed_count": 10,
+          "media_count": 271,
+          "tweet_count": 4633
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-17T17:34:47.000Z",
+        "description": "￤ 天 a.k.a. 羽鳥誠\n￤ ✦ ᴠʀᴄ：დTian~〞\n￤ ᴍᴜꜱɪᴄ / ᴅᴇʟɪᴄᴀᴄʏ / ᴊᴏᴜʀɴᴇʏ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/jspch102",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/jspch102",
+                "start": 0,
+                "url": "https://t.co/kD1mRnFzDR"
+              }
+            ]
+          }
+        },
+        "id": "754731084693196800",
+        "location": "Taiwan",
+        "name": "羽鳥誠 დTian~〞",
+        "pinned_tweet_id": "1368164924271194117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035998298801377280/e57iWS9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 5445,
+          "like_count": 88665,
+          "listed_count": 2,
+          "media_count": 1761,
+          "tweet_count": 10112
+        },
+        "url": "https://t.co/kD1mRnFzDR",
+        "username": "jsp_ch102",
+        "verified": false
+      }
+    ]
+  }
+}

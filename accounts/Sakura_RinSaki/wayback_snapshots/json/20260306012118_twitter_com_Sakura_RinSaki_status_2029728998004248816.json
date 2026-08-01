@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2029353644567740527",
+    "created_at": "2026-03-06T01:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T02:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029728998004248816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025449560580259844",
+          "start": 0,
+          "username": "AlimataOue45353"
+        },
+        {
+          "end": 31,
+          "id": "1777127815558975488",
+          "start": 17,
+          "username": "946552143544k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029728998004248816",
+    "in_reply_to_user_id": "2025449560580259844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029353644567740527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlimataOue45353 @946552143544k 學！！！ 50音先背 可以去找情勒貓頭鷹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2029353644567740527",
+        "created_at": "2026-03-06T01:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029728998004248816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025449560580259844",
+              "start": 0,
+              "username": "AlimataOue45353"
+            },
+            {
+              "end": 31,
+              "id": "1777127815558975488",
+              "start": 17,
+              "username": "946552143544k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029728998004248816",
+        "in_reply_to_user_id": "2025449560580259844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029353644567740527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlimataOue45353 @946552143544k 學！！！ 50音先背 可以去找情勒貓頭鷹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025449560580259844",
+        "conversation_id": "2029353644567740527",
+        "created_at": "2026-03-05T00:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029353644567740527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029353644567740527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想学日语诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 83,
+          "like_count": 1850,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1638
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥HRT.25.10.29，南京，上海INTJ，17，162",
+        "id": "2025449560580259844",
+        "location": "TsukiumiRyue",
+        "name": "镇命🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029165415197519872/o1Kjr695_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 62,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "AlimataOue45353",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:14:40.000Z",
+        "description": "镇命@AlimataOue45353，大猫咪@x16_46280721，清水，南京，上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AlimataOue45353"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "x16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1777127815558975488",
+        "name": "月螢🍥つきホタル",
+        "pinned_tweet_id": "2029406342533005456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707303386857472/OU3Tl8gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 557,
+          "like_count": 16062,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 490
+        },
+        "username": "946552143544k",
+        "verified": false
+      }
+    ]
+  }
+}

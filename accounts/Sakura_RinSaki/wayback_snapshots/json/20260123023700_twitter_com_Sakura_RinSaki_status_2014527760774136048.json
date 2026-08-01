@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2013977580110520470",
+    "created_at": "2026-01-23T02:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T03:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014527760774136048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1179355487785013248",
+          "start": 0,
+          "username": "LeeKimberley2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014527760774136048",
+    "in_reply_to_user_id": "1179355487785013248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014422486281289894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeKimberley2 抱抱抱!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-23T02:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T03:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014527760774136048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1179355487785013248",
+              "start": 0,
+              "username": "LeeKimberley2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014527760774136048",
+        "in_reply_to_user_id": "1179355487785013248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014422486281289894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeKimberley2 抱抱抱!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1179355487785013248",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-22T19:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014422486281289894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014422486281289894",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013977580110520470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 64,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 637
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-02T11:20:52.000Z",
+        "description": "",
+        "id": "1179355487785013248",
+        "name": "悲伤排骨汤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648028714977087488/gBgHMgyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 2802,
+          "like_count": 28591,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 10981
+        },
+        "username": "LeeKimberley2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2027683500628005371",
+    "created_at": "2026-02-28T23:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T00:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027885384945057901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "18190842",
+          "start": 0,
+          "username": "yukiexe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027885384945057901",
+    "in_reply_to_user_id": "18190842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027884260804444165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiexe 想要穿出門被大家拍照的…… 自己好像太貪心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2027683500628005371",
+        "created_at": "2026-02-28T23:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027885384945057901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "18190842",
+              "start": 0,
+              "username": "yukiexe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027885384945057901",
+        "in_reply_to_user_id": "18190842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027884260804444165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiexe 想要穿出門被大家拍照的…… 自己好像太貪心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18190842",
+        "conversation_id": "2027683500628005371",
+        "created_at": "2026-02-28T23:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027884260804444165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027884260804444165",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027683500628005371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 如果只是拍照的話，搞好角度就好看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 76,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1256
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-17T15:21:48.000Z",
+        "description": "Steam | 雏草姬 | mmo 萬小時玩家 | 🏳️‍⚧️",
+        "id": "18190842",
+        "name": "咚醬🍥",
+        "pinned_tweet_id": "899001601410572288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027850738647633920/QLxHDQW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 2157,
+          "like_count": 63933,
+          "listed_count": 69,
+          "media_count": 3646,
+          "tweet_count": 155175
+        },
+        "username": "yukiexe",
+        "verified": false
+      }
+    ]
+  }
+}

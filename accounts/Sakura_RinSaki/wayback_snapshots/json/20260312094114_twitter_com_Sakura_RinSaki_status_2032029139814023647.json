@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2032014521238503563",
+    "created_at": "2026-03-12T09:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032029139814023647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Sennya0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032029139814023647",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032014521238503563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sennya0717 咱都直接封鎖……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2032014521238503563",
+        "created_at": "2026-03-12T09:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032029139814023647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Sennya0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032029139814023647",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032014521238503563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sennya0717 咱都直接封鎖……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2032014521238503563",
+        "created_at": "2026-03-12T08:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032014521238503563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032014521238503563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了几个小时的threads\n知道为什么都说那边是粪坑了\n讨论跨性别兵役问题\n一堆人连跨性别是什么都还没搞清楚就开喷了\n你妈是没生脑子给你是不是啦\n讨论一个议题前先了解相关名词很难吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 95,
+          "like_count": 2127,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 2153
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 持证含糖 2025.02.11\n║中度抑郁 / 双相二型 / 焦虑症 / ADHD / BPD / 阿斯伯格 / CPTSD\n║音游人 / 渴望温暖 / 努力变得健全\n║网页是更详细的自介（施工中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/3kWAHiQr3p"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 1661,
+          "like_count": 9026,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 3227
+        },
+        "url": "https://t.co/3kWAHiQr3p",
+        "username": "_Sennya0717",
+        "verified": false
+      }
+    ]
+  }
+}

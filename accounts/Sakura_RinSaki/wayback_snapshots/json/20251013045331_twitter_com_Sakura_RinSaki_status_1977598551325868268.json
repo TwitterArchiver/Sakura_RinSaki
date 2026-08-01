@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1977535153074585986",
+    "created_at": "2025-10-13T04:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977598551325868268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977598551325868268",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977535153074585986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 咕嗚…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1977535153074585986",
+        "created_at": "2025-10-13T04:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977598551325868268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977598551325868268",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977535153074585986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 咕嗚…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430312926737354753",
+        "conversation_id": "1977535153074585986",
+        "created_at": "2025-10-13T00:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977535153074585986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977535153074585986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做愛根本是吸d\n一旦染上了 根本就停不下來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 48,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 304
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "曼波波波 (⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠｡⁠∩⁠`⁠) 含糖",
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "青日午言",
+        "pinned_tweet_id": "1808048839485804733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976171146774290432/U1XvMIc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7637,
+          "following_count": 96,
+          "like_count": 15449,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1504
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

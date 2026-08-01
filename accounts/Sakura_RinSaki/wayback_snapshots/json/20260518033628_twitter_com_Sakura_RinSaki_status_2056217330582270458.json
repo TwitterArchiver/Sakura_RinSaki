@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2056174755452174699",
+    "created_at": "2026-05-18T03:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056217330582270458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581609984755830784",
+          "start": 0,
+          "username": "smallchili04186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056217330582270458",
+    "in_reply_to_user_id": "1581609984755830784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056174755452174699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smallchili04186 只能摸摸小辣椒（摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2056174755452174699",
+        "created_at": "2026-05-18T03:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056217330582270458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581609984755830784",
+              "start": 0,
+              "username": "smallchili04186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056217330582270458",
+        "in_reply_to_user_id": "1581609984755830784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056174755452174699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallchili04186 只能摸摸小辣椒（摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581609984755830784",
+        "conversation_id": "2056174755452174699",
+        "created_at": "2026-05-18T00:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056174755452174699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056174755452174699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "說實話\n我好想努力\n但就是動不了\n好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 102,
+          "like_count": 4390,
+          "listed_count": 7,
+          "media_count": 222,
+          "tweet_count": 3868
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T11:36:30.000Z",
+        "description": "@luonbe69永遠的烏鴉老師\n尊重包容🏳️‍⚧️/🏳️‍🌈\n記性不好請見諒\n\n死にたい僕は今日も息をして\n一心尋死的我今天依然呼吸著\n生きたい君は明日を見失って\n渴求活命的你卻迷失在明日---だれかの心臓になれたなら",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "luonbe69"
+              }
+            ]
+          }
+        },
+        "id": "1581609984755830784",
+        "location": "黑暗的深淵",
+        "name": "小辣椒🌶(好累⍩",
+        "pinned_tweet_id": "1851792001756467477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683425490407940097/DrdIMPdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1210,
+          "like_count": 224417,
+          "listed_count": 0,
+          "media_count": 716,
+          "tweet_count": 8059
+        },
+        "username": "smallchili04186",
+        "verified": false
+      }
+    ]
+  }
+}

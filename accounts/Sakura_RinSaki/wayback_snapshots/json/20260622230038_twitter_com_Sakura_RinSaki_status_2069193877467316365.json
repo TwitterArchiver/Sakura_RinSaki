@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2068187402267709892",
+    "created_at": "2026-06-22T23:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T00:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069193877467316365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1294492339805839362",
+          "start": 0,
+          "username": "facean4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069193877467316365",
+    "in_reply_to_user_id": "1294492339805839362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068187402267709892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@facean4 快樂喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2068187396215316480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOteqhaoAAXofU.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2068187402267709892",
+        "created_at": "2026-06-22T23:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069193877467316365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1294492339805839362",
+              "start": 0,
+              "username": "facean4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069193877467316365",
+        "in_reply_to_user_id": "1294492339805839362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068187402267709892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facean4 快樂喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068187396215316480"
+          ]
+        },
+        "author_id": "1294492339805839362",
+        "conversation_id": "2068187402267709892",
+        "created_at": "2026-06-20T04:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068187402267709892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8tBJP1dKeO",
+              "end": 29,
+              "expanded_url": "https://x.com/facean4/status/2068187402267709892/photo/1",
+              "media_key": "3_2068187396215316480",
+              "start": 6,
+              "url": "https://t.co/8tBJP1dKeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068187402267709892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "端午快乐哦 https://t.co/8tBJP1dKeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 128,
+          "like_count": 5422,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 4504
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T04:33:39.000Z",
+        "description": "interested in math & computer science.\ncraving connection, but falling at it. :(",
+        "id": "1294492339805839362",
+        "name": "facean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295578538444169217/vaV_iOqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 3106,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "facean4",
+        "verified": false
+      }
+    ]
+  }
+}

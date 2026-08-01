@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2069651444572324196",
+    "created_at": "2026-06-25T12:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070129754427273647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509808650512216065",
+          "start": 0,
+          "username": "Wmouse_kon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070129754427273647",
+    "in_reply_to_user_id": "1509808650512216065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069651444572324196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wmouse_kon 缺氧喵？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2069651441632137216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjhBUtb0AAbAXz.jpg",
+        "width": 1068
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069651431179841538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjhAtxacAILphO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069651444572324196",
+        "created_at": "2026-06-25T12:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070129754427273647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509808650512216065",
+              "start": 0,
+              "username": "Wmouse_kon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070129754427273647",
+        "in_reply_to_user_id": "1509808650512216065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069651444572324196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wmouse_kon 缺氧喵？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069651441632137216",
+            "3_2069651431179841538"
+          ]
+        },
+        "author_id": "1509808650512216065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069651444572324196",
+        "created_at": "2026-06-24T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069651444572324196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6ek4hklkg",
+              "end": 126,
+              "expanded_url": "https://x.com/Wmouse_kon/status/2069651444572324196/photo/1",
+              "media_key": "3_2069651441632137216",
+              "start": 103,
+              "url": "https://t.co/c6ek4hklkg"
+            },
+            {
+              "display_url": "pic.x.com/c6ek4hklkg",
+              "end": 126,
+              "expanded_url": "https://x.com/Wmouse_kon/status/2069651444572324196/photo/1",
+              "media_key": "3_2069651431179841538",
+              "start": 103,
+              "url": "https://t.co/c6ek4hklkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069651444572324196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从炎热的室外进入开着空调的房间而感到舒适时，我有时就会想到《Oxygen Not Included》的液体冷却装置以及整套的空调模块，突然有了想玩的冲动，捣鼓这些东西太有意思了！\n\n空调真是最伟大的发明！ https://t.co/c6ek4hklkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 129,
+          "like_count": 5606,
+          "listed_count": 10,
+          "media_count": 259,
+          "tweet_count": 4580
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T08:23:42.000Z",
+        "description": "有些焦虑强迫│\n喜欢插画、游戏、音乐│\n希望身边的朋友天天开心│\n没人会关注电影片尾的致谢名单，除非电影内容精彩绝伦，所以我的朋友，人生最重要的是过程。│\n想发一些自己的碎碎念│fbm🍥 鲜虾鱼板面（x",
+        "id": "1509808650512216065",
+        "name": "锡鼠白茶",
+        "pinned_tweet_id": "2057845958457876516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509809920169893888/IGbHNkOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 39,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Wmouse_kon",
+        "verified": true
+      }
+    ]
+  }
+}

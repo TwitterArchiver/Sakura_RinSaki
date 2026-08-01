@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2074352842065027214",
+    "created_at": "2026-07-08T03:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074691686840914318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "802450977135525888",
+          "start": 0,
+          "username": "2Jshizuku"
+        },
+        {
+          "end": 22,
+          "id": "1454879017442676742",
+          "start": 11,
+          "username": "Alguien727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074691686840914318",
+    "in_reply_to_user_id": "802450977135525888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074687925607129490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Jshizuku @Alguien727 麻麻教！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074352842065027214",
+        "created_at": "2026-07-08T03:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074691686840914318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "802450977135525888",
+              "start": 0,
+              "username": "2Jshizuku"
+            },
+            {
+              "end": 22,
+              "id": "1454879017442676742",
+              "start": 11,
+              "username": "Alguien727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074691686840914318",
+        "in_reply_to_user_id": "802450977135525888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074687925607129490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Jshizuku @Alguien727 麻麻教！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802450977135525888",
+        "conversation_id": "2074352842065027214",
+        "created_at": "2026-07-08T02:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074687925607129490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 27,
+              "id": "1454879017442676742",
+              "start": 16,
+              "username": "Alguien727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074687925607129490",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074667785226235952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Alguien727 麻麻是對的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 131,
+          "like_count": 5737,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4695
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "location": "台灣",
+        "name": "2J綾崎雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1157,
+          "like_count": 26813,
+          "listed_count": 3,
+          "media_count": 1276,
+          "tweet_count": 10961
+        },
+        "url": "",
+        "username": "2Jshizuku",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-31T18:33:00.000Z",
+        "description": "...see you_to_no_more",
+        "id": "1454879017442676742",
+        "name": "LL_bani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050711773029048320/XAkxEt_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 2607,
+          "like_count": 18117,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "Alguien727",
+        "verified": false
+      }
+    ]
+  }
+}

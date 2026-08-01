@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2067259329548550446",
+    "created_at": "2026-06-17T15:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067262504833802259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724348868585013248",
+          "start": 0,
+          "username": "kiriu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067262504833802259",
+    "in_reply_to_user_id": "1724348868585013248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067261172097933451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiriu07 腿環的東東"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2067259329548550446",
+        "created_at": "2026-06-17T15:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067262504833802259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "kiriu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067262504833802259",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067261172097933451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiriu07 腿環的東東"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724348868585013248",
+        "conversation_id": "2067259329548550446",
+        "created_at": "2026-06-17T15:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067261172097933451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067261172097933451",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067259329548550446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 唔？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066947176077623296/-LdqtVSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 115,
+          "like_count": 4721,
+          "listed_count": 9,
+          "media_count": 250,
+          "tweet_count": 4198
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 主帳號系統已進入警急狀態並去世(🍥) / 一切以網站為主 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/n3HrUiPmzq"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "location": "Taiwan Taipei",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021740981062971393/0ODalPMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 66,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/n3HrUiPmzq",
+        "username": "kiriu07",
+        "verified": false
+      }
+    ]
+  }
+}

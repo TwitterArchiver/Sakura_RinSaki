@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2059270242438938924",
+    "created_at": "2026-06-20T03:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068174553071989153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1992400222866329600",
+          "start": 0,
+          "username": "len12zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068174553071989153",
+    "in_reply_to_user_id": "1992400222866329600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059285118964183145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@len12zz 才不要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2059270242438938924",
+        "created_at": "2026-06-20T03:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068174553071989153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1992400222866329600",
+              "start": 0,
+              "username": "len12zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068174553071989153",
+        "in_reply_to_user_id": "1992400222866329600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059285118964183145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@len12zz 才不要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992400222866329600",
+        "conversation_id": "2059270242438938924",
+        "created_at": "2026-05-26T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059285118964183145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059285118964183145",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270242438938924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 要好好活着哦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 119,
+          "like_count": 5033,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 4336
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T01:10:19.000Z",
+        "description": "你好呀 可以叫我len或煎饼丨坐标济南丨顺女丨infp丨 LGBTQ友好丨中抑中焦丨休学丨我割（戒o中丨音游丨都来聊天好不好喵 我很好相处(^∇^*)成分回fo 可以直接私信 我非常无聊。\n永远纪念@yinghuamu265421😔茶，你将永远活在我心里 我爱你〒_〒\n哥哥@Hoshizaki_Nayu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "yinghuamu265421"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Hoshizaki_Nayu"
+              }
+            ]
+          }
+        },
+        "id": "1992400222866329600",
+        "location": "白色空间",
+        "name": "len🥞",
+        "pinned_tweet_id": "2032862413998141634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035240803115966464/NvMM9Aad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 105,
+          "like_count": 1705,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "len12zz",
+        "verified": false
+      }
+    ]
+  }
+}

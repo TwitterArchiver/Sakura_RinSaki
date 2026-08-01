@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1978051384709972235",
+    "created_at": "2025-10-14T12:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T13:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978078671056625838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535494228838494208",
+          "start": 0,
+          "username": "Cake9239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978078671056625838",
+    "in_reply_to_user_id": "1535494228838494208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978073173745656046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cake9239 嗯嗯……謝謝泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1978051384709972235",
+        "created_at": "2025-10-14T12:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978078671056625838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535494228838494208",
+              "start": 0,
+              "username": "Cake9239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978078671056625838",
+        "in_reply_to_user_id": "1535494228838494208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978073173745656046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cake9239 嗯嗯……謝謝泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535494228838494208",
+        "conversation_id": "1978051384709972235",
+        "created_at": "2025-10-14T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978073173745656046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978073173745656046",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978051384709972235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 交朋友无论性别只看人品性格，注意好个人隐私的前提下适度流露真心，有一天你会交到让你自在放松的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 50,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 330
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T05:28:55.000Z",
+        "description": "健全模式:开丨🐌丨知识的荒原→🧠丨给我掰点bot丨早上中午下午晚上好丨匿名提问随时来找我呀wwwwwwww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cake9239",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cake9239",
+                "start": 0,
+                "url": "https://t.co/26r8CysWN8"
+              }
+            ]
+          }
+        },
+        "id": "1535494228838494208",
+        "location": "REdge",
+        "name": "「ReCake」です——",
+        "pinned_tweet_id": "1595247758822506498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634840917596323840/LO74fNH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 464,
+          "like_count": 30625,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/26r8CysWN8",
+        "username": "Cake9239",
+        "verified": false
+      }
+    ]
+  }
+}

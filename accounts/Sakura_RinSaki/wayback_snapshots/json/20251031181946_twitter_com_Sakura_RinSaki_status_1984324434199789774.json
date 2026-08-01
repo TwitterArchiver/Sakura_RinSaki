@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1981024276145951106",
+    "created_at": "2025-10-31T18:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T19:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984324434199789774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758209539726540800",
+          "start": 0,
+          "username": "CELESTIALWORTY"
+        },
+        {
+          "end": 32,
+          "id": "1886602820314624000",
+          "start": 16,
+          "username": "sakaitakashi916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984324434199789774",
+    "in_reply_to_user_id": "1758209539726540800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984300653389517149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CELESTIALWORTY @sakaitakashi916 咕嗚……？（困惑的看著兩個人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1981024276145951106",
+        "created_at": "2025-10-31T18:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T19:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984324434199789774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758209539726540800",
+              "start": 0,
+              "username": "CELESTIALWORTY"
+            },
+            {
+              "end": 32,
+              "id": "1886602820314624000",
+              "start": 16,
+              "username": "sakaitakashi916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984324434199789774",
+        "in_reply_to_user_id": "1758209539726540800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984300653389517149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CELESTIALWORTY @sakaitakashi916 咕嗚……？（困惑的看著兩個人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758209539726540800",
+        "conversation_id": "1981024276145951106",
+        "created_at": "2025-10-31T16:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984300653389517149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886602820314624000",
+              "start": 0,
+              "username": "sakaitakashi916"
+            },
+            {
+              "end": 32,
+              "id": "1898849785559580672",
+              "start": 17,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984300653389517149",
+        "in_reply_to_user_id": "1886602820314624000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984300302049427503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakaitakashi916 @Sakura_RinSaki 别急，在打RON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 62,
+          "like_count": 494,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 404
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T19:20:11.000Z",
+        "description": "物語の結末は俺が決める",
+        "id": "1758209539726540800",
+        "location": "Wonder World",
+        "name": "神山とうま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983554084239286272/lSbdn0En_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 417,
+          "like_count": 7986,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 377
+        },
+        "username": "CELESTIALWORTY",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T02:29:16.000Z",
+        "description": "世界は一つの屋根の下に集う家族",
+        "id": "1886602820314624000",
+        "location": "日本 大阪",
+        "name": "氢氟酸不氢氟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886602899171749888/xX0Kp9uL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 137
+        },
+        "username": "sakaitakashi916",
+        "verified": false
+      }
+    ]
+  }
+}

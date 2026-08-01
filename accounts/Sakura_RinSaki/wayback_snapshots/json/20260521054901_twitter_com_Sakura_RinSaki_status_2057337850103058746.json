@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2053281877407170770",
+    "created_at": "2026-05-21T05:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057337850103058746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1744024593243987968",
+          "start": 0,
+          "username": "hgsbtin_roti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057337850103058746",
+    "in_reply_to_user_id": "1744024593243987968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053800231708557792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_roti 嗯喵…… 會 記住的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2053281877407170770",
+        "created_at": "2026-05-21T05:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057337850103058746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744024593243987968",
+              "start": 0,
+              "username": "hgsbtin_roti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057337850103058746",
+        "in_reply_to_user_id": "1744024593243987968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053800231708557792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_roti 嗯喵…… 會 記住的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744024593243987968",
+        "conversation_id": "2053281877407170770",
+        "created_at": "2026-05-11T11:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053800231708557792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053800231708557792",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053281877407170770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 唔.. 对绒绒的好感度 .. 80!\n所以不会突然离开喵，放心喵~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 108,
+          "like_count": 4438,
+          "listed_count": 8,
+          "media_count": 225,
+          "tweet_count": 3917
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-07T15:54:09.000Z",
+        "description": "MtF🏳️‍⚧️🍥 | 174/50 | ❤️@hgsbtin_nisaki 无论今后会发生什么 | 是银狐娘~ 喜欢涩涩 |\n还喜欢 词源学 & 语音学, 拉丁语, 英语, 日语, 认知 & 生物心理学, 脑科学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1744024593243987968",
+        "name": "洛緹狐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033314956385591296/DqsvjACp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 52,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "username": "hgsbtin_roti",
+        "verified": false
+      }
+    ]
+  }
+}

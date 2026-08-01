@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2054109325074014241",
+    "created_at": "2026-05-13T01:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054378292048990398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1717380682144751616",
+          "start": 0,
+          "username": "Orisries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054378292048990398",
+    "in_reply_to_user_id": "1717380682144751616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054109325074014241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orisries 孫逸玟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2054038201942364160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFo3KXbUAAd0gv.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2054109325074014241",
+        "created_at": "2026-05-13T01:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054378292048990398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1717380682144751616",
+              "start": 0,
+              "username": "Orisries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054378292048990398",
+        "in_reply_to_user_id": "1717380682144751616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054109325074014241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orisries 孫逸玟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054038201942364160"
+          ]
+        },
+        "author_id": "1717380682144751616",
+        "conversation_id": "2054109325074014241",
+        "created_at": "2026-05-12T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054109325074014241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "休息時間"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmZiAEvUk6",
+              "end": 178,
+              "expanded_url": "https://x.com/Orisries/status/2054109325074014241/photo/1",
+              "media_key": "3_2054038201942364160",
+              "start": 155,
+              "url": "https://t.co/wmZiAEvUk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054109325074014241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "休息時間"
+              },
+              {
+                "end": 198,
+                "start": 192,
+                "tag": "萬源聖魔錄"
+              },
+              {
+                "end": 211,
+                "start": 199,
+                "tag": "全球首創春色格戰SLG"
+              },
+              {
+                "end": 222,
+                "start": 212,
+                "tag": "PlayHorny"
+              }
+            ]
+          },
+          "text": "#休息時間\n\n如果真的有一整天不用處理任何事、也不用上前線，\n指揮官覺得最會把時間拿去補眠的角色會是誰？ 😴\n\n💬 在下方留言一位角色名稱即可參加活動\n🎁 露西亞將抽出 3 位指揮官送出精美小禮物！\n⏰ 活動截止至 2026/05/14 23:59 (UTC+8)\n\n活動截止後，3 個工作日內公布得獎名單。\n未依指定要求留言，不具抽獎資格。\n每人一則留言，非活動留言將進行刪除。\n\n#萬源聖魔錄\n#全球首創春色格戰SLG\n#PlayHorny"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 748,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#休息時間\n\n如果真的有一整天不用處理任何事、也不用上前線，\n指揮官覺得最會把時間拿去補眠的角色會是誰？ 😴\n\n💬 在下方留言一位角色名稱即可參加活動\n🎁 露西亞將抽出 3 位指揮官送出精美小禮物！\n⏰ 活動截止至 2026/05/14 23:59 (UTC+8)\n\n活動截止後，3 個工作日內公布得獎名單。 https://t.co/wmZiAEvUk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 102,
+          "like_count": 4319,
+          "listed_count": 7,
+          "media_count": 221,
+          "tweet_count": 3819
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T03:20:47.000Z",
+        "description": "全球首創💖春色格戰SLG！\n真香戰場，立刻加入 ✊\n👉 https://t.co/vAb1LTaqNk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "playhorny.pse.is/6dxrwf",
+                "end": 51,
+                "expanded_url": "https://playhorny.pse.is/6dxrwf",
+                "start": 28,
+                "url": "https://t.co/vAb1LTaqNk"
+              }
+            ]
+          }
+        },
+        "id": "1717380682144751616",
+        "name": "萬源聖魔錄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765936431875457024/k9m5o_1O_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7477,
+          "following_count": 5,
+          "like_count": 168,
+          "listed_count": 10,
+          "media_count": 941,
+          "tweet_count": 2451
+        },
+        "username": "Orisries",
+        "verified": false
+      }
+    ]
+  }
+}

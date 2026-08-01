@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045959168595738624"
+      ],
+      "media_source_tweet_id": [
+        "2045959171334648292"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2045959647501418497",
+    "created_at": "2026-04-19T20:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045959647501418497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948797747089604613",
+          "start": 3,
+          "username": "BloodCatOvO"
+        },
+        {
+          "end": 48,
+          "id": "1898849785559580672",
+          "start": 33,
+          "username": "Sakura_RinSaki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 76,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/iu6q12MWC5"
+        },
+        {
+          "display_url": "pic.x.com/HYWb0G24wO",
+          "end": 100,
+          "expanded_url": "https://x.com/BloodCatOvO/status/2045959171334648292/photo/1",
+          "media_key": "3_2045959168595738624",
+          "start": 77,
+          "url": "https://t.co/HYWb0G24wO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045959647501418497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045959171334648292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BloodCatOvO: 我在Twitter上的暗恋是  @Sakura_RinSaki\n\n➡️ https://t.co/iu6q12MWC5 https://t.co/HYWb0G24wO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2045959168595738624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGS1Bh0aQAAzJhh.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045959168595738624"
+          ],
+          "media_source_tweet_id": [
+            "2045959171334648292"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2045959647501418497",
+        "created_at": "2026-04-19T20:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045959647501418497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948797747089604613",
+              "start": 3,
+              "username": "BloodCatOvO"
+            },
+            {
+              "end": 48,
+              "id": "1898849785559580672",
+              "start": 33,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 76,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/iu6q12MWC5"
+            },
+            {
+              "display_url": "pic.x.com/HYWb0G24wO",
+              "end": 100,
+              "expanded_url": "https://x.com/BloodCatOvO/status/2045959171334648292/photo/1",
+              "media_key": "3_2045959168595738624",
+              "start": 77,
+              "url": "https://t.co/HYWb0G24wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045959647501418497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045959171334648292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BloodCatOvO: 我在Twitter上的暗恋是  @Sakura_RinSaki\n\n➡️ https://t.co/iu6q12MWC5 https://t.co/HYWb0G24wO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045959168595738624"
+          ]
+        },
+        "author_id": "1948797747089604613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2045959171334648292",
+        "created_at": "2026-04-19T20:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045959171334648292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1898849785559580672",
+              "start": 16,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 59,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/iu6q12MWC5"
+            },
+            {
+              "display_url": "pic.x.com/HYWb0G24wO",
+              "end": 83,
+              "expanded_url": "https://x.com/BloodCatOvO/status/2045959171334648292/photo/1",
+              "media_key": "3_2045959168595738624",
+              "start": 60,
+              "url": "https://t.co/HYWb0G24wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045959171334648292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Sakura_RinSaki\n\n➡️ https://t.co/iu6q12MWC5 https://t.co/HYWb0G24wO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 112,
+          "like_count": 3243,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 3113
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow @hgsbtin_nisaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "location": "台北市, 台灣",
+        "name": "血貓🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 650,
+          "like_count": 5451,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 1206
+        },
+        "username": "BloodCatOvO",
+        "verified": false
+      }
+    ]
+  }
+}

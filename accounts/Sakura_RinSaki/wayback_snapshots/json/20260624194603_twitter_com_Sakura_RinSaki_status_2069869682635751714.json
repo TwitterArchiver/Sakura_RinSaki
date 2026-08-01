@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2069086744251920515",
+    "created_at": "2026-06-24T19:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069869682635751714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720111177072820224",
+          "start": 0,
+          "username": "BowChanWAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069869682635751714",
+    "in_reply_to_user_id": "1720111177072820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069620471398588604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BowChanWAU 喵一個！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069086744251920515",
+        "created_at": "2026-06-24T19:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069869682635751714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720111177072820224",
+              "start": 0,
+              "username": "BowChanWAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069869682635751714",
+        "in_reply_to_user_id": "1720111177072820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069620471398588604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BowChanWAU 喵一個！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720111177072820224",
+        "conversation_id": "2069086744251920515",
+        "created_at": "2026-06-24T03:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069620471398588604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069620471398588604",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069086744251920515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 說啥呢？男孩也會"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 129,
+          "like_count": 5586,
+          "listed_count": 10,
+          "media_count": 258,
+          "tweet_count": 4559
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-02T16:10:49.000Z",
+        "description": "這裡是豹欠擬哪喂，不要問我哪位，知道的都知道，不知道就重新認識吧！\n這支是專門看V的觀眾帳號，如果偷偷挖出其他帳號不要說出來哦\n(๑•̀ω•́๑)\n喜歡到處逛逛到處留言，如果有看到我：🤫 打招呼什麼的請私訊👀。\n這個人目前努力跨出腳步到處認識新朋友(๑•̀ω•́๑)",
+        "id": "1720111177072820224",
+        "location": "無法存取定位資訊，請開啟定位功能啟用此功能",
+        "name": "豹欠擬哪喂",
+        "pinned_tweet_id": "2047310342041342317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724132521431162880/xq-yLg1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 41,
+          "like_count": 2968,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "BowChanWAU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2017574374036148713",
+    "created_at": "2026-02-01T06:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017851621791937020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        },
+        {
+          "end": 29,
+          "id": "1801382796436639745",
+          "start": 17,
+          "username": "_Sennya0717"
+        },
+        {
+          "end": 41,
+          "id": "1377114572843184139",
+          "start": 30,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017851621791937020",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017574374036148713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 @_Sennya0717 @SONY846995 嗚嗚嗚 羨慕出門貼貼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017574364221476866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__dMddbEAI-T44.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2017574374036148713",
+        "created_at": "2026-02-01T06:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017851621791937020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            },
+            {
+              "end": 29,
+              "id": "1801382796436639745",
+              "start": 17,
+              "username": "_Sennya0717"
+            },
+            {
+              "end": 41,
+              "id": "1377114572843184139",
+              "start": 30,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017851621791937020",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017574374036148713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 @_Sennya0717 @SONY846995 嗚嗚嗚 羨慕出門貼貼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017574364221476866"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2017574374036148713",
+        "created_at": "2026-01-31T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017574374036148713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1801382796436639745",
+              "start": 12,
+              "username": "_Sennya0717"
+            },
+            {
+              "end": 36,
+              "id": "1377114572843184139",
+              "start": 25,
+              "username": "SONY846995"
+            },
+            {
+              "end": 54,
+              "id": "1430312926737354753",
+              "start": 38,
+              "username": "sushiching_2006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGjULtke02",
+              "end": 78,
+              "expanded_url": "https://x.com/sushiching_2006/status/2017574374036148713/photo/1",
+              "media_key": "3_2017574364221476866",
+              "start": 55,
+              "url": "https://t.co/FGjULtke02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017574374036148713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帶千夜吃千葉火鍋！！！\n@_Sennya0717\n@SONY846995 \n@sushiching_2006 https://t.co/FGjULtke02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 67,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 732
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "是19y的貓貓吶❤️\n座標：台中 歡迎線下貼貼！！😺\n@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "你的人格裡",
+        "name": "🍥小晴好困喵🍥",
+        "pinned_tweet_id": "1996790764144398397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016321736883732480/euT3pj6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10836,
+          "following_count": 131,
+          "like_count": 17214,
+          "listed_count": 12,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学 ║INFP / 猫猫 ║MtF / 家长党 / 持证含糖 2025.02.11 ║重度抑郁 /双相二型 / ADHD / BPD / 阿斯伯格 / CPTSD ║家里蹲 / 音游人 / 渴望温暖 ║最爱的人@qinaiyurun ║网页是更详细的自介（施工中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "qinaiyurun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/6J8k5faIlx"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 1633,
+          "like_count": 8266,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/6J8k5faIlx",
+        "username": "_Sennya0717",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n    \n我家的銀漸層😺 @sushiching_2006 💕\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "廢文"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "sushiching_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "1437803738752638980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999003066167865347/a0jEihmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 131,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 994
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

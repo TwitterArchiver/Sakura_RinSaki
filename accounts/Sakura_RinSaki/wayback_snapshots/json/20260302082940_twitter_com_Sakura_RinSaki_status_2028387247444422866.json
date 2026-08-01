@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2028387247444422866",
+    "created_at": "2026-03-02T08:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028387247444422866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028387247444422866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908089317274026086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 好想死掉好想死掉好想死掉，每次想到自己高二才知道药圈都会想死掉，怎么这么晚才知道可以吃药改变，有一种明明有选择却不知道的后悔感，换成简体字好了，这样大家都看得到，自己好缺爱…… 想活的可可愛愛的，而不是天天抑鬱為什麼不是女孩子這件事情，好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2028387247444422866",
+        "created_at": "2026-03-02T08:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028387247444422866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028387247444422866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908089317274026086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 好想死掉好想死掉好想死掉，每次想到自己高二才知道药圈都会想死掉，怎么这么晚才知道可以吃药改变，有一种明明有选择却不知道的后悔感，换成简体字好了，这样大家都看得到，自己好缺爱…… 想活的可可愛愛的，而不是天天抑鬱為什麼不是女孩子這件事情，好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1908089317274026086",
+        "created_at": "2025-04-04T09:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908089317274026086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908089317274026086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 847,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想死掉好想死掉好想死掉，每次想到自己高二才知道药圈都会想死掉，怎么这么晚才知道可以吃药改变，有一种明明有选择却不知道的后悔感，换成简体字好了，这样大家都看得到，自己好缺爱…… 想活的可可愛愛的，而不是天天抑鬱為什麼不是女孩子這件事情，好討厭這個世界呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 79,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1354
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

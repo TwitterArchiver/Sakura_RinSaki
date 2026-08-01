@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2080737500625252782",
+    "created_at": "2026-07-26T20:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081479230626615408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2017509827367567360",
+          "start": 0,
+          "username": "ChenY78806"
+        },
+        {
+          "end": 27,
+          "id": "1604837080663617537",
+          "start": 12,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081479230626615408",
+    "in_reply_to_user_id": "2017509827367567360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081263194254045347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY78806 @Natsukikawaii_ 雜魚雜魚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2080737500625252782",
+        "created_at": "2026-07-26T20:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081479230626615408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017509827367567360",
+              "start": 0,
+              "username": "ChenY78806"
+            },
+            {
+              "end": 27,
+              "id": "1604837080663617537",
+              "start": 12,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081479230626615408",
+        "in_reply_to_user_id": "2017509827367567360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081263194254045347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY78806 @Natsukikawaii_ 雜魚雜魚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017509827367567360",
+        "conversation_id": "2080737500625252782",
+        "created_at": "2026-07-26T06:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081263194254045347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081263194254045347",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080737500625252782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Natsukikawaii_ 雜魚~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 134,
+          "like_count": 6250,
+          "listed_count": 11,
+          "media_count": 284,
+          "tweet_count": 5105
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-31T08:06:49.000Z",
+        "description": "脆看太多了，決定回X看點清淡的",
+        "id": "2017509827367567360",
+        "location": "台灣",
+        "name": "Natsumu Shio 夏沐定潮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078126220911452160/DTk1ooFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 86,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "ChenY78806",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "門檻🚪520\n提供陪聊 偶爾會發大尺度照片\n銀行轉帳請私訊我\n-\n可投餵夏希ᐡ ̳ᴗ ̫ ᴗ ̳ᐡ（綠界⬇️）\n使用綠界入門檻請告訴我你是誰\nhttps://t.co/yCcMwWvRCU\n\n@Sakura_RinSaki 老婆大人♥︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Sakura_RinSaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.ecpay.tw/aPtD",
+                "end": 94,
+                "expanded_url": "http://a.ecpay.tw/aPtD",
+                "start": 71,
+                "url": "https://t.co/yCcMwWvRCU"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "大宋 - 白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 60,
+          "like_count": 3156,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

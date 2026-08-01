@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2038469915330650462",
+    "created_at": "2026-03-30T05:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038492575766843656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035931695732686848",
+          "start": 0,
+          "username": "chosen_but_dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038492575766843656",
+    "in_reply_to_user_id": "2035931695732686848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038490112733188592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chosen_but_dark 唉唉…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038490112733188592].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038490112733188592",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038490112733188592"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2038469915330650462",
+        "created_at": "2026-03-30T05:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038492575766843656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035931695732686848",
+              "start": 0,
+              "username": "chosen_but_dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038492575766843656",
+        "in_reply_to_user_id": "2035931695732686848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038490112733188592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chosen_but_dark 唉唉…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 101,
+          "like_count": 2586,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 2774
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T04:08:53.000Z",
+        "description": "在霰霰被天選之力選上的時候 這份力量將霰霰的內心撕扯出一塊新的空間 裡面充滿了黑暗 妄想 各種intrusive thought……/不喜勿入 充滿大量私人想法/進來的可以安慰一下嗎 沒有安慰看看也行…/找回正常（相對）的霰霰：@chosen_shotgun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 114,
+                "username": "chosen_shotgun"
+              }
+            ]
+          }
+        },
+        "id": "2035931695732686848",
+        "location": "內心 扭曲 崩壞 虛偽 隱藏的假象",
+        "name": "霰霰",
+        "pinned_tweet_id": "2035987094448075153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035932406054883328/HWDo5A5a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "chosen_but_dark",
+        "verified": false
+      }
+    ]
+  }
+}

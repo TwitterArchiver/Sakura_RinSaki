@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2046224709281620127",
+    "created_at": "2026-04-20T13:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:48:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046224574891917531",
+      "2046224709281620127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Natsukikawaii_…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/Natsukikawaii_/status/2046208947166879835",
+          "start": 125,
+          "url": "https://t.co/sUODbXBay7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046224709281620127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046208947166879835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被吃醋到底是啥感觉啊 \n被担心到底是啥感觉啊 \n被质问到底是啥感觉啊 \n被窥探到底是啥感觉啊  \n被保护到底是啥感觉啊  \n被偏爱到底是啥感觉啊  \n被包容到底是啥感觉啊  \n被信任到底是啥感觉啊  \n被轉钱到底是啥感觉啊  \n是唯一到底是啥感觉啊 https://t.co/sUODbXBay7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046224574891917531",
+        "created_at": "2026-04-20T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:48:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046224574891917531",
+          "2046224709281620127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Natsukikawaii_…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/Natsukikawaii_/status/2046208947166879835",
+              "start": 116,
+              "url": "https://t.co/sUODbXBay7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224574891917531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046208947166879835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊 被担心到底是啥感觉啊 被质问到底是啥感觉啊 被窥探到底是啥感觉啊  被保护到底是啥感觉啊  被偏爱到底是啥感觉啊  被包容到底是啥感觉啊  被信任到底是啥感觉啊  被转钱到底是啥感觉啊  是唯一到底是啥感觉啊 https://t.co/sUODbXBay7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046224709281620127",
+        "created_at": "2026-04-20T13:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:48:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046224574891917531",
+          "2046224709281620127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Natsukikawaii_…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/Natsukikawaii_/status/2046208947166879835",
+              "start": 125,
+              "url": "https://t.co/sUODbXBay7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224709281620127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046208947166879835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊 \n被担心到底是啥感觉啊 \n被质问到底是啥感觉啊 \n被窥探到底是啥感觉啊  \n被保护到底是啥感觉啊  \n被偏爱到底是啥感觉啊  \n被包容到底是啥感觉啊  \n被信任到底是啥感觉啊  \n被轉钱到底是啥感觉啊  \n是唯一到底是啥感觉啊 https://t.co/sUODbXBay7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604837080663617537",
+        "conversation_id": "2046208947166879835",
+        "created_at": "2026-04-20T12:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046208947166879835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bloodcatovo/st…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/bloodcatovo/status/2046186861849366669",
+              "start": 116,
+              "url": "https://t.co/fqZU9JmMom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046208947166879835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046186861849366669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊 \n被保护到底是啥感觉啊 \n被偏爱到底是啥感觉啊 \n被包容到底是啥感觉啊 \n被信任到底是啥感觉啊 \n被转钱到底是啥感觉啊 \n是唯一到底是啥感觉啊 https://t.co/fqZU9JmMom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 88,
+          "like_count": 3266,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 3122
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki すき♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 68,
+          "like_count": 2879,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1100
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

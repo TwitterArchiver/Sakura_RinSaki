@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2030295800056848810",
+    "created_at": "2026-03-07T14:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030296328937619844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1604837080663617537",
+          "start": 0,
+          "username": "natsuki_mtf"
+        },
+        {
+          "end": 26,
+          "id": "1849107584554598400",
+          "start": 13,
+          "username": "cartcarthank"
+        },
+        {
+          "end": 43,
+          "id": "1481461544953466883",
+          "start": 27,
+          "username": "AOEHpMlH3lXS9P7"
+        },
+        {
+          "end": 59,
+          "id": "1551454468398411776",
+          "start": 44,
+          "username": "chosen_shotgun"
+        },
+        {
+          "end": 76,
+          "id": "1406253336425205760",
+          "start": 60,
+          "username": "XofSGrgFSYJBbyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030296328937619844",
+    "in_reply_to_user_id": "1604837080663617537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030295800056848810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natsuki_mtf @cartcarthank @AOEHpMlH3lXS9P7 @chosen_shotgun @XofSGrgFSYJBbyf 姆——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2030295795942264832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0PRPobkAAvbDS.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2030295800056848810",
+        "created_at": "2026-03-07T14:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030296328937619844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1604837080663617537",
+              "start": 0,
+              "username": "natsuki_mtf"
+            },
+            {
+              "end": 26,
+              "id": "1849107584554598400",
+              "start": 13,
+              "username": "cartcarthank"
+            },
+            {
+              "end": 43,
+              "id": "1481461544953466883",
+              "start": 27,
+              "username": "AOEHpMlH3lXS9P7"
+            },
+            {
+              "end": 59,
+              "id": "1551454468398411776",
+              "start": 44,
+              "username": "chosen_shotgun"
+            },
+            {
+              "end": 76,
+              "id": "1406253336425205760",
+              "start": 60,
+              "username": "XofSGrgFSYJBbyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030296328937619844",
+        "in_reply_to_user_id": "1604837080663617537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030295800056848810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natsuki_mtf @cartcarthank @AOEHpMlH3lXS9P7 @chosen_shotgun @XofSGrgFSYJBbyf 姆——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030295795942264832"
+          ]
+        },
+        "author_id": "1604837080663617537",
+        "conversation_id": "2030295800056848810",
+        "created_at": "2026-03-07T14:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030295800056848810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1849107584554598400",
+              "start": 22,
+              "username": "cartcarthank"
+            },
+            {
+              "end": 52,
+              "id": "1481461544953466883",
+              "start": 36,
+              "username": "AOEHpMlH3lXS9P7"
+            },
+            {
+              "end": 74,
+              "id": "1898849785559580672",
+              "start": 59,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 96,
+              "id": "1551454468398411776",
+              "start": 81,
+              "username": "chosen_shotgun"
+            },
+            {
+              "end": 113,
+              "id": "1406253336425205760",
+              "start": 97,
+              "username": "XofSGrgFSYJBbyf"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 141,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 118,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/F1tvgaWH3S"
+            },
+            {
+              "display_url": "pic.x.com/YTnmkQIHtS",
+              "end": 165,
+              "expanded_url": "https://x.com/natsuki_mtf/status/2030295800056848810/photo/1",
+              "media_key": "3_2030295795942264832",
+              "start": 142,
+              "url": "https://t.co/YTnmkQIHtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030295800056848810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @cartcarthank @AOEHpMlH3lXS9P7\n👰 配偶: @Sakura_RinSaki\n👶 孩子: @chosen_shotgun @XofSGrgFSYJBbyf\n\n➡️ https://t.co/F1tvgaWH3S https://t.co/YTnmkQIHtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 89,
+          "like_count": 1929,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 1764
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "MtF 🍥2024.3.31 是一隻已出櫃的小藥娘",
+        "id": "1604837080663617537",
+        "name": "夏希",
+        "pinned_tweet_id": "1915664281250783577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007891212817375232/xXzbodjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 165,
+          "like_count": 2542,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 882
+        },
+        "username": "natsuki_mtf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T15:16:36.000Z",
+        "description": "歡迎追蹤 主要都是日常一類。searching naughty and erotic animals 不菸/偶爾小酌/悠閒生活 台中/台北都會出沒 夢想是能像貓一樣的生活 找尋貓貓狗狗~ 慵懶曬太陽 有興致就走走晃晃 / 現在的X都好多假帳號+奇怪留言",
+        "id": "1849107584554598400",
+        "location": "台中",
+        "name": "貓牧_2",
+        "pinned_tweet_id": "1936693335886119183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849123622860005376/WN0uj1yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 1111,
+          "like_count": 48011,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1647
+        },
+        "username": "cartcarthank",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T03:02:21.000Z",
+        "description": "172/55🌸\n興趣使然的女裝男子，不過最近已經慢慢退坑了，佛係更新",
+        "id": "1481461544953466883",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "🏳️‍⚧️雪花喵喵💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483310597462642688/xmLbfhtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 629,
+          "like_count": 78938,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 3018
+        },
+        "username": "AOEHpMlH3lXS9P7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------------------------- 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "name": "霰霰啦|想被RNGsus眷顧系",
+        "pinned_tweet_id": "1613192002644119556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 532,
+          "like_count": 19559,
+          "listed_count": 3,
+          "media_count": 1256,
+          "tweet_count": 11597
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T14:11:47.000Z",
+        "description": "",
+        "id": "1406253336425205760",
+        "name": "低調",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549369246995472384/ledh0CA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 3828,
+          "like_count": 19951,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 2620
+        },
+        "username": "XofSGrgFSYJBbyf",
+        "verified": false
+      }
+    ]
+  }
+}

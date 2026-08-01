@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1941077719401533662",
+    "created_at": "2026-05-04T22:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051436037495562286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283955685588254720",
+          "start": 0,
+          "username": "xiao_yu_yu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051436037495562286",
+    "in_reply_to_user_id": "1283955685588254720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941077719401533662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yu_yu_ 呆..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_1941077708211150848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAX5C9a4AAq-v7.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1941077719401533662",
+        "created_at": "2026-05-04T22:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051436037495562286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283955685588254720",
+              "start": 0,
+              "username": "xiao_yu_yu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051436037495562286",
+        "in_reply_to_user_id": "1283955685588254720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941077719401533662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yu_yu_ 呆..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941077708211150848"
+          ]
+        },
+        "author_id": "1283955685588254720",
+        "conversation_id": "1941077719401533662",
+        "created_at": "2025-07-04T10:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T11:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941077719401533662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGJAGyeF3s",
+              "end": 75,
+              "expanded_url": "https://x.com/xiao_yu_yu_/status/1941077719401533662/photo/1",
+              "media_key": "3_1941077708211150848",
+              "start": 52,
+              "url": "https://t.co/kGJAGyeF3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941077719401533662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 46021,
+          "like_count": 677,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "上次被朋友偷拍的\n選沙薩比是一來夏亞很帥\n二來...我喜歡的人喜歡/////\n\n但RG真的小得很難組（ https://t.co/kGJAGyeF3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 94,
+          "like_count": 3792,
+          "listed_count": 6,
+          "media_count": 210,
+          "tweet_count": 3473
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-17T02:44:35.000Z",
+        "description": "非單小貓🩵🐈/主人的寵物貓(sub)💜🐈\n\n喜歡的話追蹤一下嘛～還有那個愛心跟轉推也點一下～謝謝泥(⁎⁍̴̛ᴗ⁍̴̛⁎)\n\n小貓沒有小帳❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/xiaoyuyu",
+                "end": 23,
+                "expanded_url": "http://patreon.com/xiaoyuyu",
+                "start": 0,
+                "url": "https://t.co/BT0J1zclJS"
+              }
+            ]
+          }
+        },
+        "id": "1283955685588254720",
+        "location": " Taiwan",
+        "name": "小御寒喵",
+        "pinned_tweet_id": "1828756353466438130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028090554949726208/cQ1Crgzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28535,
+          "following_count": 214,
+          "like_count": 8415,
+          "listed_count": 48,
+          "media_count": 1120,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/BT0J1zclJS",
+        "username": "xiao_yu_yu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2015857946614550713",
+    "created_at": "2026-01-26T18:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015857946614550713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015857946614550713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗澡洗到一半突然emo\n對不起…… 不該看著自己的身體洗澡的\n：沒事沒事 好好過完接下來幾年吧\n：穩穩的過完這輩子 下輩子還有機會\n：這不就跟讀書一樣嗎…… 可是…… \n會考選錯了一次 因為家人\n大學又錯了也是 也是家人\n\n：你怎麼這麼容易被控制啊\n：咕嗚…… 只是希望 能被他們誇獎咕……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2015857946614550713",
+        "created_at": "2026-01-26T18:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015857946614550713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015857946614550713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡洗到一半突然emo\n對不起…… 不該看著自己的身體洗澡的\n：沒事沒事 好好過完接下來幾年吧\n：穩穩的過完這輩子 下輩子還有機會\n：這不就跟讀書一樣嗎…… 可是…… \n會考選錯了一次 因為家人\n大學又錯了也是 也是家人\n\n：你怎麼這麼容易被控制啊\n：咕嗚…… 只是希望 能被他們誇獎咕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 64,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 693
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

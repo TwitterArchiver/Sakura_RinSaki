@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2069601142741651929",
+    "created_at": "2026-06-24T19:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069869595276853266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1760239912618700800",
+          "start": 0,
+          "username": "gh80321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069869595276853266",
+    "in_reply_to_user_id": "1760239912618700800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069603649714847930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gh80321 不可愛 不是美女！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069601142741651929",
+        "created_at": "2026-06-24T19:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069869595276853266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1760239912618700800",
+              "start": 0,
+              "username": "gh80321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069869595276853266",
+        "in_reply_to_user_id": "1760239912618700800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069603649714847930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gh80321 不可愛 不是美女！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760239912618700800",
+        "conversation_id": "2069601142741651929",
+        "created_at": "2026-06-24T02:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069603649714847930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069603649714847930",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069601142741651929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 一早就看到可愛的美女心情真好~XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 129,
+          "like_count": 5583,
+          "listed_count": 10,
+          "media_count": 258,
+          "tweet_count": 4557
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T09:48:25.000Z",
+        "description": "又老又肥的肥貓一隻 請勿餵食 @@\n就算已經是年邁40的中年大叔了\n俺的心態依舊保持在18歲的那個夏天\n堅決保護所有看起來可愛的孩子們\n歡迎不嫌老的同好互fo",
+        "id": "1760239912618700800",
+        "location": "Taiwan",
+        "name": "能幹貓諭吉桑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067983664378793984/ZYjHiOQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 204,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "gh80321",
+        "verified": true
+      }
+    ]
+  }
+}

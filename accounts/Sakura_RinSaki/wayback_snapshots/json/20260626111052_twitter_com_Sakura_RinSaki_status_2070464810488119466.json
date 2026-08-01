@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2070462894051824059",
+    "created_at": "2026-06-26T11:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070464810488119466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070464810488119466",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070462894051824059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是複製文喵！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 76,
+        "media_key": "3_2070462890373767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvDB21bYAAuMne.jpg",
+        "width": 228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2070462894051824059",
+        "created_at": "2026-06-26T11:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070464810488119466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070464810488119466",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070462894051824059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是複製文喵！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070462890373767168"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2070462894051824059",
+        "created_at": "2026-06-26T11:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070462894051824059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pykurueX13",
+              "end": 126,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2070462894051824059/photo/1",
+              "media_key": "3_2070462890373767168",
+              "start": 103,
+              "url": "https://t.co/pykurueX13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070462894051824059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吼呦😭\n晚上睡覺起來尿尿\n結果內褲不見了\n裙子也被掀開了😭\n氣死窩了 啊啊啊啊啊！！！\n我準備要去上廁所\n啊（摔倒）( ･᷄ὢ･᷅ )\n好痛 誰偷體操窩😡\n下面好痛😭\n好麻 站不起來(&gt;﹏&lt;) https://t.co/pykurueX13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 129,
+          "like_count": 5609,
+          "listed_count": 10,
+          "media_count": 261,
+          "tweet_count": 4594
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

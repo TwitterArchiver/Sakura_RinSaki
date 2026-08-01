@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1995913053108662610",
+    "created_at": "2025-12-05T18:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T19:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997007430048534572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946488536951386112",
+          "start": 0,
+          "username": "MTD1468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997007430048534572",
+    "in_reply_to_user_id": "1946488536951386112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996026405071839517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTD1468 被騷擾 被同學搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1995913053108662610",
+        "created_at": "2025-12-05T18:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T19:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997007430048534572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946488536951386112",
+              "start": 0,
+              "username": "MTD1468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997007430048534572",
+        "in_reply_to_user_id": "1946488536951386112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996026405071839517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTD1468 被騷擾 被同學搞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946488536951386112",
+        "conversation_id": "1995913053108662610",
+        "created_at": "2025-12-03T01:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996026405071839517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996026405071839517",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995913053108662610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 什么事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 65,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 473
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T08:34:03.000Z",
+        "description": "",
+        "id": "1946488536951386112",
+        "name": "zhao man",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975554115494371328/JJu16o9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 418,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 198
+        },
+        "username": "MTD1468",
+        "verified": false
+      }
+    ]
+  }
+}

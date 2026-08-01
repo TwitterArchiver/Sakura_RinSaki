@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2026923301420020221",
+    "created_at": "2026-02-28T01:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027552410827428360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027552410827428360",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026923301420020221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 唯一支持 \n\n票投藥娘黨 \n藥力無法擋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2026923301420020221",
+        "created_at": "2026-02-28T01:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027552410827428360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027552410827428360",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026923301420020221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 唯一支持 \n\n票投藥娘黨 \n藥力無法擋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2026923301420020221",
+        "created_at": "2026-02-26T07:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026923301420020221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengJinOfficia…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LengJinOfficial/status/2026507440595021836",
+              "start": 13,
+              "url": "https://t.co/PGqv7n7HkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026923301420020221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026507440595021836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸我想現場組一個藥娘黨欸 https://t.co/PGqv7n7HkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛丨私訊過來可以增加認識機會!\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 74,
+          "like_count": 1514,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1228
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "在矯正機構呆久了是什麽感覺？就像被強姦時習慣了那些狀態，甚至享受起來，突然驚醒，痛哭起來。而不論是什麽表情，都被那個變態看在了眼裏\n日本ツイッターアカウント: @HosinoEJ_Japan\nDiscord: https://t.co/ccn1U72a5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "HosinoEJ_Japan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 128,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 105,
+                "url": "https://t.co/ccn1U72a5C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://www.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/xmlDJbJl7K"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧𛂘 - 頭髮被强制剪正在恢復中（お互いフォローでき）",
+        "pinned_tweet_id": "2024917642101096586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 456,
+          "like_count": 2723,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/xmlDJbJl7K",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

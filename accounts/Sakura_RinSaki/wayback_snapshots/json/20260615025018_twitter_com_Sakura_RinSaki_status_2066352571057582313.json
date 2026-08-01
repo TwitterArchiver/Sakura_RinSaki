@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2066192396719976704",
+    "created_at": "2026-06-15T02:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066352571057582313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913743387330752512",
+          "start": 0,
+          "username": "lishn237850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066352571057582313",
+    "in_reply_to_user_id": "1913743387330752512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066192396719976704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lishn237850 嗚欸 又沒了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2066192391175114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyXCFmbkAAFOLG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2066192396719976704",
+        "created_at": "2026-06-15T02:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066352571057582313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913743387330752512",
+              "start": 0,
+              "username": "lishn237850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066352571057582313",
+        "in_reply_to_user_id": "1913743387330752512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066192396719976704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishn237850 嗚欸 又沒了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066192391175114752"
+          ]
+        },
+        "author_id": "1913743387330752512",
+        "conversation_id": "2066192396719976704",
+        "created_at": "2026-06-14T16:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066192396719976704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHVJTLhmTI",
+              "end": 41,
+              "expanded_url": "https://x.com/lishn237850/status/2066192396719976704/photo/1",
+              "media_key": "3_2066192391175114752",
+              "start": 18,
+              "url": "https://t.co/WHVJTLhmTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066192396719976704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敬第三支qq號\n活的光榮 死的榮耀 https://t.co/WHVJTLhmTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "夏凜咲🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 115,
+          "like_count": 4706,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 4176
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T23:56:05.000Z",
+        "description": "奇怪的生物³\n等死 男的 伴侶是mtf\n我應該去死",
+        "id": "1913743387330752512",
+        "location": "南投漁港",
+        "name": "未知❂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051117420857958400/g8uP14Eq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 474,
+          "like_count": 12655,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1891
+        },
+        "username": "lishn237850",
+        "verified": true
+      }
+    ]
+  }
+}

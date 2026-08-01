@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1907767906773119325",
+    "created_at": "2025-04-04T06:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T07:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908046235648540859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        },
+        {
+          "end": 31,
+          "id": "1606690184564985856",
+          "start": 16,
+          "username": "hgsbtin_nisaki"
+        },
+        {
+          "end": 41,
+          "id": "1303201232983523330",
+          "start": 32,
+          "username": "CNCCY666"
+        },
+        {
+          "end": 53,
+          "id": "1810827997362212865",
+          "start": 42,
+          "username": "qqiam_girl"
+        },
+        {
+          "end": 62,
+          "id": "1316591965224329216",
+          "start": 54,
+          "username": "22y_aki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908046235648540859",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908045002942386414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 @hgsbtin_nisaki @CNCCY666 @qqiam_girl @22y_aki 禮拜六來嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1907767906773119325",
+        "created_at": "2025-04-04T06:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T07:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908046235648540859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            },
+            {
+              "end": 31,
+              "id": "1606690184564985856",
+              "start": 16,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 41,
+              "id": "1303201232983523330",
+              "start": 32,
+              "username": "CNCCY666"
+            },
+            {
+              "end": 53,
+              "id": "1810827997362212865",
+              "start": 42,
+              "username": "qqiam_girl"
+            },
+            {
+              "end": 62,
+              "id": "1316591965224329216",
+              "start": 54,
+              "username": "22y_aki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908046235648540859",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908045002942386414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 @hgsbtin_nisaki @CNCCY666 @qqiam_girl @22y_aki 禮拜六來嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407034837953748995",
+        "conversation_id": "1907767906773119325",
+        "created_at": "2025-04-04T06:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T07:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908045002942386414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 25,
+              "id": "1303201232983523330",
+              "start": 16,
+              "username": "CNCCY666"
+            },
+            {
+              "end": 37,
+              "id": "1810827997362212865",
+              "start": 26,
+              "username": "qqiam_girl"
+            },
+            {
+              "end": 46,
+              "id": "1316591965224329216",
+              "start": 38,
+              "username": "22y_aki"
+            },
+            {
+              "end": 62,
+              "id": "1898849785559580672",
+              "start": 47,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908045002942386414",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907767906773119325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki @CNCCY666 @qqiam_girl @22y_aki @Sakura_RinSaki 怎麼沒找岐奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 25,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "18歲高中生/接援交中/善待這個世界 卻被無情折磨/男想變女/思覺失調 重度抑鬱/一心同體@_Snow0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "_Snow0717"
+              }
+            ]
+          }
+        },
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1810643240733032908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 512,
+          "like_count": 88117,
+          "listed_count": 4,
+          "media_count": 765,
+          "tweet_count": 19196
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1901667171320959058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 111,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 87
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T05:19:33.000Z",
+        "description": "喵喵～",
+        "id": "1303201232983523330",
+        "location": "Hsinchu County, Taiwan",
+        "name": "卯迷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871943786076786688/dgzcYERO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 1231,
+          "like_count": 4946,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 2774
+        },
+        "username": "CNCCY666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T00:07:00.000Z",
+        "description": "02年無證含糖xyn🍥 HRT2025.3.3，MTF，177/67/22y 偶爾發文/🇹🇼x🇹🇼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/A_wtFVk2Vi",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/A_wtFVk2Vi",
+                "start": 0,
+                "url": "https://t.co/rwvZeeB1SS"
+              }
+            ]
+          }
+        },
+        "id": "1810827997362212865",
+        "location": "Changhua County, Taiwan",
+        "name": "奈奈🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894707404207538176/bfyvpWbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 58,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/rwvZeeB1SS",
+        "username": "qqiam_girl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T04:10:18.000Z",
+        "description": "02年INFJ男孩子，173cm 57kg，老二15cm，搞笑系兼賣肉系小男娘，時不時更新澀圖，有防雷的地方，未成年跟沒有做好心理準備的麻煩不要點開！",
+        "id": "1316591965224329216",
+        "location": "在你心裡",
+        "name": "秋天 #R18內容慎點",
+        "pinned_tweet_id": "1900305676687335534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906844873640333312/zQaOnXy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 346,
+          "like_count": 198,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 97
+        },
+        "username": "22y_aki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2050309098676392067",
+    "created_at": "2026-05-02T02:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050396722267140396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "799366132255760384",
+          "start": 0,
+          "username": "jtghertert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050396722267140396",
+    "in_reply_to_user_id": "799366132255760384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050310066981740812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jtghertert 捏捏~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2050309098676392067",
+        "created_at": "2026-05-02T02:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050396722267140396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "799366132255760384",
+              "start": 0,
+              "username": "jtghertert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050396722267140396",
+        "in_reply_to_user_id": "799366132255760384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050310066981740812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jtghertert 捏捏~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "799366132255760384",
+        "conversation_id": "2050309098676392067",
+        "created_at": "2026-05-01T20:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050310066981740812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050310066981740812",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050309098676392067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 好可愛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 92,
+          "like_count": 3639,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3343
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-17T21:38:32.000Z",
+        "description": "珍惜",
+        "id": "799366132255760384",
+        "name": "慵懶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889679121577549824/WjAdTMgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 323,
+          "like_count": 4716,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1159
+        },
+        "username": "jtghertert",
+        "verified": false
+      }
+    ]
+  }
+}

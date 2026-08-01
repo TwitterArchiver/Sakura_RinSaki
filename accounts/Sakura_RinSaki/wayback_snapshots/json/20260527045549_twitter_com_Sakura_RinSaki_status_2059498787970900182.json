@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1864907327058645057",
+    "created_at": "2026-05-27T04:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059498787970900182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1234134115181457409",
+          "start": 0,
+          "username": "RIMUnawakon"
+        },
+        {
+          "end": 26,
+          "id": "1663738144372686848",
+          "start": 13,
+          "username": "DDLGParadise"
+        },
+        {
+          "end": 36,
+          "id": "1707947271982309376",
+          "start": 27,
+          "username": "yy762103"
+        },
+        {
+          "end": 48,
+          "id": "740936505875521537",
+          "start": 37,
+          "username": "Sock_Owner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059498787970900182",
+    "in_reply_to_user_id": "1234134115181457409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864907327058645057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RIMUnawakon @DDLGParadise @yy762103 @Sock_Owner 是SP!!"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [DDLGParadise].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "DDLGParadise",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "DDLGParadise"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_1864907313112584192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeF7UhEakAADMtV.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1864907327058645057",
+        "created_at": "2026-05-27T04:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059498787970900182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1234134115181457409",
+              "start": 0,
+              "username": "RIMUnawakon"
+            },
+            {
+              "end": 26,
+              "id": "1663738144372686848",
+              "start": 13,
+              "username": "DDLGParadise"
+            },
+            {
+              "end": 36,
+              "id": "1707947271982309376",
+              "start": 27,
+              "username": "yy762103"
+            },
+            {
+              "end": 48,
+              "id": "740936505875521537",
+              "start": 37,
+              "username": "Sock_Owner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498787970900182",
+        "in_reply_to_user_id": "1234134115181457409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864907327058645057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RIMUnawakon @DDLGParadise @yy762103 @Sock_Owner 是SP!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864907313112584192"
+          ]
+        },
+        "author_id": "1234134115181457409",
+        "conversation_id": "1864907327058645057",
+        "created_at": "2024-12-06T05:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T06:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864907327058645057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663738144372686848",
+              "start": 0,
+              "username": "DDLGParadise"
+            },
+            {
+              "end": 61,
+              "id": "1707947271982309376",
+              "start": 52,
+              "username": "yy762103"
+            },
+            {
+              "end": 116,
+              "id": "740936505875521537",
+              "start": 105,
+              "username": "Sock_Owner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OSqyKtSYZ",
+              "end": 184,
+              "expanded_url": "https://x.com/VTrimusan/status/1864907327058645057/photo/1",
+              "media_key": "3_1864907313112584192",
+              "start": 161,
+              "url": "https://t.co/1OSqyKtSYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864907327058645057",
+        "in_reply_to_user_id": "1663738144372686848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@DDLGParadise 這一次12/4號的強制拘束日真的玩的超開心的，大家都剛吃飽飽一開場手手就被 @yy762103 姊姊綁在一起舉到背後，之後我就只能待在一旁看著大家玩著紙牌遊戲，結果SP小白的我居然替@Sock_Owner 姊姊吃了總計一百多下攻擊，但有了姊姊的安慰和抱抱感覺一切都值了😆，有時間一定再來參加！ https://t.co/1OSqyKtSYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 109,
+          "like_count": 4545,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 4025
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-01T15:11:24.000Z",
+        "description": "MTF｜HRT |中度憂鬱重度未滿｜無藥可救拘束癖｜TK、DID、強高｜喜歡跟人貼貼歡迎來摸摸我抱抱我",
+        "id": "1234134115181457409",
+        "name": "RIMU🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926707064639733760/RweP_bSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 402,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 545
+        },
+        "username": "RIMUnawakon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T02:35:47.000Z",
+        "description": "🇹🇼BDSMer｜🇯🇵語◎｜🪢｜藤條大喜",
+        "id": "1707947271982309376",
+        "name": "悠悠（ゆる）🪢",
+        "pinned_tweet_id": "1992965563195273240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911406561617985536/UJrVFxzk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 272,
+          "like_count": 9527,
+          "listed_count": 11,
+          "media_count": 709,
+          "tweet_count": 4733
+        },
+        "username": "yy762103",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-09T16:00:03.000Z",
+        "description": "Z主 / 厲主 / 麗主 / 隸主                                                                🐕‍🦺 @Sock_The_Puppy 的主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Sock_The_Puppy"
+              }
+            ]
+          }
+        },
+        "id": "740936505875521537",
+        "location": "Taiwan",
+        "name": "柔安，Z主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833538268354514945/ZlvtqNGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 48,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "Sock_Owner",
+        "verified": false
+      }
+    ]
+  }
+}

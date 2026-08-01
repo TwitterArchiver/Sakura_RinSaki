@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2046269125824217229",
+    "created_at": "2026-04-20T20:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046330384070422685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409725254671376388",
+          "start": 0,
+          "username": "ritsu_9604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046330384070422685",
+    "in_reply_to_user_id": "1409725254671376388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046269125824217229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ritsu_9604 生日快樂喵~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046269123920003073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXO7TYaAAEIKrn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046269125824217229",
+        "created_at": "2026-04-20T20:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046330384070422685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409725254671376388",
+              "start": 0,
+              "username": "ritsu_9604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046330384070422685",
+        "in_reply_to_user_id": "1409725254671376388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046269125824217229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ritsu_9604 生日快樂喵~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046269123920003073"
+          ]
+        },
+        "author_id": "1409725254671376388",
+        "conversation_id": "2046269125824217229",
+        "created_at": "2026-04-20T16:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046269125824217229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dvds2tAXSh",
+              "end": 31,
+              "expanded_url": "https://x.com/ritsu_9604/status/2046269125824217229/photo/1",
+              "media_key": "3_2046269123920003073",
+              "start": 8,
+              "url": "https://t.co/Dvds2tAXSh"
+            },
+            {
+              "display_url": "x.com/ritsu_9604/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ritsu_9604/status/2046268754473157022",
+              "start": 32,
+              "url": "https://t.co/KYIIYeso0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046269125824217229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046268754473157022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還有氣球，嘻嘻 https://t.co/Dvds2tAXSh https://t.co/KYIIYeso0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 88,
+          "like_count": 3287,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 3128
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-29T04:08:01.000Z",
+        "description": "19y/大學生\n/\n喔？歡迎來到祈禱室，那麼，這位使徒有什麼疑惑嗎？\n\n/多聲系/禁止AI學習/\n\n橫幅：星夜\n頭像: 真白\n\n/裏垢：@matsukata_py\n/音源配布資訊： @inoru_vb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "matsukata_py"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "inoru_vb"
+              }
+            ]
+          }
+        },
+        "id": "1409725254671376388",
+        "location": "Yunlin County, Taiwan",
+        "name": "リツ🐾",
+        "pinned_tweet_id": "2016078133460664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948332969195880448/vzA6e-Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1677,
+          "like_count": 2357,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 4546
+        },
+        "username": "ritsu_9604",
+        "verified": false
+      }
+    ]
+  }
+}

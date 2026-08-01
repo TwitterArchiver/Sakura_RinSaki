@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2069601142741651929",
+    "created_at": "2026-06-24T02:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069609719271158164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769604478821666816",
+          "start": 0,
+          "username": "xuny2776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069609719271158164",
+    "in_reply_to_user_id": "1769604478821666816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069609310590824577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuny2776 而且而且 好像是 更早之前 2月還3月多的時候？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069601142741651929",
+        "created_at": "2026-06-24T02:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069609719271158164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769604478821666816",
+              "start": 0,
+              "username": "xuny2776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069609719271158164",
+        "in_reply_to_user_id": "1769604478821666816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069609310590824577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuny2776 而且而且 好像是 更早之前 2月還3月多的時候？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769604478821666816",
+        "conversation_id": "2069601142741651929",
+        "created_at": "2026-06-24T02:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069609310590824577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069609310590824577",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069609047515611462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 差不多那時候吧\n應該是你吧？叫號了結果你沒聽到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 129,
+          "like_count": 5459,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 4513
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-18T05:59:33.000Z",
+        "description": "03年MtF 廢文很多 推特成癮患者/有時會發鼠鼠的東西～/把推特當成自己小天地 /4愛/最愛的老公@qiyu960802",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "qiyu960802"
+              }
+            ]
+          }
+        },
+        "id": "1769604478821666816",
+        "location": "老公心裡",
+        "name": "Esperar",
+        "pinned_tweet_id": "2006743301060493551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917776364029239298/RTbHFlle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 222,
+          "like_count": 2582,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "xuny2776",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2048093869259280434",
+    "created_at": "2026-04-25T17:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048096634496803132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810827997362212865",
+          "start": 0,
+          "username": "yuxiii_2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048096634496803132",
+    "in_reply_to_user_id": "1810827997362212865",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048096492293152969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxiii_2002 …？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2048093869259280434",
+        "created_at": "2026-04-25T17:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048096634496803132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810827997362212865",
+              "start": 0,
+              "username": "yuxiii_2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048096634496803132",
+        "in_reply_to_user_id": "1810827997362212865",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048096492293152969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxiii_2002 …？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810827997362212865",
+        "conversation_id": "2048093869259280434",
+        "created_at": "2026-04-25T17:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048096492293152969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048096492293152969",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048093869259280434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 可以找我聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 90,
+          "like_count": 3416,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3172
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T00:07:00.000Z",
+        "description": "02年有證含糖，25.03.03，MTF🏳️‍⚧️男聲 身體密碼 178/70 三圍 38A/27/96抖內可以私訊賴 ｜ 座標台中 ｜私訊約會帶臉照謝謝❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/A_wtFVk2Vi",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/A_wtFVk2Vi",
+                "start": 0,
+                "url": "https://t.co/rwvZeeAu3k"
+              }
+            ]
+          }
+        },
+        "id": "1810827997362212865",
+        "location": "Taichung City, Taiwan",
+        "name": "羽希不嘻嘻🏳️‍⚧️🍥❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046520491310280704/yPaeMgVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 124,
+          "like_count": 192,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/rwvZeeAu3k",
+        "username": "yuxiii_2002",
+        "verified": true
+      }
+    ]
+  }
+}

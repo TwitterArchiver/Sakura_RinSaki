@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2069339410592891118",
+    "created_at": "2026-06-23T12:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069395860165935115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254708490267799553",
+          "start": 0,
+          "username": "tangyity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069395860165935115",
+    "in_reply_to_user_id": "1254708490267799553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069339410592891118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangyity erp不用會!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069339410592891118",
+        "created_at": "2026-06-23T12:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395860165935115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254708490267799553",
+              "start": 0,
+              "username": "tangyity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395860165935115",
+        "in_reply_to_user_id": "1254708490267799553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069339410592891118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangyity erp不用會!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254708490267799553",
+        "conversation_id": "2069339410592891118",
+        "created_at": "2026-06-23T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069339410592891118"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "0071f14054b91099"
+        },
+        "id": "2069339410592891118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還是一樣...大家都好厲害...\n我什麼都不會\n課業...遊戲...人際...erp也都不會...\n沒有一項能拿的出手的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 128,
+          "like_count": 5422,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 4505
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-27T09:46:42.000Z",
+        "description": "台灣的mtf osu std/taiko/catch/maina player\n\nhttps://t.co/wjQ3ayIsXA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/21520031",
+                "end": 64,
+                "expanded_url": "https://osu.ppy.sh/users/21520031",
+                "start": 41,
+                "url": "https://t.co/wjQ3ayIsXA"
+              }
+            ]
+          }
+        },
+        "id": "1254708490267799553",
+        "location": "Taiwan",
+        "name": "糖伊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865720533146648576/qcx-jNsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 180,
+          "like_count": 2315,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "tangyity",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2012141591134368019",
+    "created_at": "2026-01-16T17:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012210006880293027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012210006880293027",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012141591134368019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 法修散打！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2012141582439641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yQG8MbcAAgj0N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2012141591134368019",
+        "created_at": "2026-01-16T17:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012210006880293027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012210006880293027",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012141591134368019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 法修散打！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012141582439641088"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2012141591134368019",
+        "created_at": "2026-01-16T12:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012141591134368019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmLwi7rTbi",
+              "end": 29,
+              "expanded_url": "https://x.com/sushiching_2006/status/2012141591134368019/photo/1",
+              "media_key": "3_2012141582439641088",
+              "start": 6,
+              "url": "https://t.co/kmLwi7rTbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012141591134368019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法修仙打！ https://t.co/kmLwi7rTbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 68,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 538
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "晴是銀漸層喵",
+        "pinned_tweet_id": "1996790764144398397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012135108099334147/Q1pMxvzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10548,
+          "following_count": 111,
+          "like_count": 16921,
+          "listed_count": 11,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

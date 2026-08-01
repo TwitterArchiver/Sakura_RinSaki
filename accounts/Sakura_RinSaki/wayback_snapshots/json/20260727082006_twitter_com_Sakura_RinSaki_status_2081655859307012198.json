@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2081528857270850039",
+    "created_at": "2026-07-27T08:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081655859307012198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "802450977135525888",
+          "start": 0,
+          "username": "2Jshizuku"
+        },
+        {
+          "end": 24,
+          "id": "1839554430771081216",
+          "start": 11,
+          "username": "sharo6188vrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081655859307012198",
+    "in_reply_to_user_id": "802450977135525888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081655728696340673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Jshizuku @sharo6188vrc 麻麻可愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2081528857270850039",
+        "created_at": "2026-07-27T08:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081655859307012198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "802450977135525888",
+              "start": 0,
+              "username": "2Jshizuku"
+            },
+            {
+              "end": 24,
+              "id": "1839554430771081216",
+              "start": 11,
+              "username": "sharo6188vrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081655859307012198",
+        "in_reply_to_user_id": "802450977135525888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081655728696340673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Jshizuku @sharo6188vrc 麻麻可愛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802450977135525888",
+        "conversation_id": "2081528857270850039",
+        "created_at": "2026-07-27T08:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081655728696340673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839554430771081216",
+              "start": 0,
+              "username": "sharo6188vrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081655728696340673",
+        "in_reply_to_user_id": "1839554430771081216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081654112899535073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharo6188vrc 不可愛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 134,
+          "like_count": 6276,
+          "listed_count": 11,
+          "media_count": 284,
+          "tweet_count": 5120
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "location": "台灣",
+        "name": "2J綾崎雫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1164,
+          "like_count": 27026,
+          "listed_count": 3,
+          "media_count": 1279,
+          "tweet_count": 11006
+        },
+        "url": "",
+        "username": "2Jshizuku",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T06:35:37.000Z",
+        "description": "vrc 하꼬비호감고닉입니다\n\ndiscord: lsh07_\n\nvrc:  sharo6188\n\nkr:90% jp:40% cn:40% en:20%",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/9446817988",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/9446817988",
+                "start": 0,
+                "url": "https://t.co/pgcjUJSdVY"
+              }
+            ]
+          }
+        },
+        "id": "1839554430771081216",
+        "location": "Incheon, Republic of Korea",
+        "name": "sharo6188",
+        "pinned_tweet_id": "2068084403583238258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079379298407051264/r8jUb5BM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 114,
+          "like_count": 3236,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/pgcjUJSdVY",
+        "username": "sharo6188vrc",
+        "verified": false
+      }
+    ]
+  }
+}

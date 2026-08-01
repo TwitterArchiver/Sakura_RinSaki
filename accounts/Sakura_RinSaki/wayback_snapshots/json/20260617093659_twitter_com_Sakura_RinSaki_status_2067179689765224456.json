@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2067034588472566054",
+    "created_at": "2026-06-17T09:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067179689765224456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1601617260439044096",
+          "start": 0,
+          "username": "we_0587"
+        },
+        {
+          "end": 16,
+          "id": "3889037112",
+          "start": 9,
+          "username": "ntfuko"
+        },
+        {
+          "end": 28,
+          "id": "1430312926737354753",
+          "start": 17,
+          "username": "mufan_2006"
+        },
+        {
+          "end": 40,
+          "id": "1377114572843184139",
+          "start": 29,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067179689765224456",
+    "in_reply_to_user_id": "1601617260439044096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067167524593287252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@we_0587 @ntfuko @mufan_2006 @SONY846995 來高雄嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2067034588472566054",
+        "created_at": "2026-06-17T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067179689765224456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601617260439044096",
+              "start": 0,
+              "username": "we_0587"
+            },
+            {
+              "end": 16,
+              "id": "3889037112",
+              "start": 9,
+              "username": "ntfuko"
+            },
+            {
+              "end": 28,
+              "id": "1430312926737354753",
+              "start": 17,
+              "username": "mufan_2006"
+            },
+            {
+              "end": 40,
+              "id": "1377114572843184139",
+              "start": 29,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067179689765224456",
+        "in_reply_to_user_id": "1601617260439044096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067167524593287252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@we_0587 @ntfuko @mufan_2006 @SONY846995 來高雄嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601617260439044096",
+        "conversation_id": "2067034588472566054",
+        "created_at": "2026-06-17T08:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067167524593287252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 23,
+              "id": "3889037112",
+              "start": 16,
+              "username": "ntfuko"
+            },
+            {
+              "end": 35,
+              "id": "1430312926737354753",
+              "start": 24,
+              "username": "mufan_2006"
+            },
+            {
+              "end": 47,
+              "id": "1377114572843184139",
+              "start": 36,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067167524593287252",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067155068168851585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @ntfuko @mufan_2006 @SONY846995 把所有人拉去高雄！！！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066947176077623296/-LdqtVSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 115,
+          "like_count": 4721,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 4193
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T16:38:17.000Z",
+        "description": "你好 我是個好人:D / (我純樂子 別看我 我怕)（不是mtf不是mtf不是mtf）",
+        "id": "1601617260439044096",
+        "name": "WE",
+        "pinned_tweet_id": "2063620922482012271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025956937263886336/39mcej-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 222,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1024
+        },
+        "username": "we_0587",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "恋人： @AspiLin0 \nI wanna be an android's dream of electric sheep.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "AspiLin0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+73oB26Bh_SYwY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+73oB26Bh_SYwYTA1",
+                "start": 0,
+                "url": "https://t.co/Q7RaV6M9D2"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 357,
+          "like_count": 4793,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/Q7RaV6M9D2",
+        "username": "ntfuko",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常休學生\n喜歡被耳機強姦，會搞建模+3d列印\n還有對電子的東西有點興趣。\n我最愛的老婆❤️@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中",
+        "name": "暮范🩵",
+        "pinned_tweet_id": "2053079084536889478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057653027071569920/oAlS3WK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11889,
+          "following_count": 100,
+          "like_count": 18716,
+          "listed_count": 13,
+          "media_count": 62,
+          "tweet_count": 341
+        },
+        "username": "mufan_2006",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n唯一的對象❤️：@mufan_2006\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "廢文"
+              },
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mufan_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040984747544043520/sok82Y72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 162,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 1386
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

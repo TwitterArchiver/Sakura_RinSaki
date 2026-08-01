@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2057147396963156336",
+    "created_at": "2026-05-21T03:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057303124474515701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032473219501080576",
+          "start": 0,
+          "username": "linxinyujiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057303124474515701",
+    "in_reply_to_user_id": "2032473219501080576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057147396963156336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linxinyujiang 喵…… 難怪退群了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057147394400337920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIx0p-3aQAAZ8Zx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2057147396963156336",
+        "created_at": "2026-05-21T03:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057303124474515701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032473219501080576",
+              "start": 0,
+              "username": "linxinyujiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057303124474515701",
+        "in_reply_to_user_id": "2032473219501080576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057147396963156336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linxinyujiang 喵…… 難怪退群了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057147394400337920"
+          ]
+        },
+        "author_id": "2032473219501080576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057147396963156336",
+        "created_at": "2026-05-20T17:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057147396963156336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl5EbwnkkD",
+              "end": 44,
+              "expanded_url": "https://x.com/linxinyujiang/status/2057147396963156336/photo/1",
+              "media_key": "3_2057147394400337920",
+              "start": 21,
+              "url": "https://t.co/bl5EbwnkkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057147396963156336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，50t晚安怎么样，让我们开心一下！ https://t.co/bl5EbwnkkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 108,
+          "like_count": 4413,
+          "listed_count": 7,
+          "media_count": 225,
+          "tweet_count": 3902
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T15:05:59.000Z",
+        "description": "大家好呀~这里是林欣雨~可以叫我小雨或者雨音酱哦！请各位多多指教！爱你们~❤️\n                                                                                        mtf/09/无证含糖/正在幻想美好生活中/",
+        "id": "2032473219501080576",
+        "name": "努力变得可爱的雨音酱~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032925245670408192/-AMTfzPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 197,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "username": "linxinyujiang",
+        "verified": false
+      }
+    ]
+  }
+}

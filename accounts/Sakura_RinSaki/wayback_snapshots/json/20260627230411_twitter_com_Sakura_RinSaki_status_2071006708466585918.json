@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2070893364183240845",
+    "created_at": "2026-06-27T23:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T00:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071006708466585918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        },
+        {
+          "end": 23,
+          "id": "1430312926737354753",
+          "start": 12,
+          "username": "mufan_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071006708466585918",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070893364183240845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 @mufan_2006 嗚 好羨慕！！ 好吃的！！ 餓餓！！ 生日快樂 但 餓餓！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070893352661520384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1KiD0bkAAvL7E.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070893353169018880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1KiFtbYAAIzHr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070893353722593280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1KiHxaQAAPrm7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1105,
+        "media_key": "3_2070893354255355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1KiJwbkAAFFlM.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2070893364183240845",
+        "created_at": "2026-06-27T23:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071006708466585918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            },
+            {
+              "end": 23,
+              "id": "1430312926737354753",
+              "start": 12,
+              "username": "mufan_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071006708466585918",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070893364183240845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 @mufan_2006 嗚 好羨慕！！ 好吃的！！ 餓餓！！ 生日快樂 但 餓餓！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070893352661520384",
+            "3_2070893353169018880",
+            "3_2070893353722593280",
+            "3_2070893354255355904"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070893364183240845",
+        "created_at": "2026-06-27T15:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070893364183240845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1430312926737354753",
+              "start": 41,
+              "username": "mufan_2006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9WJ7jskjF",
+              "end": 83,
+              "expanded_url": "https://x.com/SONY846995/status/2070893364183240845/photo/1",
+              "media_key": "3_2070893352661520384",
+              "start": 60,
+              "url": "https://t.co/T9WJ7jskjF"
+            },
+            {
+              "display_url": "pic.x.com/T9WJ7jskjF",
+              "end": 83,
+              "expanded_url": "https://x.com/SONY846995/status/2070893364183240845/photo/1",
+              "media_key": "3_2070893353169018880",
+              "start": 60,
+              "url": "https://t.co/T9WJ7jskjF"
+            },
+            {
+              "display_url": "pic.x.com/T9WJ7jskjF",
+              "end": 83,
+              "expanded_url": "https://x.com/SONY846995/status/2070893364183240845/photo/1",
+              "media_key": "3_2070893353722593280",
+              "start": 60,
+              "url": "https://t.co/T9WJ7jskjF"
+            },
+            {
+              "display_url": "pic.x.com/T9WJ7jskjF",
+              "end": 83,
+              "expanded_url": "https://x.com/SONY846995/status/2070893364183240845/photo/1",
+              "media_key": "3_2070893354255355904",
+              "start": 60,
+              "url": "https://t.co/T9WJ7jskjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070893364183240845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天帶著老婆的生日企劃成功 &gt; &lt;\n願大家都能找到幸福的另一半❤️\n\n@mufan_2006 生日快樂吶！ https://t.co/T9WJ7jskjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 129,
+          "like_count": 5617,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 4617
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n唯一的對象❤️：@mufan_2006\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "廢文"
+              },
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mufan_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "2026138687210483819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040984747544043520/sok82Y72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 163,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "SONY846995",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常休學生\n喜歡耳機，會搞建模+3d列印\n還有對電子的東西有點興趣。\n我最愛的老婆❤️@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中",
+        "name": "暮范🩵",
+        "pinned_tweet_id": "2053079084536889478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057653027071569920/oAlS3WK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11966,
+          "following_count": 107,
+          "like_count": 18874,
+          "listed_count": 13,
+          "media_count": 68,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "mufan_2006",
+        "verified": false
+      }
+    ]
+  }
+}

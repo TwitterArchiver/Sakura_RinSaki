@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2046156345150492968",
+    "created_at": "2026-04-20T15:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046244861419106742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1744024593243987968",
+          "start": 0,
+          "username": "hgsbtin_roti"
+        },
+        {
+          "end": 29,
+          "id": "1604837080663617537",
+          "start": 14,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046244861419106742",
+    "in_reply_to_user_id": "1744024593243987968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046156345150492968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_roti @Natsukikawaii_ 喵?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2046156342399041537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVoWjebgAEVPFi.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2046156345150492968",
+        "created_at": "2026-04-20T15:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046244861419106742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744024593243987968",
+              "start": 0,
+              "username": "hgsbtin_roti"
+            },
+            {
+              "end": 29,
+              "id": "1604837080663617537",
+              "start": 14,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046244861419106742",
+        "in_reply_to_user_id": "1744024593243987968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046156345150492968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_roti @Natsukikawaii_ 喵?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046156342399041537"
+          ]
+        },
+        "author_id": "1744024593243987968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2046156345150492968",
+        "created_at": "2026-04-20T09:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046156345150492968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 59,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044762482695426048/1wp42gLg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/XKd0sALKlQ"
+            },
+            {
+              "display_url": "pic.x.com/iPNpY9u9OZ",
+              "end": 83,
+              "expanded_url": "https://x.com/hgsbtin_roti/status/2046156345150492968/photo/1",
+              "media_key": "3_2046156342399041537",
+              "start": 60,
+              "url": "https://t.co/iPNpY9u9OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046156345150492968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Natsukikawaii_\n\n➡️ https://t.co/XKd0sALKlQ https://t.co/iPNpY9u9OZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 88,
+          "like_count": 3276,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 3123
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-07T15:54:09.000Z",
+        "description": "MtF🏳️‍⚧️🍥 | 174cm | 50kg | ❤️@hgsbtin_nisaki | 是银狐娘~ 色色的… 喜欢听nsk讲话..还喜欢语言学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1744024593243987968",
+        "name": "洛缇~狐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033314956385591296/DqsvjACp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 49,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 120
+        },
+        "username": "hgsbtin_roti",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "@Sakura_RinSaki すき♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakura_RinSaki"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 68,
+          "like_count": 2879,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1100
+        },
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

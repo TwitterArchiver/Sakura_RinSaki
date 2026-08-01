@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2013977580110520470",
+    "created_at": "2026-01-22T17:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014397296696611180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1437307796551180290",
+          "start": 0,
+          "username": "DarrenHung12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014397296696611180",
+    "in_reply_to_user_id": "1437307796551180290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014295105012900307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarrenHung12 姆唔 手短短的才可愛！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-22T17:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014397296696611180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1437307796551180290",
+              "start": 0,
+              "username": "DarrenHung12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014397296696611180",
+        "in_reply_to_user_id": "1437307796551180290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014295105012900307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarrenHung12 姆唔 手短短的才可愛！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437307796551180290",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-22T11:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014295105012900307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014295105012900307",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013977580110520470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 抱抱~手有點短別介意呀~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 64,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 620
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T06:52:27.000Z",
+        "description": "春弧的蠢作者呦！一個人類的工作室管理員，運營者，服務生，打掃員，剪輯師.....（反正都是我做）\nYT:\nhttps://t.co/np5rNojIEU\nDC:\nhttps://t.co/tSjQDgAwKC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCMaa8…",
+                "end": 76,
+                "expanded_url": "https://youtube.com/channel/UCMaa8pdhRFndNbHiI8iffXQ?si=8MHad7-s_Fe8lpCZ",
+                "start": 53,
+                "url": "https://t.co/np5rNojIEU"
+              },
+              {
+                "display_url": "discord.gg/5SHCGEHgEd",
+                "end": 104,
+                "expanded_url": "https://discord.gg/5SHCGEHgEd",
+                "start": 81,
+                "url": "https://t.co/tSjQDgAwKC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@darrenhung381…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@darrenhung3819?si=hhAUlNIDgITPxrSO",
+                "start": 0,
+                "url": "https://t.co/EMF3eKjBTO"
+              }
+            ]
+          }
+        },
+        "id": "1437307796551180290",
+        "name": "蠢作者廢宅 AIVtuber author",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953507482497953792/be4gfUk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 100,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/EMF3eKjBTO",
+        "username": "DarrenHung12",
+        "verified": false
+      }
+    ]
+  }
+}

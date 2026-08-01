@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2003465586182095040",
+    "created_at": "2025-12-24T00:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003618120947368424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        },
+        {
+          "end": 31,
+          "id": "4229371640",
+          "start": 16,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003618120947368424",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003598514035814610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki @ringochichidim 那個要被車車撞 然後 去佐賀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2003465586182095040",
+        "created_at": "2025-12-24T00:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003618120947368424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            },
+            {
+              "end": 31,
+              "id": "4229371640",
+              "start": 16,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003618120947368424",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003598514035814610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki @ringochichidim 那個要被車車撞 然後 去佐賀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606690184564985856",
+        "conversation_id": "2003465586182095040",
+        "created_at": "2025-12-23T22:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T23:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003598514035814610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            },
+            {
+              "end": 31,
+              "id": "1898849785559580672",
+              "start": 16,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003598514035814610",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003581982585053622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim @Sakura_RinSaki 紫砂变僵尸（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 67,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 487
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年持证含糖｜INFP-T｜168 50｜天赋党｜ 药攻｜N1考取中｜造t｜同类私信互fo｜@WangPu90983｜妈妈@BloodCatOvO｜妹妹：@3899596230X ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "3899596230X"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998053820425965568/KrZ9Kpkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 593,
+          "like_count": 13257,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "来たことがある",
+        "id": "4229371640",
+        "location": "Taiwan",
+        "name": "きた(舊稱窮奇)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1232,
+          "like_count": 38487,
+          "listed_count": 7,
+          "media_count": 3266,
+          "tweet_count": 10787
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

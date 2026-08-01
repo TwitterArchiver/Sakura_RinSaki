@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2063311923073138838",
+    "created_at": "2026-06-08T10:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063938340878258413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028509490119864324",
+          "start": 0,
+          "username": "Yuhane_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063938340878258413",
+    "in_reply_to_user_id": "2028509490119864324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063930188606722205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuhane_ZZZ 計算錢錢中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2063311923073138838",
+        "created_at": "2026-06-08T10:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063938340878258413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028509490119864324",
+              "start": 0,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063938340878258413",
+        "in_reply_to_user_id": "2028509490119864324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063930188606722205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuhane_ZZZ 計算錢錢中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028509490119864324",
+        "conversation_id": "2063311923073138838",
+        "created_at": "2026-06-08T10:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063930188606722205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063930188606722205",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063311923073138838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 绒绒买嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "凜咲喵丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 113,
+          "like_count": 4640,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 4145
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T16:38:24.000Z",
+        "description": "舞萌吃/音击吃/珠洲岛有栖厨/emu厨/总是好困w…/喜欢可爱的说话方式和颜文字/ESFP/顺女/＝幻霭澪愿/视成分互fo/友跨/最喜欢的宝宝@hydrogen_nia/神秘小号@mione_awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "hydrogen_nia"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "mione_awa"
+              }
+            ]
+          }
+        },
+        "id": "2028509490119864324",
+        "location": "奏坂学园",
+        "name": "星奏谷 夢羽_ほしかなや ゆはね",
+        "pinned_tweet_id": "2029106548501524686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038873195089174528/FM2jiZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 94,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 539
+        },
+        "username": "Yuhane_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

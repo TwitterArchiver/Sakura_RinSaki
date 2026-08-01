@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2028386916551528657",
+    "created_at": "2026-03-02T08:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028386916551528657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sakura_RinSaki…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Sakura_RinSaki/status/1904209598527287367",
+          "start": 10,
+          "url": "https://t.co/nuDyJoWtho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028386916551528657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904209598527287367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "現在知道了 啊啊啊 https://t.co/nuDyJoWtho"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2028386916551528657",
+        "created_at": "2026-03-02T08:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028386916551528657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/1904209598527287367",
+              "start": 10,
+              "url": "https://t.co/nuDyJoWtho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028386916551528657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904209598527287367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "現在知道了 啊啊啊 https://t.co/nuDyJoWtho"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1904209598527287367",
+        "created_at": "2025-03-24T16:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904209598527287367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904209598527287367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就問推特！\nod是什麼！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 79,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1354
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      }
+    ]
+  }
+}

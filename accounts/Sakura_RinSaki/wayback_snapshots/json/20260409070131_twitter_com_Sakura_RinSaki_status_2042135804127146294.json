@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2042121630848315561",
+    "created_at": "2026-04-09T07:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042135804127146294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041482877125206016",
+          "start": 0,
+          "username": "XingJiang99905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042135804127146294",
+    "in_reply_to_user_id": "2041482877125206016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042127524139037008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingJiang99905 早安安！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2042121630848315561",
+        "created_at": "2026-04-09T07:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042135804127146294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041482877125206016",
+              "start": 0,
+              "username": "XingJiang99905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042135804127146294",
+        "in_reply_to_user_id": "2041482877125206016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042127524139037008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingJiang99905 早安安！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041482877125206016",
+        "conversation_id": "2042121630848315561",
+        "created_at": "2026-04-09T06:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042127524139037008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042127524139037008",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042121630848315561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 姆！早安！！！(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 106,
+          "like_count": 2928,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2997
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T11:47:15.000Z",
+        "description": "mtf?/无证含糖/已休学/座标台中\nASD/ADHD/\n生产日期/2008/11/3\nHRT/2026/3/17\n已出柜/2026/4/7/家长党",
+        "id": "2041482877125206016",
+        "name": "星酱🍥",
+        "pinned_tweet_id": "2041517792541950445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041482937745489920/rpuy5WQF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 81,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 149
+        },
+        "username": "XingJiang99905",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2081111644479062141",
+    "created_at": "2026-07-26T21:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081499610204500235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890498415974305792",
+          "start": 0,
+          "username": "weiweisama1220"
+        },
+        {
+          "end": 25,
+          "id": "1662694689680797701",
+          "start": 16,
+          "username": "Cc739108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081499610204500235",
+    "in_reply_to_user_id": "1890498415974305792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081111644479062141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiweisama1220 @Cc739108 看起來好好吃 QAQ好餓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081111626535886848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGX_4WbYAA2hBU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081111626577743872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGX_4gaEAApP8d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2081111644479062141",
+        "created_at": "2026-07-26T21:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081499610204500235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890498415974305792",
+              "start": 0,
+              "username": "weiweisama1220"
+            },
+            {
+              "end": 25,
+              "id": "1662694689680797701",
+              "start": 16,
+              "username": "Cc739108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081499610204500235",
+        "in_reply_to_user_id": "1890498415974305792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081111644479062141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiweisama1220 @Cc739108 看起來好好吃 QAQ好餓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081111626535886848",
+            "3_2081111626577743872"
+          ]
+        },
+        "author_id": "1890498415974305792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081111644479062141",
+        "created_at": "2026-07-25T20:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081111644479062141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662694689680797701",
+              "start": 8,
+              "username": "Cc739108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/epaM2jFnAo",
+              "end": 41,
+              "expanded_url": "https://x.com/weiweisama1220/status/2081111644479062141/photo/1",
+              "media_key": "3_2081111626535886848",
+              "start": 18,
+              "url": "https://t.co/epaM2jFnAo"
+            },
+            {
+              "display_url": "pic.x.com/epaM2jFnAo",
+              "end": 41,
+              "expanded_url": "https://x.com/weiweisama1220/status/2081111644479062141/photo/1",
+              "media_key": "3_2081111626577743872",
+              "start": 18,
+              "url": "https://t.co/epaM2jFnAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081111644479062141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吃土豆粉🤤\n和@Cc739108 https://t.co/epaM2jFnAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 134,
+          "like_count": 6275,
+          "listed_count": 11,
+          "media_count": 284,
+          "tweet_count": 5118
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T20:28:49.000Z",
+        "description": "本质哥布林丨生产日期Dec20.2009丨HRT Jan29.2026丨贴贴抱抱重度依赖丨坐标福建泉州丨大可爱缘缘@Lainyer051230丨最好的姐姐/老婆（确信）@Cc739108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Lainyer051230"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "Cc739108"
+              }
+            ]
+          }
+        },
+        "id": "1890498415974305792",
+        "name": "唯唯sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051362982169600000/TNgHa50L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 570,
+          "like_count": 11923,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "weiweisama1220",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T05:38:07.000Z",
+        "description": "06年产/阴暗伪娘/无不良嗜好/男友重度依赖/同类可互fo/小老婆:@weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "weiweisama1220"
+              }
+            ]
+          }
+        },
+        "id": "1662694689680797701",
+        "location": "Anywhere",
+        "name": "愿夜倾星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052773646679306240/jnbtMGfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 89,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Cc739108",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1907758418548736263",
+    "created_at": "2025-04-04T08:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T09:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908068587408851395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581609984755830784",
+          "start": 0,
+          "username": "smallchili04186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908068587408851395",
+    "in_reply_to_user_id": "1581609984755830784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907758418548736263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smallchili04186 下意識會迴避QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1907758418548736263",
+        "created_at": "2025-04-04T08:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T09:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908068587408851395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581609984755830784",
+              "start": 0,
+              "username": "smallchili04186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908068587408851395",
+        "in_reply_to_user_id": "1581609984755830784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907758418548736263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallchili04186 下意識會迴避QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581609984755830784",
+        "conversation_id": "1907758418548736263",
+        "created_at": "2025-04-03T11:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T12:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907758418548736263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907758418548736263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 213,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "還是不懂\n為什麼要看著別人的眼睛說話才是有禮貌\n我根本沒辦法直視別人的眼睛\n很可怕\n七年級的時候\n就被英文老師罵沒禮貌了qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006.11.15丨47kg丨不可愛丨一個討厭人類的生物丨かわいい🩷丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898850888443367425/Lm5dz6ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 26,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T11:36:30.000Z",
+        "description": "@luonbe69永遠的烏鴉老師\n尊重包容🏳️‍⚧️/🏳️‍🌈\n記性不好請見諒\n\n死にたい僕は今日も息をして\n一心尋死的我今天依然呼吸著\n生きたい君は明日を見失って\n渴求活命的你卻迷失在明日---だれかの心臓になれたなら",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "luonbe69"
+              }
+            ]
+          }
+        },
+        "id": "1581609984755830784",
+        "location": "黑暗的深淵",
+        "name": "小辣椒🌶(好累⍩(會考生一個",
+        "pinned_tweet_id": "1851792001756467477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683425490407940097/DrdIMPdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 952,
+          "like_count": 117113,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 2947
+        },
+        "username": "smallchili04186",
+        "verified": false
+      }
+    ]
+  }
+}

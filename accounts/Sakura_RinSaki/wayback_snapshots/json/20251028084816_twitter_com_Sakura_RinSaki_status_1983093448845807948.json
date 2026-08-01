@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "1982989315929166255",
+    "created_at": "2025-10-28T08:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983093448845807948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425734580754026508",
+          "start": 0,
+          "username": "FWtBf73lgF3FYSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983093448845807948",
+    "in_reply_to_user_id": "1425734580754026508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983078155964559389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FWtBf73lgF3FYSc （蹭蹭蹭蹭蹭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1983078144711241731",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4VPENlasAMOGIh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4VPENlasAMOGIh.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "1982989315929166255",
+        "created_at": "2025-10-28T08:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983093448845807948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425734580754026508",
+              "start": 0,
+              "username": "FWtBf73lgF3FYSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983093448845807948",
+        "in_reply_to_user_id": "1425734580754026508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983078155964559389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FWtBf73lgF3FYSc （蹭蹭蹭蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1983078144711241731"
+          ]
+        },
+        "author_id": "1425734580754026508",
+        "conversation_id": "1982989315929166255",
+        "created_at": "2025-10-28T07:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983078155964559389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLxfYEbuup",
+              "end": 46,
+              "expanded_url": "https://x.com/FWtBf73lgF3FYSc/status/1983078155964559389/photo/1",
+              "media_key": "16_1983078144711241731",
+              "start": 23,
+              "url": "https://t.co/vLxfYEbuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983078155964559389",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982989315929166255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 摸摸摸摸摸摸 https://t.co/vLxfYEbuup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨一個討厭人類的生物丨成年黨丨尋找台灣人~丨互粉的時候私過來咱會很開心🍥\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲🍥丨❄️🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977084874289750016/opD9ZxRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 60,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 383
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T08:23:50.000Z",
+        "description": "到處交朋友的麻糬(❀ฺ´∀`❀ฺ)ﾉ\n想一起玩遊戲的可以私我dc喔～\nDC:https://t.co/u5pljHCBJa\n對了我在twitch:https://t.co/nDQrjFSro6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/2cpXe3fBCa",
+                "end": 61,
+                "expanded_url": "https://discord.gg/2cpXe3fBCa",
+                "start": 38,
+                "url": "https://t.co/u5pljHCBJa"
+              },
+              {
+                "display_url": "twitch.tv/black_mochi105",
+                "end": 96,
+                "expanded_url": "https://www.twitch.tv/black_mochi105",
+                "start": 73,
+                "url": "https://t.co/nDQrjFSro6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/black_mochi105",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/black_mochi105",
+                "start": 0,
+                "url": "https://t.co/nDQrjFSro6"
+              }
+            ]
+          }
+        },
+        "id": "1425734580754026508",
+        "name": "黑色大麻糬🐕 | 陪伴系vtuder🩵 |aka告別勢",
+        "pinned_tweet_id": "1978798769891311908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982823739474546688/q3UfyZot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 88,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/nDQrjFSro6",
+        "username": "FWtBf73lgF3FYSc",
+        "verified": false
+      }
+    ]
+  }
+}

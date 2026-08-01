@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2013977580110520470",
+    "created_at": "2026-01-21T15:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013991017977098291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661703449418010627",
+          "start": 0,
+          "username": "Rt5078285111473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013991017977098291",
+    "in_reply_to_user_id": "1661703449418010627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013978579625742519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rt5078285111473 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-21T15:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013991017977098291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661703449418010627",
+              "start": 0,
+              "username": "Rt5078285111473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013991017977098291",
+        "in_reply_to_user_id": "1661703449418010627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013978579625742519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rt5078285111473 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661703449418010627",
+        "conversation_id": "2013977580110520470",
+        "created_at": "2026-01-21T14:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013978579625742519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013978579625742519",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013977580110520470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 抱抱~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012129134861004800/7HJyV2-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 64,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 596
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-25T11:59:21.000Z",
+        "description": "https://t.co/Z0wrML0WJv\n不給照和語音 不線下 18y/164/42.6/D 台灣人\n限制dc加友 沒有微信微博QQ 別傳屌照我不會發情 留言區留言自辯真假詐騙很多",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/owo042…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/owo0422.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Z0wrML0WJv"
+              }
+            ]
+          }
+        },
+        "id": "1661703449418010627",
+        "name": "希希",
+        "pinned_tweet_id": "1875940675004608698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996194254218223616/t4D309y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6420,
+          "following_count": 784,
+          "like_count": 11247,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 3657
+        },
+        "username": "Rt5078285111473",
+        "verified": false
+      }
+    ]
+  }
+}

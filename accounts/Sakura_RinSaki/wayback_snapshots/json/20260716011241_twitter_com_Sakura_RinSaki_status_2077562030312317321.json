@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2077346033206796761",
+    "created_at": "2026-07-16T01:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077562030312317321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495200550279086081",
+          "start": 0,
+          "username": "yuyu50650448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077562030312317321",
+    "in_reply_to_user_id": "1495200550279086081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077553045542785264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu50650448 唔？ 是吃了藥藥之後的長度嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2077346033206796761",
+        "created_at": "2026-07-16T01:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077562030312317321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495200550279086081",
+              "start": 0,
+              "username": "yuyu50650448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077562030312317321",
+        "in_reply_to_user_id": "1495200550279086081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077553045542785264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu50650448 唔？ 是吃了藥藥之後的長度嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495200550279086081",
+        "conversation_id": "2077346033206796761",
+        "created_at": "2026-07-16T00:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077553045542785264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077553045542785264",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077549448713175133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 窩…也是呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 133,
+          "like_count": 6067,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 4968
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T00:56:34.000Z",
+        "description": "你是雜魚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@kiwi_uu23456",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@kiwi_uu23456",
+                "start": 0,
+                "url": "https://t.co/6WmLiOx6u3"
+              }
+            ]
+          }
+        },
+        "id": "1495200550279086081",
+        "location": "Taiwan",
+        "name": "於羽 小可愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076976857317285888/KFQiVWS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 460,
+          "like_count": 10709,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/6WmLiOx6u3",
+        "username": "yuyu50650448",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2043575878203093417",
+    "created_at": "2026-04-13T06:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043575878203093417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043575878203093417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "討厭理性的自己 甚至是能把自己對於感覺給麻痺的理性 感覺已經稱不上是 理性  像是一種 把自己的情緒 感受 感覺神經 給 隔絕的東西 被隔離開來 可能是擔心自己太脆弱 給自己弄出來的 保護殼吧 \n\n應該發在裏帳發洩的 可是那邊發了其他東西 就丟在這邊來吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2043575878203093417",
+        "created_at": "2026-04-13T06:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043575878203093417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043575878203093417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "討厭理性的自己 甚至是能把自己對於感覺給麻痺的理性 感覺已經稱不上是 理性  像是一種 把自己的情緒 感受 感覺神經 給 隔絕的東西 被隔離開來 可能是擔心自己太脆弱 給自己弄出來的 保護殼吧 \n\n應該發在裏帳發洩的 可是那邊發了其他東西 就丟在這邊來吧~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 107,
+          "like_count": 3008,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 3029
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

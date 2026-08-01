@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2070553635684003870",
+    "created_at": "2026-07-10T22:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075708081229689260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913743387330752512",
+          "start": 0,
+          "username": "lishn237850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075708081229689260",
+    "in_reply_to_user_id": "1913743387330752512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070555740209901646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lishn237850 沒 沒事吧 心臟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2070555734388121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwXeFvaIAAtf3X.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2070553635684003870",
+        "created_at": "2026-07-10T22:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075708081229689260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913743387330752512",
+              "start": 0,
+              "username": "lishn237850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075708081229689260",
+        "in_reply_to_user_id": "1913743387330752512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070555740209901646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishn237850 沒 沒事吧 心臟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070555734388121600"
+          ]
+        },
+        "author_id": "1913743387330752512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070553635684003870",
+        "created_at": "2026-06-26T17:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070555740209901646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbRHUfQfAZ",
+              "end": 39,
+              "expanded_url": "https://x.com/lishn237850/status/2070555740209901646/photo/1",
+              "media_key": "3_2070555734388121600",
+              "start": 16,
+              "url": "https://t.co/cbRHUfQfAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070555740209901646",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070553635684003870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki https://t.co/cbRHUfQfAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 132,
+          "like_count": 5858,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T23:56:05.000Z",
+        "description": "奇怪的生物³\n等死 男的 就讀資工 未來職軍 目前伴侶是個mtf\n人生目標是槍殺一個解放軍\n我應該去死",
+        "id": "1913743387330752512",
+        "location": "南投漁港",
+        "name": "未知❂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066913297191075840/jdGqQynd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 506,
+          "like_count": 14067,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "lishn237850",
+        "verified": false
+      }
+    ]
+  }
+}

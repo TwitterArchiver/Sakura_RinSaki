@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2014226009378402628",
+    "created_at": "2026-01-22T08:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014250622229569636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014250622229569636",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014226009378402628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 漸層銀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2014226006710898688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_P34ZtbUAAx-3z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2014226009378402628",
+        "created_at": "2026-01-22T08:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014250622229569636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014250622229569636",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014226009378402628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 漸層銀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014226006710898688"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2014226009378402628",
+        "created_at": "2026-01-22T06:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014226009378402628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXJUcibv27",
+              "end": 53,
+              "expanded_url": "https://x.com/SONY846995/status/2014226009378402628/photo/1",
+              "media_key": "3_2014226006710898688",
+              "start": 30,
+              "url": "https://t.co/CXJUcibv27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014226009378402628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猜旅館   （提示他中部\n\n猜對給我家貓咪裸照 （真的是貓 https://t.co/CXJUcibv27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "2006丨47kg丨不可愛丨要互fo私訊過來~\n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね",
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "凜咲咲丨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014007184447741952/sA3Nvl9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 64,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 603
+        },
+        "username": "Sakura_RinSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n    \n我家的銀漸層😺 @sushiching_2006 💕\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "廢文"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "sushiching_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 好餓喵🐾🍨",
+        "pinned_tweet_id": "1437803738752638980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999003066167865347/a0jEihmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 132,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 993
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

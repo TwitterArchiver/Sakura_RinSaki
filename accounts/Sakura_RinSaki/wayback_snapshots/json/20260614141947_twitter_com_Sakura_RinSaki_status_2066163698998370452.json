@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066163696439840768"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065493647143891110",
+    "created_at": "2026-06-14T14:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066163698998370452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796868561643741184",
+          "start": 0,
+          "username": "aestheticsguyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcM8h3FOgF",
+          "end": 39,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2066163698998370452/photo/1",
+          "media_key": "3_2066163696439840768",
+          "start": 16,
+          "url": "https://t.co/qcM8h3FOgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066163698998370452",
+    "in_reply_to_user_id": "1796868561643741184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065493647143891110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aestheticsguyy https://t.co/qcM8h3FOgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2066163696439840768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx871Ya0AAOhPE.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2660,
+        "media_key": "3_2065493642085584896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKobhiZW0AAX8DY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066163696439840768"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065493647143891110",
+        "created_at": "2026-06-14T14:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066163698998370452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796868561643741184",
+              "start": 0,
+              "username": "aestheticsguyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcM8h3FOgF",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2066163698998370452/photo/1",
+              "media_key": "3_2066163696439840768",
+              "start": 16,
+              "url": "https://t.co/qcM8h3FOgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066163698998370452",
+        "in_reply_to_user_id": "1796868561643741184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065493647143891110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aestheticsguyy https://t.co/qcM8h3FOgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065493642085584896"
+          ]
+        },
+        "author_id": "1796868561643741184",
+        "conversation_id": "2065493647143891110",
+        "created_at": "2026-06-12T17:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065493647143891110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVRPX9yOur",
+              "end": 75,
+              "expanded_url": "https://x.com/aestheticsguyy/status/2065493647143891110/photo/1",
+              "media_key": "3_2065493642085584896",
+              "start": 52,
+              "url": "https://t.co/TVRPX9yOur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065493647143891110",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 435332,
+          "like_count": 5117,
+          "quote_count": 540,
+          "reply_count": 2791,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "Post a picture YOU took. Just a pic. No description https://t.co/TVRPX9yOur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "原名絨絨丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "夏凜咲🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481981138518016/Q2lzwv9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 115,
+          "like_count": 4701,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 4172
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T11:37:13.000Z",
+        "description": "All things aesthetically pleasing 📸  Exclusive wallpapers via link in bio 🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/aestheticsguyy",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/aestheticsguyy",
+                "start": 0,
+                "url": "https://t.co/rDAPFVOWpZ"
+              }
+            ]
+          }
+        },
+        "id": "1796868561643741184",
+        "location": "⬇️ ",
+        "name": "Aesthetics 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798732253729525760/3DRznoxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181684,
+          "following_count": 340,
+          "like_count": 26849,
+          "listed_count": 1643,
+          "media_count": 3962,
+          "tweet_count": 5140
+        },
+        "url": "https://t.co/rDAPFVOWpZ",
+        "username": "aestheticsguyy",
+        "verified": true
+      }
+    ]
+  }
+}
