@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2087090098471158101",
+    "created_at": "2026-08-11T09:15:09.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087105531039318328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087105531039318328",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087103937266733157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 嗚欸嗚欸？！！ （被咬惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2087103927309492224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbh9sSa4AA9UQO.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2087090098471158101",
+        "created_at": "2026-08-11T09:15:09.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087105531039318328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087105531039318328",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087103937266733157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 嗚欸嗚欸？！！ （被咬惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087103927309492224"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2087090098471158101",
+        "created_at": "2026-08-11T09:08:49.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087103937266733157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/454g46nP8p",
+              "end": 43,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2087103937266733157/photo/1",
+              "media_key": "3_2087103927309492224",
+              "start": 20,
+              "url": "https://t.co/454g46nP8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087103937266733157",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087103927309492224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087090098471158101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 我咬！ https://t.co/454g46nP8p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087105531039318328",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 142,
+          "like_count": 6414,
+          "listed_count": 12,
+          "media_count": 293,
+          "tweet_count": 5218
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "is_identity_verified": false,
+        "location": "上級敘事層(bushi)",
+        "most_recent_tweet_id": "2087103937266733157",
+        "name": "無量哈基米(≖ ◡ ≖)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966769306240512007/1783971078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075919887630000128/tsVsceep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 39,
+          "like_count": 2640,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "Epyq59QJZV90802",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

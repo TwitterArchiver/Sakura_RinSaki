@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2088325416264315188",
+    "created_at": "2026-08-15T01:43:22.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088441384642760989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906052317818023936",
+          "start": 0,
+          "username": "seanch985512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088441384642760989",
+    "in_reply_to_user_id": "1906052317818023936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088325416264315188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seanch985512 不可以喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2088325416264315188",
+        "created_at": "2026-08-15T01:43:22.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088441384642760989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906052317818023936",
+              "start": 0,
+              "username": "seanch985512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088441384642760989",
+        "in_reply_to_user_id": "1906052317818023936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088325416264315188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seanch985512 不可以喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906052317818023936",
+        "conversation_id": "2088325416264315188",
+        "created_at": "2026-08-14T18:02:33.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088325416264315188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088325416264315188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現在每天上班都很累\n感覺身體有點快壞掉了🫪\n還是我去賣屁股（x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2088441384642760989",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 144,
+          "like_count": 6439,
+          "listed_count": 12,
+          "media_count": 296,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T18:34:32.000Z",
+        "description": "最喜歡男娘了啊啊啊！！\n自己也可以變成男娘嗎！？哈！\n放一些心情還有偷看男娘，和自己的照片哇哈哈哈！！我是小悶騷..害羞唉雙性戀",
+        "id": "1906052317818023936",
+        "is_identity_verified": false,
+        "location": "台北市, 台灣",
+        "most_recent_tweet_id": "2088325416264315188",
+        "name": "阿肉肉",
+        "pinned_tweet_id": "2051360183981670655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906052317818023936/1780467884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051363422965727232/N7vZFLQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2545,
+          "following_count": 407,
+          "like_count": 1770,
+          "listed_count": 5,
+          "media_count": 84,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "seanch985512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

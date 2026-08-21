@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2086674384987832465",
+    "created_at": "2026-08-11T23:40:58.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087323420719743443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808555432480550913",
+          "start": 0,
+          "username": "kao20030815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087323420719743443",
+    "in_reply_to_user_id": "1808555432480550913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086674384987832465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kao20030815 幽幽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086674276766380032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVbMvSa8AABZTK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086674276737032192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVbMvLbIAALp84.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086674276451815424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVbMuHbEAA9sbV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2086674384987832465",
+        "created_at": "2026-08-11T23:40:58.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087323420719743443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808555432480550913",
+              "start": 0,
+              "username": "kao20030815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087323420719743443",
+        "in_reply_to_user_id": "1808555432480550913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086674384987832465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kao20030815 幽幽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086674276766380032",
+            "3_2086674276737032192",
+            "3_2086674276451815424"
+          ]
+        },
+        "author_id": "1808555432480550913",
+        "conversation_id": "2086674384987832465",
+        "created_at": "2026-08-10T04:41:56.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086674384987832465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUZK2GiMiA",
+              "end": 26,
+              "expanded_url": "https://x.com/kao20030815/status/2086674384987832465/photo/1",
+              "media_key": "3_2086674276766380032",
+              "start": 3,
+              "url": "https://t.co/QUZK2GiMiA"
+            },
+            {
+              "display_url": "pic.x.com/QUZK2GiMiA",
+              "end": 26,
+              "expanded_url": "https://x.com/kao20030815/status/2086674384987832465/photo/1",
+              "media_key": "3_2086674276737032192",
+              "start": 3,
+              "url": "https://t.co/QUZK2GiMiA"
+            },
+            {
+              "display_url": "pic.x.com/QUZK2GiMiA",
+              "end": 26,
+              "expanded_url": "https://x.com/kao20030815/status/2086674384987832465/photo/1",
+              "media_key": "3_2086674276451815424",
+              "start": 3,
+              "url": "https://t.co/QUZK2GiMiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086674384987832465",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086674276766380032"
+          },
+          {
+            "media_key": "3_2086674276737032192"
+          },
+          {
+            "media_key": "3_2086674276451815424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12434,
+          "like_count": 346,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好熱 https://t.co/QUZK2GiMiA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087323420719743443",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 143,
+          "like_count": 6421,
+          "listed_count": 12,
+          "media_count": 294,
+          "tweet_count": 5234
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T17:37:09.000Z",
+        "description": "可愛的生物！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furuke.com/kao030815",
+                "end": 23,
+                "expanded_url": "https://www.furuke.com/kao030815",
+                "start": 0,
+                "url": "https://t.co/x4f6285KHA"
+              }
+            ]
+          }
+        },
+        "id": "1808555432480550913",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2086743927894458371",
+        "name": "幽子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808555432480550913/1785169094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062190580235649024/6OLd0_Yo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6666,
+          "following_count": 123,
+          "like_count": 804,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/x4f6285KHA",
+        "username": "kao20030815",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

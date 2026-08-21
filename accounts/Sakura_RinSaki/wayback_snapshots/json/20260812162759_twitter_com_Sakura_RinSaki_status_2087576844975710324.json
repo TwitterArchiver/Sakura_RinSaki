@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2087555243794165815",
+    "created_at": "2026-08-12T16:27:59.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087576844975710324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061889454403665920",
+          "start": 0,
+          "username": "yjk_studio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087576844975710324",
+    "in_reply_to_user_id": "2061889454403665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087555243794165815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjk_studio 留言區好多機器人 討厭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087555192254590976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh8YxNbcAA5t8T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087555209941905408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh8ZzGacAAKsPK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2087555243794165815",
+        "created_at": "2026-08-12T16:27:59.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087576844975710324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061889454403665920",
+              "start": 0,
+              "username": "yjk_studio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087576844975710324",
+        "in_reply_to_user_id": "2061889454403665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087555243794165815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjk_studio 留言區好多機器人 討厭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087555192254590976",
+            "3_2087555209941905408"
+          ]
+        },
+        "author_id": "2061889454403665920",
+        "conversation_id": "2087555243794165815",
+        "created_at": "2026-08-12T15:02:09.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087555243794165815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgDYqf4irC",
+              "end": 86,
+              "expanded_url": "https://x.com/yjk_studio/status/2087555243794165815/photo/1",
+              "media_key": "3_2087555192254590976",
+              "start": 63,
+              "url": "https://t.co/ZgDYqf4irC"
+            },
+            {
+              "display_url": "pic.x.com/ZgDYqf4irC",
+              "end": 86,
+              "expanded_url": "https://x.com/yjk_studio/status/2087555243794165815/photo/1",
+              "media_key": "3_2087555209941905408",
+              "start": 63,
+              "url": "https://t.co/ZgDYqf4irC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087555243794165815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087555192254590976"
+          },
+          {
+            "media_key": "3_2087555209941905408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前陣子跟我媽整理家裡\n翻到她大學穿的衣服\n她說：「兒子，你會穿這種衣服ㄇ」\n然後就直接送我了\n\n媽媽年輕時的風格真的很酷ww https://t.co/ZgDYqf4irC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087576844975710324",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 143,
+          "like_count": 6422,
+          "listed_count": 12,
+          "media_count": 294,
+          "tweet_count": 5242
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T19:19:56.000Z",
+        "description": "溺死在病態的危險美學裡🖤\n「看著我，不要移開視線。」",
+        "id": "2061889454403665920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087555243794165815",
+        "name": "雪女❄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061889454403665920/1781535042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061891014894485504/CVvxx_oP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 8,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "yjk_studio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

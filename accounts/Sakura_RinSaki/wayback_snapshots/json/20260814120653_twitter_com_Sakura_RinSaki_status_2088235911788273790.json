@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2088128122571104713",
+    "created_at": "2026-08-14T12:06:53.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088235911788273790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038192732028469248",
+          "start": 0,
+          "username": "Akiraoo_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088235911788273790",
+    "in_reply_to_user_id": "2038192732028469248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088128122571104713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraoo_xyn 認識你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2088128122571104713",
+        "created_at": "2026-08-14T12:06:53.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088235911788273790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088235911788273790",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088128122571104713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn 認識你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038192732028469248",
+        "conversation_id": "2088128122571104713",
+        "created_at": "2026-08-14T04:58:34.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088128122571104713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088128122571104713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼感覺跨圈的人都互相認識\n就我一個誰都不認識是吧🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2088235911788273790",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 144,
+          "like_count": 6439,
+          "listed_count": 12,
+          "media_count": 295,
+          "tweet_count": 5248
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 有点笨 | 不自残 | 不od\n小号 @Akiraoo_qwq  好闺蜜 @ntfuko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Akiraoo_qwq"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "ntfuko"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "is_identity_verified": false,
+        "location": "台灣 高雄市",
+        "most_recent_tweet_id": "2088128209443516627",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038192732028469248/1784901348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080652856206716928/3l6Cu6rL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 180,
+          "like_count": 1229,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

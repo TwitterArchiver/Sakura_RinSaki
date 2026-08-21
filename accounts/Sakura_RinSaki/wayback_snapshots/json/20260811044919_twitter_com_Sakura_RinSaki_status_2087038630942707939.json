@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2086726484509839384",
+    "created_at": "2026-08-11T04:49:19.000Z",
+    "display_text_range": [
+      29,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087038630942707939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        },
+        {
+          "end": 28,
+          "id": "1949502839967059968",
+          "start": 12,
+          "username": "8yiRQsLn1Qsd8vV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087038630942707939",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086989885140086983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 @8yiRQsLn1Qsd8vV 雜魚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2086726484509839384",
+        "created_at": "2026-08-11T04:49:19.000Z",
+        "display_text_range": [
+          29,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087038630942707939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            },
+            {
+              "end": 28,
+              "id": "1949502839967059968",
+              "start": 12,
+              "username": "8yiRQsLn1Qsd8vV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087038630942707939",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086989885140086983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 @8yiRQsLn1Qsd8vV 雜魚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377114572843184139",
+        "conversation_id": "2086726484509839384",
+        "created_at": "2026-08-11T01:35:37.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086989885140086983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949502839967059968",
+              "start": 0,
+              "username": "8yiRQsLn1Qsd8vV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086989885140086983",
+        "in_reply_to_user_id": "1949502839967059968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086726484509839384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8yiRQsLn1Qsd8vV 他是一個滿分男，不過只能撐15分鐘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087038630942707939",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 142,
+          "like_count": 6403,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 5211
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 廢文多請注意(⁠๑⁠•⁠﹏⁠•⁠)\n僅約日常出來玩  不約色! 男女都一樣不約色!\n座標台中🔪 /  歡迎找我打 #戰艦世界\n\n互fo私信\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 85,
+                "start": 82,
+                "tag": "廢文"
+              },
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "日常帳"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "is_identity_verified": false,
+        "location": "台中市, 台灣",
+        "most_recent_tweet_id": "2086990987398975660",
+        "name": "SONY 好餓喵🐾🍨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377114572843184139/1633020573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076347776183767040/B80YQAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 193,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 1680
+        },
+        "url": "",
+        "username": "SONY846995",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T16:11:24.000Z",
+        "description": "",
+        "id": "1949502839967059968",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2087008893486719141",
+        "name": "momo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950358719650217984/miFGfa40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 68,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "8yiRQsLn1Qsd8vV",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

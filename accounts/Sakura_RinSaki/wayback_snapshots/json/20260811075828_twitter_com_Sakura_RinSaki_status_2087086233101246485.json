@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2087086233101246485",
+    "created_at": "2026-08-11T07:58:28.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087086233101246485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sakura_RinSaki…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2074687836092293161",
+          "start": 18,
+          "url": "https://t.co/UXfgenGczp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087086233101246485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074687836092293161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感覺朋友越來越少了…… 好煩！！！ https://t.co/UXfgenGczp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2087086233101246485",
+        "created_at": "2026-08-11T07:58:28.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087086233101246485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2074687836092293161",
+              "start": 18,
+              "url": "https://t.co/UXfgenGczp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087086233101246485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074687836092293161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感覺朋友越來越少了…… 好煩！！！ https://t.co/UXfgenGczp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2074687836092293161",
+        "created_at": "2026-07-08T02:51:40.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074687836092293161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074687836092293161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1195,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友不用很多 有少少幾個願意陪著自己 聽自己抱怨發洩的就好了\n明明知道 但還是會想要去追求更多的朋友\n明明知道這麼做 反而會讓自己心力憔悴的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087086233101246485",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 142,
+          "like_count": 6403,
+          "listed_count": 12,
+          "media_count": 293,
+          "tweet_count": 5214
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

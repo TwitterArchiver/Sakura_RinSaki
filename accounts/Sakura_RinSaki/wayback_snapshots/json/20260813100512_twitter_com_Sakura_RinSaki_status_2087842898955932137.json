@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2087555243794165815",
+    "created_at": "2026-08-13T10:05:12.000Z",
+    "display_text_range": [
+      29,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087842898955932137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        },
+        {
+          "end": 28,
+          "id": "2061889454403665920",
+          "start": 17,
+          "username": "yjk_studio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087842898955932137",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087840499919110326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 @yjk_studio 什麼啦什麼啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1405,
+        "media_key": "3_2087840493380272128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl_3eubgAApXpV.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2087555243794165815",
+        "created_at": "2026-08-13T10:05:12.000Z",
+        "display_text_range": [
+          29,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087842898955932137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            },
+            {
+              "end": 28,
+              "id": "2061889454403665920",
+              "start": 17,
+              "username": "yjk_studio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087842898955932137",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087840499919110326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 @yjk_studio 什麼啦什麼啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087840493380272128"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2087555243794165815",
+        "created_at": "2026-08-13T09:55:40.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087840499919110326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 27,
+              "id": "2061889454403665920",
+              "start": 16,
+              "username": "yjk_studio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUqqOImAx4",
+              "end": 57,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2087840499919110326/photo/1",
+              "media_key": "3_2087840493380272128",
+              "start": 34,
+              "url": "https://t.co/JUqqOImAx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087840499919110326",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087840493380272128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087576844975710324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @yjk_studio 抓！扣死！ https://t.co/JUqqOImAx4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087842898955932137",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 144,
+          "like_count": 6422,
+          "listed_count": 12,
+          "media_count": 294,
+          "tweet_count": 5244
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "is_identity_verified": false,
+        "location": "上級敘事層(bushi)",
+        "most_recent_tweet_id": "2087840499919110326",
+        "name": "無量哈基米(≖ ◡ ≖)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966769306240512007/1783971078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075919887630000128/tsVsceep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 40,
+          "like_count": 2720,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "Epyq59QJZV90802",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T19:19:56.000Z",
+        "description": "溺死在病態的危險美學裡🖤\n「看著我，不要移開視線。」",
+        "id": "2061889454403665920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087585099839942985",
+        "name": "雪女❄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061889454403665920/1781535042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061891014894485504/CVvxx_oP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "yjk_studio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

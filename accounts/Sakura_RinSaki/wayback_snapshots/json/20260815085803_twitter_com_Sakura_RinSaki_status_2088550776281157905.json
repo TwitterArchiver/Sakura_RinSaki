@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088550752172355584",
+        "3_2088550760598626304",
+        "3_2088550767435350016"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2088550776281157905",
+    "created_at": "2026-08-15T08:58:03.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088550776281157905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "伊蕾娜"
+        },
+        {
+          "end": 19,
+          "start": 11,
+          "tag": "cosplay"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "重發"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eN5gMMmeQI",
+          "end": 47,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+          "media_key": "3_2088550752172355584",
+          "start": 24,
+          "url": "https://t.co/eN5gMMmeQI"
+        },
+        {
+          "display_url": "pic.x.com/eN5gMMmeQI",
+          "end": 47,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+          "media_key": "3_2088550760598626304",
+          "start": 24,
+          "url": "https://t.co/eN5gMMmeQI"
+        },
+        {
+          "display_url": "pic.x.com/eN5gMMmeQI",
+          "end": 47,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+          "media_key": "3_2088550767435350016",
+          "start": 24,
+          "url": "https://t.co/eN5gMMmeQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088550776281157905",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088550752172355584"
+      },
+      {
+        "media_key": "3_2088550760598626304"
+      },
+      {
+        "media_key": "3_2088550767435350016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "魔女喵！\n\n#伊蕾娜 #cosplay #重發 https://t.co/eN5gMMmeQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2088550752172355584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwF1-6bsAAmp6S.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2088550760598626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwF2eTaYAA3eoD.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2088550767435350016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwF23xagAAztI5.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088550752172355584",
+            "3_2088550760598626304",
+            "3_2088550767435350016"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088550776281157905",
+        "created_at": "2026-08-15T08:58:03.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088550776281157905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "伊蕾娜"
+            },
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "cosplay"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "重發"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eN5gMMmeQI",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+              "media_key": "3_2088550752172355584",
+              "start": 24,
+              "url": "https://t.co/eN5gMMmeQI"
+            },
+            {
+              "display_url": "pic.x.com/eN5gMMmeQI",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+              "media_key": "3_2088550760598626304",
+              "start": 24,
+              "url": "https://t.co/eN5gMMmeQI"
+            },
+            {
+              "display_url": "pic.x.com/eN5gMMmeQI",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2088550776281157905/photo/1",
+              "media_key": "3_2088550767435350016",
+              "start": 24,
+              "url": "https://t.co/eN5gMMmeQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088550776281157905",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088550752172355584"
+          },
+          {
+            "media_key": "3_2088550760598626304"
+          },
+          {
+            "media_key": "3_2088550767435350016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔女喵！\n\n#伊蕾娜 #cosplay #重發 https://t.co/eN5gMMmeQI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2088550776281157905",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 145,
+          "like_count": 6439,
+          "listed_count": 12,
+          "media_count": 297,
+          "tweet_count": 5259
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

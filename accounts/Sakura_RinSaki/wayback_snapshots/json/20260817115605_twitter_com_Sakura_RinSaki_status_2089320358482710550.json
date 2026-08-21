@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089206082866659328",
+        "3_2089206082854072320",
+        "3_2089206082858373120"
+      ],
+      "media_source_tweet_id": [
+        "2089206090252849614",
+        "2089206090252849614",
+        "2089206090252849614"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2089320358482710550",
+    "created_at": "2026-08-17T11:56:05.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T12:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089320358482710550"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940740272314585088",
+          "start": 3,
+          "username": "_wavetap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjsaLLJhbu",
+          "end": 62,
+          "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+          "media_key": "3_2089206082866659328",
+          "start": 39,
+          "url": "https://t.co/cjsaLLJhbu"
+        },
+        {
+          "display_url": "pic.x.com/cjsaLLJhbu",
+          "end": 62,
+          "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+          "media_key": "3_2089206082854072320",
+          "start": 39,
+          "url": "https://t.co/cjsaLLJhbu"
+        },
+        {
+          "display_url": "pic.x.com/cjsaLLJhbu",
+          "end": 62,
+          "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+          "media_key": "3_2089206082858373120",
+          "start": 39,
+          "url": "https://t.co/cjsaLLJhbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089320358482710550",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089206082866659328"
+      },
+      {
+        "media_key": "3_2089206082854072320"
+      },
+      {
+        "media_key": "3_2089206082858373120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089206090252849614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_wavetap: 我有這建模如果不是MTF真的是一種浪費\n#mtf https://t.co/cjsaLLJhbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089206082866659328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5Z3P_aQAAirMw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089206082854072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5Z3P8aMAAXNRS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089206082858373120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5Z3P9b0AAokyj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089206082866659328",
+            "3_2089206082854072320",
+            "3_2089206082858373120"
+          ],
+          "media_source_tweet_id": [
+            "2089206090252849614",
+            "2089206090252849614",
+            "2089206090252849614"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2089320358482710550",
+        "created_at": "2026-08-17T11:56:05.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089320358482710550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940740272314585088",
+              "start": 3,
+              "username": "_wavetap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 62,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082866659328",
+              "start": 39,
+              "url": "https://t.co/cjsaLLJhbu"
+            },
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 62,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082854072320",
+              "start": 39,
+              "url": "https://t.co/cjsaLLJhbu"
+            },
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 62,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082858373120",
+              "start": 39,
+              "url": "https://t.co/cjsaLLJhbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089320358482710550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089206082866659328"
+          },
+          {
+            "media_key": "3_2089206082854072320"
+          },
+          {
+            "media_key": "3_2089206082858373120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089206090252849614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_wavetap: 我有這建模如果不是MTF真的是一種浪費\n#mtf https://t.co/cjsaLLJhbu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089206082866659328",
+            "3_2089206082854072320",
+            "3_2089206082858373120"
+          ]
+        },
+        "author_id": "1940740272314585088",
+        "conversation_id": "2089206090252849614",
+        "created_at": "2026-08-17T04:22:02.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T05:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089206090252849614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 48,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082866659328",
+              "start": 25,
+              "url": "https://t.co/cjsaLLJhbu"
+            },
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 48,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082854072320",
+              "start": 25,
+              "url": "https://t.co/cjsaLLJhbu"
+            },
+            {
+              "display_url": "pic.x.com/cjsaLLJhbu",
+              "end": 48,
+              "expanded_url": "https://x.com/_wavetap/status/2089206090252849614/photo/1",
+              "media_key": "3_2089206082858373120",
+              "start": 25,
+              "url": "https://t.co/cjsaLLJhbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089206090252849614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089206082866659328"
+          },
+          {
+            "media_key": "3_2089206082854072320"
+          },
+          {
+            "media_key": "3_2089206082858373120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4095,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有這建模如果不是MTF真的是一種浪費\n#mtf https://t.co/cjsaLLJhbu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2089320358482710550",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 145,
+          "like_count": 6448,
+          "listed_count": 12,
+          "media_count": 299,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:52:06.000Z",
+        "description": "一個沒啥人在乎的MTF\n一點都不pass 也沒朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@_wavetap?xmt=…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@_wavetap?xmt=AQF0dv5rm71SwkAt-dDdTnyMFlK9EA720vdoCk2PeN50Ao",
+                "start": 0,
+                "url": "https://t.co/yhMt5AxAZR"
+              }
+            ]
+          }
+        },
+        "id": "1940740272314585088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089311603401576529",
+        "name": "十三喵🏳️‍⚧️",
+        "pinned_tweet_id": "2065616665984000102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940740272314585088/1777719411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086778918837899264/VbA4Cwv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 116,
+          "like_count": 425,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/yhMt5AxAZR",
+        "username": "_wavetap",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2086674384987832465",
+    "created_at": "2026-08-11T23:40:13.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087323231409914232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940740272314585088",
+          "start": 0,
+          "username": "_wavetap"
+        },
+        {
+          "end": 22,
+          "id": "1808555432480550913",
+          "start": 10,
+          "username": "kao20030815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087323231409914232",
+    "in_reply_to_user_id": "1940740272314585088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086827689592361062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_wavetap @kao20030815 13喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2086674384987832465",
+        "created_at": "2026-08-11T23:40:13.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087323231409914232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940740272314585088",
+              "start": 0,
+              "username": "_wavetap"
+            },
+            {
+              "end": 22,
+              "id": "1808555432480550913",
+              "start": 10,
+              "username": "kao20030815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087323231409914232",
+        "in_reply_to_user_id": "1940740272314585088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086827689592361062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_wavetap @kao20030815 13喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940740272314585088",
+        "conversation_id": "2086674384987832465",
+        "created_at": "2026-08-10T14:51:07.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086827689592361062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808555432480550913",
+              "start": 0,
+              "username": "kao20030815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086827689592361062",
+        "in_reply_to_user_id": "1808555432480550913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086674384987832465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kao20030815 我居然沒追蹤幽\n咱放棄脆了跑來這"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2087323231409914232",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 143,
+          "like_count": 6421,
+          "listed_count": 12,
+          "media_count": 294,
+          "tweet_count": 5233
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:52:06.000Z",
+        "description": "一個沒啥人在乎的MTF\n一點都不pass 也沒朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@_wavetap?xmt=…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@_wavetap?xmt=AQF0dv5rm71SwkAt-dDdTnyMFlK9EA720vdoCk2PeN50Ao",
+                "start": 0,
+                "url": "https://t.co/yhMt5AxAZR"
+              }
+            ]
+          }
+        },
+        "id": "1940740272314585088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087210258615955816",
+        "name": "十三喵🏳️‍⚧️",
+        "pinned_tweet_id": "2065616665984000102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940740272314585088/1777719411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086778918837899264/VbA4Cwv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 114,
+          "like_count": 408,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/yhMt5AxAZR",
+        "username": "_wavetap",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T17:37:09.000Z",
+        "description": "可愛的生物！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furuke.com/kao030815",
+                "end": 23,
+                "expanded_url": "https://www.furuke.com/kao030815",
+                "start": 0,
+                "url": "https://t.co/x4f6285KHA"
+              }
+            ]
+          }
+        },
+        "id": "1808555432480550913",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2086743927894458371",
+        "name": "幽子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808555432480550913/1785169094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062190580235649024/6OLd0_Yo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6666,
+          "following_count": 123,
+          "like_count": 804,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/x4f6285KHA",
+        "username": "kao20030815",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
