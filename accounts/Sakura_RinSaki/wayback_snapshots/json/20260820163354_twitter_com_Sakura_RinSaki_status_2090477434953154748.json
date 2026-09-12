@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2090224752644534535",
+    "created_at": "2026-08-20T16:33:54.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090477434953154748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090477434953154748",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090224752644534535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2811,
+        "media_key": "3_2090224735661780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH4UpXa8AAfaV6.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2530,
+        "media_key": "3_2090224745904291840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH4VPhbQAAt84M.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2090224752644534535",
+        "created_at": "2026-08-20T16:33:54.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090477434953154748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090477434953154748",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090224752644534535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090224735661780992",
+            "3_2090224745904291840"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe abaixo os principais Tweets sobre o programa:",
+              "id": "10028564156",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297135971913728",
+              "name": "Competition shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283479403482112000",
+              "name": "Other competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          }
+        ],
+        "conversation_id": "2090224752644534535",
+        "created_at": "2026-08-19T23:49:50.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090224752644534535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRF4dvbiVu",
+              "end": 138,
+              "expanded_url": "https://x.com/seaskyfor/status/2090224752644534535/photo/1",
+              "media_key": "3_2090224735661780992",
+              "start": 115,
+              "url": "https://t.co/tRF4dvbiVu"
+            },
+            {
+              "display_url": "pic.x.com/tRF4dvbiVu",
+              "end": 138,
+              "expanded_url": "https://x.com/seaskyfor/status/2090224752644534535/photo/1",
+              "media_key": "3_2090224745904291840",
+              "start": 115,
+              "url": "https://t.co/tRF4dvbiVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090224752644534535",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090224735661780992"
+          },
+          {
+            "media_key": "3_2090224745904291840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1547,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "封号申诉的结果出来了  和所有人一样，一模一样的模板回复  于是我去美国商业协会BBB进行了投诉 预计1~2周给出回复 \n\nsmk 要再不把号还我我就喝盐了 我说到做到  店大欺客玩的挺溜  不缺我一个用户对吧我自己走 不用你催 https://t.co/tRF4dvbiVu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2090477434953154748",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 145,
+          "like_count": 6451,
+          "listed_count": 12,
+          "media_count": 301,
+          "tweet_count": 5288
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "原号又被封禁了 /永远的南京城 /永远的illusion /许你岁岁平安/ 不像男生不是女生/ 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2090419840263790806",
+        "name": "ill",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 77,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

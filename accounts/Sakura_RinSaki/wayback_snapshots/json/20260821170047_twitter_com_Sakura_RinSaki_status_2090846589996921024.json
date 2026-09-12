@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2090683245583073640",
+    "created_at": "2026-08-21T17:00:47.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090846589996921024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090846589996921024",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090683245583073640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 羨慕家庭..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2090683238704726016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOZVCTbwAAUGRu.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2090683245583073640",
+        "created_at": "2026-08-21T17:00:47.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090846589996921024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090846589996921024",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090683245583073640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 羨慕家庭..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090683238704726016"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2090683245583073640",
+        "created_at": "2026-08-21T06:11:43.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090683245583073640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBfFMbeZHN",
+              "end": 87,
+              "expanded_url": "https://x.com/sushiching_2006/status/2090683245583073640/photo/1",
+              "media_key": "3_2090683238704726016",
+              "start": 64,
+              "url": "https://t.co/eBfFMbeZHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090683245583073640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090683238704726016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2705,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上回我爸應酬喝多了，回來迷迷糊糊認成我媽了😭\n\n反正很體諒他的付出就是了\n那天我明白為什麼我媽為什麼那麼幸福了，羨慕他的每一天 https://t.co/eBfFMbeZHN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2090846589996921024",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 145,
+          "like_count": 6451,
+          "listed_count": 12,
+          "media_count": 301,
+          "tweet_count": 5297
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常休學生，「多次刪除貼文」\n喜歡耳機，會搞建模+3d列印\n修手機 作死，還有對電子的東西有點興趣\n🤍主人:@Tsukishiro_yaku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "Tsukishiro_yaku"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "is_identity_verified": false,
+        "location": "台中/南投夜久家",
+        "most_recent_tweet_id": "2090794183007330343",
+        "name": "壽司小晴",
+        "pinned_tweet_id": "2089334274902081546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430312926737354753/1778338601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087896202671190016/5P0cGUBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12340,
+          "following_count": 51,
+          "like_count": 20058,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "sushiching_2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2093801267806286173",
+    "created_at": "2026-08-29T20:56:14.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T21:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093804942742155666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642977556147355648",
+          "start": 0,
+          "username": "haori901123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093804942742155666",
+    "in_reply_to_user_id": "1642977556147355648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093801267806286173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haori901123 襪子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2553,
+        "media_key": "3_2093801257689620480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6tJoLbIAAmR2l.jpg",
+        "width": 1886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2093801267806286173",
+        "created_at": "2026-08-29T20:56:14.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T21:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093804942742155666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642977556147355648",
+              "start": 0,
+              "username": "haori901123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093804942742155666",
+        "in_reply_to_user_id": "1642977556147355648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093801267806286173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haori901123 襪子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093801257689620480"
+          ]
+        },
+        "author_id": "1642977556147355648",
+        "conversation_id": "2093801267806286173",
+        "created_at": "2026-08-29T20:41:37.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T21:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093801267806286173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVW6DjssLv",
+              "end": 26,
+              "expanded_url": "https://x.com/haori901123/status/2093801267806286173/photo/1",
+              "media_key": "3_2093801257689620480",
+              "start": 3,
+              "url": "https://t.co/UVW6DjssLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093801267806286173",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093801257689620480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "襪子 https://t.co/UVW6DjssLv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2093804942742155666",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 147,
+          "like_count": 6547,
+          "listed_count": 12,
+          "media_count": 305,
+          "tweet_count": 5358
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-03T19:49:17.000Z",
+        "description": "男生 喜歡展現自我 凸 不約 若要追隨請注意 不定時更新 男の子、TOP、フォローしたい場合は、注意して時々更新してください",
+        "id": "1642977556147355648",
+        "is_identity_verified": false,
+        "location": "距離你的位置300m",
+        "most_recent_tweet_id": "2093803357706260624",
+        "name": "羽織",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642977556147355648/1771523590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642977700255272960/sePA7REs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 162,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "haori901123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

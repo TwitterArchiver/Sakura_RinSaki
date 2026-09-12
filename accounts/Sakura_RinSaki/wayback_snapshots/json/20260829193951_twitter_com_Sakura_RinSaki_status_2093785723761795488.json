@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093785718955073536"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2093782349611946408",
+    "created_at": "2026-08-29T19:39:51.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093785723761795488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083649484962361345",
+          "start": 0,
+          "username": "y30105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QxPDTI0yF",
+          "end": 40,
+          "expanded_url": "https://x.com/Sakura_RinSaki/status/2093785723761795488/photo/1",
+          "media_key": "3_2093785718955073536",
+          "start": 17,
+          "url": "https://t.co/6QxPDTI0yF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093785723761795488",
+    "in_reply_to_user_id": "2083649484962361345",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093785718955073536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093782349611946408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y30105 重鬱症的關係呢… https://t.co/6QxPDTI0yF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2093785718955073536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6fBJ4aYAAJCCX.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093785718955073536"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2093782349611946408",
+        "created_at": "2026-08-29T19:39:51.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093785723761795488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083649484962361345",
+              "start": 0,
+              "username": "y30105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QxPDTI0yF",
+              "end": 40,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2093785723761795488/photo/1",
+              "media_key": "3_2093785718955073536",
+              "start": 17,
+              "url": "https://t.co/6QxPDTI0yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093785723761795488",
+        "in_reply_to_user_id": "2083649484962361345",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093785718955073536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093782349611946408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y30105 重鬱症的關係呢… https://t.co/6QxPDTI0yF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083649484962361345",
+        "conversation_id": "2093782349611946408",
+        "created_at": "2026-08-29T19:26:27.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093782349611946408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2093780720431010014",
+              "start": 26,
+              "url": "https://t.co/q129VvNVeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093782349611946408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093780720431010014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實吧~找個正常工作沒很困難，幹嘛一定堅持做外送🤔 https://t.co/q129VvNVeS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2093785723761795488",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 147,
+          "like_count": 6543,
+          "listed_count": 12,
+          "media_count": 306,
+          "tweet_count": 5356
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T20:23:35.000Z",
+        "description": "你看什么看！我才不可爱！\n\n導演頻道👉🏻@wanliyan3\n\n@qian67068 你個病嬌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2083649484962361345",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2093782349611946408",
+        "name": "拿鐵組長🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083649484962361345/1787922957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093328072284180480/7nSNWOuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "y30105",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

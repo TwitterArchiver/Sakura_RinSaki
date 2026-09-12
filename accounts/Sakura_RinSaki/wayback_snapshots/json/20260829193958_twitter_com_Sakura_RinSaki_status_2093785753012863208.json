@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2093777106530652530",
+    "created_at": "2026-08-29T19:39:58.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093785753012863208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083649484962361345",
+          "start": 0,
+          "username": "y30105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093785753012863208",
+    "in_reply_to_user_id": "2083649484962361345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093780386820300998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y30105 走開"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2093777106530652530",
+        "created_at": "2026-08-29T19:39:58.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093785753012863208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083649484962361345",
+              "start": 0,
+              "username": "y30105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093785753012863208",
+        "in_reply_to_user_id": "2083649484962361345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093780386820300998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y30105 走開"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083649484962361345",
+        "conversation_id": "2093777106530652530",
+        "created_at": "2026-08-29T19:18:39.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093780386820300998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093780386820300998",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093777106530652530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 不睡嗎？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2093785753012863208",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 147,
+          "like_count": 6543,
+          "listed_count": 12,
+          "media_count": 306,
+          "tweet_count": 5357
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T20:23:35.000Z",
+        "description": "你看什么看！我才不可爱！\n\n導演頻道👉🏻@wanliyan3\n\n@qian67068 你個病嬌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2083649484962361345",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2093782349611946408",
+        "name": "拿鐵組長🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083649484962361345/1787922957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093328072284180480/7nSNWOuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "y30105",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

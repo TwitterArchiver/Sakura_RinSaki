@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2095633319480508617",
+    "created_at": "2026-09-03T22:01:33.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T23:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095633319480508617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haori901123/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/haori901123/status/2095150939275702397",
+          "start": 17,
+          "url": "https://t.co/CGlLka4iK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095633319480508617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095150939275702397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱的願望是在推特上發廢話有人理咱 https://t.co/CGlLka4iK9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2095633319480508617",
+        "created_at": "2026-09-03T22:01:33.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095633319480508617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haori901123/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/haori901123/status/2095150939275702397",
+              "start": 17,
+              "url": "https://t.co/CGlLka4iK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095633319480508617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095150939275702397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱的願望是在推特上發廢話有人理咱 https://t.co/CGlLka4iK9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642977556147355648",
+        "conversation_id": "2095150939275702397",
+        "created_at": "2026-09-02T14:04:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095150939275702397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asaltfishes/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/asaltfishes/status/2095008509951930842",
+              "start": 17,
+              "url": "https://t.co/YhRDxONfkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095150939275702397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 538,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095008509951930842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的願望是在推特上發廢話有人理我 https://t.co/YhRDxONfkd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2095633319480508617",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 147,
+          "like_count": 6557,
+          "listed_count": 12,
+          "media_count": 306,
+          "tweet_count": 5374
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-03T19:49:17.000Z",
+        "description": "男生 喜歡展現自我 凸 不約 若要追隨請注意 不定時更新 男の子、TOP、フォローしたい場合は、注意して時々更新してください\nQQ: 1282513842",
+        "id": "1642977556147355648",
+        "is_identity_verified": false,
+        "location": "距離你的位置300m",
+        "most_recent_tweet_id": "2095557784737837510",
+        "name": "羽織",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642977556147355648/1771523590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642977700255272960/sePA7REs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 176,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "haori901123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

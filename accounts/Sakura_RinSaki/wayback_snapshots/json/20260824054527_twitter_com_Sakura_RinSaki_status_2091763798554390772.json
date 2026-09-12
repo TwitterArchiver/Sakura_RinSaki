@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2091450141433897429",
+    "created_at": "2026-08-24T05:45:27.000Z",
+    "display_text_range": [
+      21,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T06:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091763798554390772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254708490267799553",
+          "start": 0,
+          "username": "tangyity"
+        },
+        {
+          "end": 20,
+          "id": "802450977135525888",
+          "start": 10,
+          "username": "2Jshizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091763798554390772",
+    "in_reply_to_user_id": "1254708490267799553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091450141433897429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangyity @2Jshizuku 大小鹽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2091450121154441217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZSzeDbsAExBse.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2091450132583895040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZS0IobUAAP9_C.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2091450141433897429",
+        "created_at": "2026-08-24T05:45:27.000Z",
+        "display_text_range": [
+          21,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091763798554390772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254708490267799553",
+              "start": 0,
+              "username": "tangyity"
+            },
+            {
+              "end": 20,
+              "id": "802450977135525888",
+              "start": 10,
+              "username": "2Jshizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091763798554390772",
+        "in_reply_to_user_id": "1254708490267799553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091450141433897429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangyity @2Jshizuku 大小鹽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091450121154441217",
+            "3_2091450132583895040"
+          ]
+        },
+        "author_id": "1254708490267799553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091450141433897429",
+        "created_at": "2026-08-23T08:59:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091450141433897429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPByp9IvZG",
+              "end": 29,
+              "expanded_url": "https://x.com/tangyity/status/2091450141433897429/photo/1",
+              "media_key": "3_2091450121154441217",
+              "start": 6,
+              "url": "https://t.co/lPByp9IvZG"
+            },
+            {
+              "display_url": "pic.x.com/lPByp9IvZG",
+              "end": 29,
+              "expanded_url": "https://x.com/tangyity/status/2091450141433897429/photo/1",
+              "media_key": "3_2091450132583895040",
+              "start": 6,
+              "url": "https://t.co/lPByp9IvZG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0071f14054b91099"
+        },
+        "id": "2091450141433897429",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091450121154441217"
+          },
+          {
+            "media_key": "3_2091450132583895040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "約會吃冰！ https://t.co/lPByp9IvZG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2091763798554390772",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 146,
+          "like_count": 6511,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T09:46:42.000Z",
+        "description": "台灣的mtf osu std/taiko/catch/maina player\n\nhttps://t.co/wjQ3ayIsXA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/21520031",
+                "end": 64,
+                "expanded_url": "https://osu.ppy.sh/users/21520031",
+                "start": 41,
+                "url": "https://t.co/wjQ3ayIsXA"
+              }
+            ]
+          }
+        },
+        "id": "1254708490267799553",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091459242687430964",
+        "name": "糖伊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254708490267799553/1648896677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865720533146648576/qcx-jNsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 181,
+          "like_count": 2509,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "tangyity",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-26T09:56:36.000Z",
+        "description": "ただのダメ人間です",
+        "id": "802450977135525888",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2091687850484064657",
+        "name": "2J綾崎雫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/802450977135525888/1731495719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866145448701958/LPkEdiLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1168,
+          "like_count": 27191,
+          "listed_count": 3,
+          "media_count": 1283,
+          "tweet_count": 11047
+        },
+        "url": "",
+        "username": "2Jshizuku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

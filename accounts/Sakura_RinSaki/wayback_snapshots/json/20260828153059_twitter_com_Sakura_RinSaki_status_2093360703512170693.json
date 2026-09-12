@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2093348713389490231",
+    "created_at": "2026-08-28T15:30:59.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093360703512170693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464383327595479040",
+          "start": 0,
+          "username": "QB07012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093360703512170693",
+    "in_reply_to_user_id": "1464383327595479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093355569000395147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QB07012 幫忙轉發喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2093348713389490231",
+        "created_at": "2026-08-28T15:30:59.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093360703512170693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464383327595479040",
+              "start": 0,
+              "username": "QB07012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093360703512170693",
+        "in_reply_to_user_id": "1464383327595479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093355569000395147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QB07012 幫忙轉發喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464383327595479040",
+        "conversation_id": "2093348713389490231",
+        "created_at": "2026-08-28T15:10:34.000Z",
+        "display_text_range": [
+          16,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093355569000395147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093355569000395147",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093354836511326648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 嗯~應該說我擔心的不是流量\n而是不知道要發什麼w\n之前用推特都在看我推的V而已\n所以不太清楚要發什麼文"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2093360703512170693",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 147,
+          "like_count": 6525,
+          "listed_count": 12,
+          "media_count": 304,
+          "tweet_count": 5331
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T23:59:49.000Z",
+        "description": "最喜歡我的寶貝了🩵",
+        "id": "1464383327595479040",
+        "is_identity_verified": false,
+        "location": "Tainan City, Taiwan",
+        "most_recent_tweet_id": "2093355569000395147",
+        "name": "QB（不是那個QB）🌐",
+        "pinned_tweet_id": "1518754518896607233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464383327595479040/1655108455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795424784823853056/NxDzpU91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 1142,
+          "like_count": 16086,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 6798
+        },
+        "url": "",
+        "username": "QB07012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

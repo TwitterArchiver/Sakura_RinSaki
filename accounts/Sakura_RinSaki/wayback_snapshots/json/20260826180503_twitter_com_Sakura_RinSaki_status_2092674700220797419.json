@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2092606412832813269",
+    "created_at": "2026-08-26T18:05:03.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092674700220797419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068862080502124544",
+          "start": 0,
+          "username": "Haruko_1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092674700220797419",
+    "in_reply_to_user_id": "2068862080502124544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092606412832813269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruko_1115 雜魚姐姐w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092606404305797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpucAdawAAQ5Kq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2092606412832813269",
+        "created_at": "2026-08-26T18:05:03.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092674700220797419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068862080502124544",
+              "start": 0,
+              "username": "Haruko_1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092674700220797419",
+        "in_reply_to_user_id": "2068862080502124544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092606412832813269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruko_1115 雜魚姐姐w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092606404305797120"
+          ]
+        },
+        "author_id": "2068862080502124544",
+        "conversation_id": "2092606412832813269",
+        "created_at": "2026-08-26T13:33:42.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092606412832813269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "可愛い"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "魅魔"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "succubus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hRbENps8P",
+              "end": 61,
+              "expanded_url": "https://x.com/Haruko_1115/status/2092606412832813269/photo/1",
+              "media_key": "3_2092606404305797120",
+              "start": 38,
+              "url": "https://t.co/0hRbENps8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092606412832813269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092606404305797120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某天醒來～\n欸！！！\n變成魅魔了🥵\n\n#可愛い #魅魔 #succubus https://t.co/0hRbENps8P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2092674700220797419",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 145,
+          "like_count": 6527,
+          "listed_count": 12,
+          "media_count": 304,
+          "tweet_count": 5326
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T01:02:56.000Z",
+        "description": "",
+        "id": "2068862080502124544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092606412832813269",
+        "name": "晴醬はるちゃん",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068862422761521152/JhS0geiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Haruko_1115",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

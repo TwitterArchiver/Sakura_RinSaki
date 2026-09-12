@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2091424449379918037",
+    "created_at": "2026-08-24T20:30:41.000Z",
+    "display_text_range": [
+      44,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T21:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091986576784208280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745839621387513856",
+          "start": 0,
+          "username": "rin_silwolf_nya"
+        },
+        {
+          "end": 33,
+          "id": "1766017509860458496",
+          "start": 17,
+          "username": "not_megumin_fan"
+        },
+        {
+          "end": 43,
+          "id": "1988945919451230210",
+          "start": 34,
+          "username": "hypo2424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091986576784208280",
+    "in_reply_to_user_id": "1745839621387513856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091424449379918037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin_silwolf_nya @not_megumin_fan @hypo2424 羨慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2091424443273003008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQY7c0fbQAAo8ym.jpg",
+        "width": 2166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2091424449379918037",
+        "created_at": "2026-08-24T20:30:41.000Z",
+        "display_text_range": [
+          44,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091986576784208280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745839621387513856",
+              "start": 0,
+              "username": "rin_silwolf_nya"
+            },
+            {
+              "end": 33,
+              "id": "1766017509860458496",
+              "start": 17,
+              "username": "not_megumin_fan"
+            },
+            {
+              "end": 43,
+              "id": "1988945919451230210",
+              "start": 34,
+              "username": "hypo2424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091986576784208280",
+        "in_reply_to_user_id": "1745839621387513856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091424449379918037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin_silwolf_nya @not_megumin_fan @hypo2424 羨慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091424443273003008"
+          ]
+        },
+        "author_id": "1745839621387513856",
+        "conversation_id": "2091424449379918037",
+        "created_at": "2026-08-23T07:17:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091424449379918037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRytrpn7SL",
+              "end": 51,
+              "expanded_url": "https://x.com/rin_silwolf_nya/status/2091424449379918037/photo/1",
+              "media_key": "3_2091424443273003008",
+              "start": 28,
+              "url": "https://t.co/TRytrpn7SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091424449379918037",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091424443273003008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2096,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟穗穗去FF灑錢  認親很好\n總該證明我們是兩個人了吧 https://t.co/TRytrpn7SL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2091986576784208280",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 145,
+          "like_count": 6517,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 5317
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-12T16:06:34.000Z",
+        "description": "銀狼最可愛偉大了~ 主要拍腿腿和腳腳 :3\n不約不線下沒QQ  委託可私訊\nhttps://t.co/aAWb4VNUJ2 拜託追蹤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@rin_sw_nya",
+                "end": 61,
+                "expanded_url": "http://www.threads.com/@rin_sw_nya",
+                "start": 38,
+                "url": "https://t.co/aAWb4VNUJ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/rin_silwolf_nya",
+                "end": 23,
+                "expanded_url": "https://patreon.com/rin_silwolf_nya",
+                "start": 0,
+                "url": "https://t.co/bqn6vIZa0e"
+              }
+            ]
+          }
+        },
+        "id": "1745839621387513856",
+        "is_identity_verified": false,
+        "location": "朋克洛德",
+        "most_recent_tweet_id": "2091797667512983578",
+        "name": "喜歡銀狼的潾喵~",
+        "pinned_tweet_id": "2076593702122967269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745839621387513856/1782911373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053809823347843073/KCijQzip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 176,
+          "like_count": 1932,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/bqn6vIZa0e",
+        "username": "rin_silwolf_nya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-08T08:26:48.000Z",
+        "description": "惠惠我婆\n主力應該是拍腿(？\n⚠️分享圖片請附上來源，勿擅自去除水印\nReposting is permitted as long as the source is included",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/not_megumin_fan",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/not_megumin_fan",
+                "start": 0,
+                "url": "https://t.co/jxLykyFElo"
+              }
+            ]
+          }
+        },
+        "id": "1766017509860458496",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091910947376189754",
+        "name": "穗穗不是惠惠廚",
+        "pinned_tweet_id": "1885342007251685720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766017509860458496/1743144373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894048630912544769/B764dJkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6495,
+          "following_count": 254,
+          "like_count": 27094,
+          "listed_count": 6,
+          "media_count": 465,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/jxLykyFElo",
+        "username": "not_megumin_fan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-13T12:24:13.000Z",
+        "description": "新的嘗試，本來都在threads上面，來推特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@hypo2425ouo",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@hypo2425ouo",
+                "start": 0,
+                "url": "https://t.co/ImNsw0gKx8"
+              }
+            ]
+          }
+        },
+        "id": "1988945919451230210",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090121582136250797",
+        "name": "hypo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988945919451230210/1768028438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988946627160403968/2AFRgGw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 4,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/ImNsw0gKx8",
+        "username": "hypo2424",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2092605512726745585",
+    "created_at": "2026-08-26T15:40:20.000Z",
+    "display_text_range": [
+      26,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092638284044497198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948797747089604613",
+          "start": 0,
+          "username": "BloodCatOvO"
+        },
+        {
+          "end": 25,
+          "id": "1531541148699086849",
+          "start": 13,
+          "username": "Richard_W05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092638284044497198",
+    "in_reply_to_user_id": "1948797747089604613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092608828064039044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodCatOvO @Richard_W05 邪惡食物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2092605512726745585",
+        "created_at": "2026-08-26T15:40:20.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092638284044497198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948797747089604613",
+              "start": 0,
+              "username": "BloodCatOvO"
+            },
+            {
+              "end": 25,
+              "id": "1531541148699086849",
+              "start": 13,
+              "username": "Richard_W05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092638284044497198",
+        "in_reply_to_user_id": "1948797747089604613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092608828064039044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodCatOvO @Richard_W05 邪惡食物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948797747089604613",
+        "conversation_id": "2092605512726745585",
+        "created_at": "2026-08-26T13:43:18.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092608828064039044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531541148699086849",
+              "start": 0,
+              "username": "Richard_W05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092608828064039044",
+        "in_reply_to_user_id": "1531541148699086849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092605512726745585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Richard_W05 絕對不會買的奇怪東西喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2092638284044497198",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 146,
+          "like_count": 6525,
+          "listed_count": 12,
+          "media_count": 304,
+          "tweet_count": 5325
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "is_identity_verified": false,
+        "location": "台北市, 台灣",
+        "most_recent_tweet_id": "2092608828064039044",
+        "name": "血貓🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948797747089604613/1753464930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1078,
+          "like_count": 11238,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "BloodCatOvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-31T07:40:47.000Z",
+        "description": "嗨~ 我是Richard_W,喜歡PC和VR硬體,因緣際會下開啟了VR維修的技能,有維修諮詢可以詢問我喔~ 最近喜歡在VRC上唱歌,遇到我的話可以打個招呼,如果可以誇誇我的話我會很開心~❤️ \nLittle Secret🔞 : https://t.co/IYDiIwE4CO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/R_M8305",
+                "end": 137,
+                "expanded_url": "https://x.com/R_M8305",
+                "start": 114,
+                "url": "https://t.co/IYDiIwE4CO"
+              }
+            ]
+          }
+        },
+        "id": "1531541148699086849",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2092605512726745585",
+        "name": "Richard_W",
+        "pinned_tweet_id": "1918735031230476290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531541148699086849/1778928051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902320160834482176/1b5Q0iOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 616,
+          "like_count": 19723,
+          "listed_count": 7,
+          "media_count": 3094,
+          "tweet_count": 9621
+        },
+        "url": "",
+        "username": "Richard_W05",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
