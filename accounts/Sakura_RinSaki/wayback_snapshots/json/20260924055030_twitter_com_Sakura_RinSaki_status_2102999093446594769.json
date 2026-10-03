@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102447256704278528"
+      ],
+      "media_source_tweet_id": [
+        "2102447265734602904"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "conversation_id": "2102999093446594769",
+    "created_at": "2026-09-24T05:50:30.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T06:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102999093446594769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014691591160791040",
+          "start": 3,
+          "username": "potenannan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ps0j4Z1S4Y",
+          "end": 51,
+          "expanded_url": "https://x.com/potenannan/status/2102447265734602904/photo/1",
+          "media_key": "3_2102447256704278528",
+          "start": 28,
+          "url": "https://t.co/ps0j4Z1S4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102999093446594769",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102447256704278528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102447265734602904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @potenannan: もっとあまい 🎀🎨 💕 https://t.co/ps0j4Z1S4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2102447256704278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1kpAbaYAAD-RA.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102447256704278528"
+          ],
+          "media_source_tweet_id": [
+            "2102447265734602904"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2102999093446594769",
+        "created_at": "2026-09-24T05:50:30.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102999093446594769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014691591160791040",
+              "start": 3,
+              "username": "potenannan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ps0j4Z1S4Y",
+              "end": 51,
+              "expanded_url": "https://x.com/potenannan/status/2102447265734602904/photo/1",
+              "media_key": "3_2102447256704278528",
+              "start": 28,
+              "url": "https://t.co/ps0j4Z1S4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102999093446594769",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102447256704278528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102447265734602904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @potenannan: もっとあまい 🎀🎨 💕 https://t.co/ps0j4Z1S4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102447256704278528"
+          ]
+        },
+        "author_id": "2014691591160791040",
+        "conversation_id": "2102447265734602904",
+        "created_at": "2026-09-22T17:17:44.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102447265734602904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ps0j4Z1S4Y",
+              "end": 35,
+              "expanded_url": "https://x.com/potenannan/status/2102447265734602904/photo/1",
+              "media_key": "3_2102447256704278528",
+              "start": 12,
+              "url": "https://t.co/ps0j4Z1S4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102447265734602904",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102447256704278528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 728,
+          "impression_count": 41817,
+          "like_count": 6344,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 497
+        },
+        "reply_settings": "everyone",
+        "text": "もっとあまい 🎀🎨 💕 https://t.co/ps0j4Z1S4Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2102999093446594769",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 145,
+          "like_count": 6820,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5452
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T13:28:20.000Z",
+        "description": "20↑ 🎀🎨、🌟（🎪箱推）、🐧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/11576925/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/11576925/",
+                "start": 0,
+                "url": "https://t.co/cIpVxFYbsP"
+              }
+            ]
+          }
+        },
+        "id": "2014691591160791040",
+        "is_identity_verified": false,
+        "location": "🎀🎨中心",
+        "most_recent_tweet_id": "2102807465813475774",
+        "name": "る💭",
+        "pinned_tweet_id": "2098828847944995218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014691591160791040/1787422587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102022704887140352/k-yauyb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 22,
+          "like_count": 3433,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/cIpVxFYbsP",
+        "username": "potenannan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

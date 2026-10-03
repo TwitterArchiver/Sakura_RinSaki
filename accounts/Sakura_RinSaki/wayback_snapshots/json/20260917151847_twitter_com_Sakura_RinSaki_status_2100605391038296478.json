@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2100576464433541382",
+    "created_at": "2026-09-17T15:18:47.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100605391038296478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940740272314585088",
+          "start": 0,
+          "username": "_wavetap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100605391038296478",
+    "in_reply_to_user_id": "1940740272314585088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100576464433541382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_wavetap 摸摸..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2100576464433541382",
+        "created_at": "2026-09-17T15:18:47.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100605391038296478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940740272314585088",
+              "start": 0,
+              "username": "_wavetap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100605391038296478",
+        "in_reply_to_user_id": "1940740272314585088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100576464433541382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_wavetap 摸摸..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940740272314585088",
+        "conversation_id": "2100576464433541382",
+        "created_at": "2026-09-17T13:23:50.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100576464433541382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100576464433541382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羨慕生理女  我想死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2100605391038296478",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 144,
+          "like_count": 6709,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5412
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:52:06.000Z",
+        "description": "一個沒啥人在乎的MTF\n一點都不pass 也沒朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@_wavetap?xmt=…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@_wavetap?xmt=AQF0dv5rm71SwkAt-dDdTnyMFlK9EA720vdoCk2PeN50Ao",
+                "start": 0,
+                "url": "https://t.co/yhMt5AxAZR"
+              }
+            ]
+          }
+        },
+        "id": "1940740272314585088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100576464433541382",
+        "name": "十三喵🏳️‍⚧️",
+        "pinned_tweet_id": "2089206090252849614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940740272314585088/1777719411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092594182741508096/kU4YzBJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 137,
+          "like_count": 521,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/yhMt5AxAZR",
+        "username": "_wavetap",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

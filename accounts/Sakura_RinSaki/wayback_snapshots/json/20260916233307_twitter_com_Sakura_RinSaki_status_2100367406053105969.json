@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2100367406053105969",
+    "created_at": "2026-09-16T23:33:07.000Z",
+    "display_text_range": [
+      0,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T00:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100367406053105969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100367406053105969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 196,
+            "start": 191,
+            "tag": "複製文喵"
+          }
+        ]
+      },
+      "text": "聽說朋友在玩VRChat ←目前在這裡\n↓\n進入 VRChat  \n↓  \n覺得自己不會喜歡男孩子\n↓ \n找到朋友圈並把大家都當成好兄弟\n↓ \n漸漸地習慣男孩子用著女孩子的外表\n↓ \n感覺可愛的男孩子好像也挺不錯的\n↓ \n男女性別界線越來越模糊\n↓ \n遇見了可愛的男孩子並抱有好感\n↓ \n變得越來越在意對方、想待在一起\n↓ \n向可愛的男孩子表白 ←你們在這裡\n↓ \n淪陷 VRC\n\n#複製文喵"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聽說朋友在玩VRChat ←目前在這裡\n↓\n進入 VRChat  \n↓  \n覺得自己不會喜歡男孩子\n↓ \n找到朋友圈並把大家都當成好兄弟\n↓ \n漸漸地習慣男孩子用著女孩子的外表\n↓ \n感覺可愛的男孩子好像也挺不錯的\n↓ \n男女性別界線越來越模糊\n↓ \n遇見了可愛的男孩子並抱有好感\n↓ \n變得越來越在意對方、想待在一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2100367406053105969",
+        "created_at": "2026-09-16T23:33:07.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100367406053105969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100367406053105969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 196,
+                "start": 191,
+                "tag": "複製文喵"
+              }
+            ]
+          },
+          "text": "聽說朋友在玩VRChat ←目前在這裡\n↓\n進入 VRChat  \n↓  \n覺得自己不會喜歡男孩子\n↓ \n找到朋友圈並把大家都當成好兄弟\n↓ \n漸漸地習慣男孩子用著女孩子的外表\n↓ \n感覺可愛的男孩子好像也挺不錯的\n↓ \n男女性別界線越來越模糊\n↓ \n遇見了可愛的男孩子並抱有好感\n↓ \n變得越來越在意對方、想待在一起\n↓ \n向可愛的男孩子表白 ←你們在這裡\n↓ \n淪陷 VRC\n\n#複製文喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聽說朋友在玩VRChat ←目前在這裡\n↓\n進入 VRChat  \n↓  \n覺得自己不會喜歡男孩子\n↓ \n找到朋友圈並把大家都當成好兄弟\n↓ \n漸漸地習慣男孩子用著女孩子的外表\n↓ \n感覺可愛的男孩子好像也挺不錯的\n↓ \n男女性別界線越來越模糊\n↓ \n遇見了可愛的男孩子並抱有好感\n↓ \n變得越來越在意對方、想待在一起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2100367406053105969",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 144,
+          "like_count": 6614,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5403
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

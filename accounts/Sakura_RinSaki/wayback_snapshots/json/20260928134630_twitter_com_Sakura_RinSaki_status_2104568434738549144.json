@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2104529866091839585",
+    "created_at": "2026-09-28T13:46:30.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104568434738549144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940740272314585088",
+          "start": 0,
+          "username": "_wavetap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104568434738549144",
+    "in_reply_to_user_id": "1940740272314585088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104529866091839585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_wavetap 姆喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2104529269464735744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTKOGXboAABlpc.jpg",
+        "width": 757
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104529707924623362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTKnnwakAID6FT.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2104529866091839585",
+        "created_at": "2026-09-28T13:46:30.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104568434738549144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940740272314585088",
+              "start": 0,
+              "username": "_wavetap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104568434738549144",
+        "in_reply_to_user_id": "1940740272314585088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104529866091839585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_wavetap 姆喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104529269464735744",
+            "3_2104529707924623362"
+          ]
+        },
+        "author_id": "1940740272314585088",
+        "conversation_id": "2104529866091839585",
+        "created_at": "2026-09-28T11:13:15.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104529866091839585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5ftSBfdKC",
+              "end": 60,
+              "expanded_url": "https://x.com/_wavetap/status/2104529866091839585/photo/1",
+              "media_key": "3_2104529269464735744",
+              "start": 37,
+              "url": "https://t.co/E5ftSBfdKC"
+            },
+            {
+              "display_url": "pic.x.com/E5ftSBfdKC",
+              "end": 60,
+              "expanded_url": "https://x.com/_wavetap/status/2104529866091839585/photo/1",
+              "media_key": "3_2104529707924623362",
+              "start": 37,
+              "url": "https://t.co/E5ftSBfdKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104529866091839585",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104529269464735744"
+          },
+          {
+            "media_key": "3_2104529707924623362"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1251,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf\n9/28 這段關係結束了\n我很難過\n明明快200天了\n都沒了。 https://t.co/E5ftSBfdKC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2104568434738549144",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 145,
+          "like_count": 6830,
+          "listed_count": 11,
+          "media_count": 308,
+          "tweet_count": 5469
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:52:06.000Z",
+        "description": "一個沒啥人在乎的MTF\n一點都不pass 也沒朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@_wavetap?xmt=…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@_wavetap?xmt=AQF0dv5rm71SwkAt-dDdTnyMFlK9EA720vdoCk2PeN50Ao",
+                "start": 0,
+                "url": "https://t.co/yhMt5AxAZR"
+              }
+            ]
+          }
+        },
+        "id": "1940740272314585088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104531977881993509",
+        "name": "十三喵🏳️‍⚧️",
+        "pinned_tweet_id": "2089206090252849614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940740272314585088/1777719411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092594182741508096/kU4YzBJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 140,
+          "like_count": 554,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/yhMt5AxAZR",
+        "username": "_wavetap",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2101691861413069199",
+    "created_at": "2026-09-23T19:43:50.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T20:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102846421355622571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068862080502124544",
+          "start": 0,
+          "username": "Haruko_1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102846421355622571",
+    "in_reply_to_user_id": "2068862080502124544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101691861413069199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruko_1115 雜魚~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101691855121629184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSq1m2PbQAAR_53.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101691855155183616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSq1m2XbQAAUdH9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2101691861413069199",
+        "created_at": "2026-09-23T19:43:50.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102846421355622571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068862080502124544",
+              "start": 0,
+              "username": "Haruko_1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102846421355622571",
+        "in_reply_to_user_id": "2068862080502124544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101691861413069199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruko_1115 雜魚~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101691855121629184",
+            "3_2101691855155183616"
+          ]
+        },
+        "author_id": "2068862080502124544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2101691861413069199",
+        "created_at": "2026-09-20T15:16:01.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101691861413069199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "可愛い"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "JK"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "R18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/po4XVeAUqp",
+              "end": 68,
+              "expanded_url": "https://x.com/Haruko_1115/status/2101691861413069199/photo/1",
+              "media_key": "3_2101691855121629184",
+              "start": 45,
+              "url": "https://t.co/po4XVeAUqp"
+            },
+            {
+              "display_url": "pic.x.com/po4XVeAUqp",
+              "end": 68,
+              "expanded_url": "https://x.com/Haruko_1115/status/2101691861413069199/photo/1",
+              "media_key": "3_2101691855155183616",
+              "start": 45,
+              "url": "https://t.co/po4XVeAUqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101691861413069199",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101691855121629184"
+          },
+          {
+            "media_key": "3_2101691855155183616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世上有兩種魅魔\n我，和我以外的魅魔\n我是最雜魚的\n雜魚小奶\n\n#可愛い #JK #R18 https://t.co/po4XVeAUqp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2102846421355622571",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 145,
+          "like_count": 6743,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5447
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T01:02:56.000Z",
+        "description": "",
+        "id": "2068862080502124544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102607093597712565",
+        "name": "晴醬はるちゃん",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094411437670285312/LlThYrv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Haruko_1115",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

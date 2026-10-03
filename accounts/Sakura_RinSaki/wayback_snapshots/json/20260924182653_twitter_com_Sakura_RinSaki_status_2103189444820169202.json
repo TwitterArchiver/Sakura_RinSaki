@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2102247434575655302",
+    "created_at": "2026-09-24T18:26:53.000Z",
+    "display_text_range": [
+      25,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103189444820169202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4330366469",
+          "start": 0,
+          "username": "Kun_JS0805"
+        },
+        {
+          "end": 24,
+          "id": "1340808440088674304",
+          "start": 12,
+          "username": "UwataYukino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103189444820169202",
+    "in_reply_to_user_id": "4330366469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102247434575655302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kun_JS0805 @UwataYukino 節哀喵..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2102247128181706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyun_lbEAAPaDP.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2102247128240402432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyun_zasAAWSBc.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2102247128227868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyun_wbcAAwInH.jpg",
+        "width": 3840
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2102247150587691008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyupTDbQAAFB3U.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2102247434575655302",
+        "created_at": "2026-09-24T18:26:53.000Z",
+        "display_text_range": [
+          25,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103189444820169202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4330366469",
+              "start": 0,
+              "username": "Kun_JS0805"
+            },
+            {
+              "end": 24,
+              "id": "1340808440088674304",
+              "start": 12,
+              "username": "UwataYukino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103189444820169202",
+        "in_reply_to_user_id": "4330366469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102247434575655302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kun_JS0805 @UwataYukino 節哀喵..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102247128181706752",
+            "3_2102247128240402432",
+            "3_2102247128227868672",
+            "3_2102247150587691008"
+          ]
+        },
+        "author_id": "4330366469",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102247434575655302",
+        "created_at": "2026-09-22T04:03:40.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:02:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102247177376674092",
+          "2102247434575655302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1340808440088674304",
+              "start": 20,
+              "username": "UwataYukino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5iPPFZVD0",
+              "end": 145,
+              "expanded_url": "https://x.com/Kun_JS0805/status/2102247434575655302/photo/1",
+              "media_key": "3_2102247128181706752",
+              "start": 122,
+              "url": "https://t.co/f5iPPFZVD0"
+            },
+            {
+              "display_url": "pic.x.com/f5iPPFZVD0",
+              "end": 145,
+              "expanded_url": "https://x.com/Kun_JS0805/status/2102247434575655302/photo/1",
+              "media_key": "3_2102247128240402432",
+              "start": 122,
+              "url": "https://t.co/f5iPPFZVD0"
+            },
+            {
+              "display_url": "pic.x.com/f5iPPFZVD0",
+              "end": 145,
+              "expanded_url": "https://x.com/Kun_JS0805/status/2102247434575655302/photo/1",
+              "media_key": "3_2102247128227868672",
+              "start": 122,
+              "url": "https://t.co/f5iPPFZVD0"
+            },
+            {
+              "display_url": "pic.x.com/f5iPPFZVD0",
+              "end": 145,
+              "expanded_url": "https://x.com/Kun_JS0805/status/2102247434575655302/photo/1",
+              "media_key": "3_2102247150587691008",
+              "start": 122,
+              "url": "https://t.co/f5iPPFZVD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102247434575655302",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102247128181706752"
+          },
+          {
+            "media_key": "3_2102247128240402432"
+          },
+          {
+            "media_key": "3_2102247128227868672"
+          },
+          {
+            "media_key": "3_2102247150587691008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 32,
+                "id": "1340808440088674304",
+                "start": 20,
+                "username": "UwataYukino"
+              }
+            ]
+          },
+          "text": "很難過要告訴大家，我的寶貝羽綿ユキノ (@UwataYukino) 昨天離開了我們。\n\n事情發生得非常突然，直到現在，我仍然很難相信這是真的。上週日明明一切都還好好的，我從來沒有想過，我們會以這樣的方式分開。\n\n後續相關事宜會由他的家人處理。\n\n謝謝所有曾經認識他、陪伴他、關心他，以及曾與他交流過的每一個人。也謝謝大家一直以來給他的陪伴，以及和他一起留下的回憶。\n\n寶貝，謝謝你來到我的生命裡，也謝謝你給我的一切。\n\n還有好多地方想跟你一起去，還有好多事情，本來以為我們以後還有很多時間可以一起完成。\n\n我真的很捨不得你。\n\n希望你到了另一個世界，不再有任何痛苦，可以自由地去任何你想去的地方。\n\n好好休息，寶貝。\n我會一直想你。\n\n我愛你。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 119905,
+          "like_count": 885,
+          "quote_count": 2,
+          "reply_count": 118,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "很難過要告訴大家，我的寶貝羽綿ユキノ (@UwataYukino) 昨天離開了我們。\n\n事情發生得非常突然，直到現在，我仍然很難相信這是真的。上週日明明一切都還好好的，我從來沒有想過，我們會以這樣的方式分開。\n\n後續相關事宜會由他的家人處理。 https://t.co/f5iPPFZVD0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2103189444820169202",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 146,
+          "like_count": 6827,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5459
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-30T15:53:11.000Z",
+        "description": "｜Taiwanese｜男｜CN100%／JP10%／EN10%｜\n｜ Game：HellDivers 2、APEX｜\n｜VRChat：Kun-J.S｜Discord：kunisbest｜\n💍永遠のお砂糖／CP：@UwataYukino 🕊️\n\n貼文：現實 80%、VRC 20%",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "UwataYukino"
+              }
+            ]
+          }
+        },
+        "id": "4330366469",
+        "is_identity_verified": false,
+        "location": "Kaohsiung City, Taiwan",
+        "most_recent_tweet_id": "2103055456512205101",
+        "name": "Kun-J.S",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4330366469/1789697477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080129579067625472/xIwUm0JR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 215,
+          "like_count": 11525,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "Kun_JS0805",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-20T23:57:14.000Z",
+        "description": "💍お砂糖/CP：@Kun_JS0805 ｜ROG Enthusiast｜ゲーム：VRChat、Rainbow 6、Apex Legends",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Kun_JS0805"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_a3c608fc-5041-4b73-950e-dba77f18dd8f",
+                "start": 0,
+                "url": "https://t.co/9kMrVoDT86"
+              }
+            ]
+          }
+        },
+        "id": "1340808440088674304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099066292225654973",
+        "name": "羽綿ユキノ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340808440088674304/1789695067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087046018231873536/ownN-geN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 152,
+          "like_count": 2355,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/9kMrVoDT86",
+        "username": "UwataYukino",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

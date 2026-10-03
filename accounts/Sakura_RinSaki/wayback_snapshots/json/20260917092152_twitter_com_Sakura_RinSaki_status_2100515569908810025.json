@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2100192633973006571",
+    "created_at": "2026-09-17T09:21:52.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100515569908810025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724348868585013248",
+          "start": 0,
+          "username": "KiriyoXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100515569908810025",
+    "in_reply_to_user_id": "1724348868585013248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100192633973006571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiriyoXX 咱也想要！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2100192629027913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSViEZ0aQAAUg_y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2100192633973006571",
+        "created_at": "2026-09-17T09:21:52.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100515569908810025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "KiriyoXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100515569908810025",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100192633973006571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiriyoXX 咱也想要！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100192629027913728"
+          ]
+        },
+        "author_id": "1724348868585013248",
+        "conversation_id": "2100192633973006571",
+        "created_at": "2026-09-16T11:58:38.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100192633973006571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTqwleMdiW",
+              "end": 37,
+              "expanded_url": "https://x.com/KiriyoXX/status/2100192633973006571/photo/1",
+              "media_key": "3_2100192629027913728",
+              "start": 14,
+              "url": "https://t.co/MTqwleMdiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100192633973006571",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100192629027913728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "私訊接圓角，目前全台可飛！ https://t.co/MTqwleMdiW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2100515569908810025",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 144,
+          "like_count": 6709,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5410
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 全台接圓角 / 165、46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2100510147982540831",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 88,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

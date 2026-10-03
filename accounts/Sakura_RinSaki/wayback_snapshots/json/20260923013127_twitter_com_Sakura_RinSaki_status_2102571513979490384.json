@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2100957349938909238",
+    "created_at": "2026-09-23T01:31:27.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T02:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102571513979490384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464383327595479040",
+          "start": 0,
+          "username": "QB07012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102571513979490384",
+    "in_reply_to_user_id": "1464383327595479040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100957349938909238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QB07012 喵..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2100957343257378816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZkoUawAARGif.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2100957349938909238",
+        "created_at": "2026-09-23T01:31:27.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T02:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102571513979490384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464383327595479040",
+              "start": 0,
+              "username": "QB07012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102571513979490384",
+        "in_reply_to_user_id": "1464383327595479040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100957349938909238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QB07012 喵..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100957343257378816"
+          ]
+        },
+        "author_id": "1464383327595479040",
+        "conversation_id": "2100957349938909238",
+        "created_at": "2026-09-18T14:37:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100957349938909238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eGXv5u4AM",
+              "end": 62,
+              "expanded_url": "https://x.com/QB07012/status/2100957349938909238/photo/1",
+              "media_key": "3_2100957343257378816",
+              "start": 39,
+              "url": "https://t.co/7eGXv5u4AM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100957349938909238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100957343257378816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯~總會有些人能看穿你的逞強的~\n如果沒有那個人的話就要把一些逞強放下來喔~ https://t.co/7eGXv5u4AM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2102571513979490384",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 145,
+          "like_count": 6720,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5425
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T23:59:49.000Z",
+        "description": "最喜歡我的寶貝了🩵\n從脆偷偷過來的一個樹洞(?",
+        "id": "1464383327595479040",
+        "is_identity_verified": false,
+        "location": "Tainan City, Taiwan",
+        "most_recent_tweet_id": "2102407651107946551",
+        "name": "QB（不是那個QB）🌐",
+        "pinned_tweet_id": "1518754518896607233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464383327595479040/1655108455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795424784823853056/NxDzpU91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 1147,
+          "like_count": 16399,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 6944
+        },
+        "url": "",
+        "username": "QB07012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102041562456940544",
+        "3_2102041629041602561",
+        "3_2102041676265209856",
+        "3_2102041705033891840"
+      ],
+      "media_source_tweet_id": [
+        "2102042014737121622",
+        "2102042014737121622",
+        "2102042014737121622",
+        "2102042014737121622"
+      ]
+    },
+    "author_id": "1898849785559580672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2102844566261133663",
+    "created_at": "2026-09-23T19:36:28.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T20:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102844566261133663"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "ニーゴ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910407869180370945",
+          "start": 3,
+          "username": "sakananannn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ccUr3bOrq",
+          "end": 50,
+          "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+          "media_key": "3_2102041562456940544",
+          "start": 27,
+          "url": "https://t.co/4ccUr3bOrq"
+        },
+        {
+          "display_url": "pic.x.com/4ccUr3bOrq",
+          "end": 50,
+          "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+          "media_key": "3_2102041629041602561",
+          "start": 27,
+          "url": "https://t.co/4ccUr3bOrq"
+        },
+        {
+          "display_url": "pic.x.com/4ccUr3bOrq",
+          "end": 50,
+          "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+          "media_key": "3_2102041676265209856",
+          "start": 27,
+          "url": "https://t.co/4ccUr3bOrq"
+        },
+        {
+          "display_url": "pic.x.com/4ccUr3bOrq",
+          "end": 50,
+          "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+          "media_key": "3_2102041705033891840",
+          "start": 27,
+          "url": "https://t.co/4ccUr3bOrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102844566261133663",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102041562456940544"
+      },
+      {
+        "media_key": "3_2102041629041602561"
+      },
+      {
+        "media_key": "3_2102041676265209856"
+      },
+      {
+        "media_key": "3_2102041705033891840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102042014737121622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakananannn: 💜人氣順\n#ニーゴ https://t.co/4ccUr3bOrq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2102041562456940544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzqflaYAAVj1M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102041629041602561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzuXobsAE9KAR.jpg",
+        "width": 786
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102041676265209856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzxHjawAANnz2.jpg",
+        "width": 890
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2102041705033891840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzyyuaAAAiDo5.jpg",
+        "width": 677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102041562456940544",
+            "3_2102041629041602561",
+            "3_2102041676265209856",
+            "3_2102041705033891840"
+          ],
+          "media_source_tweet_id": [
+            "2102042014737121622",
+            "2102042014737121622",
+            "2102042014737121622",
+            "2102042014737121622"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2102844566261133663",
+        "created_at": "2026-09-23T19:36:28.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102844566261133663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "ニーゴ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910407869180370945",
+              "start": 3,
+              "username": "sakananannn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 50,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041562456940544",
+              "start": 27,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 50,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041629041602561",
+              "start": 27,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 50,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041676265209856",
+              "start": 27,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 50,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041705033891840",
+              "start": 27,
+              "url": "https://t.co/4ccUr3bOrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102844566261133663",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102041562456940544"
+          },
+          {
+            "media_key": "3_2102041629041602561"
+          },
+          {
+            "media_key": "3_2102041676265209856"
+          },
+          {
+            "media_key": "3_2102041705033891840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102042014737121622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakananannn: 💜人氣順\n#ニーゴ https://t.co/4ccUr3bOrq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102041562456940544",
+            "3_2102041629041602561",
+            "3_2102041676265209856",
+            "3_2102041705033891840"
+          ]
+        },
+        "author_id": "1910407869180370945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2102042014737121622",
+        "created_at": "2026-09-21T14:27:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102042014737121622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "ニーゴ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 33,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041562456940544",
+              "start": 10,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 33,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041629041602561",
+              "start": 10,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 33,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041676265209856",
+              "start": 10,
+              "url": "https://t.co/4ccUr3bOrq"
+            },
+            {
+              "display_url": "pic.x.com/4ccUr3bOrq",
+              "end": 33,
+              "expanded_url": "https://x.com/sakananannn/status/2102042014737121622/photo/1",
+              "media_key": "3_2102041705033891840",
+              "start": 10,
+              "url": "https://t.co/4ccUr3bOrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102042014737121622",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102041562456940544"
+          },
+          {
+            "media_key": "3_2102041629041602561"
+          },
+          {
+            "media_key": "3_2102041676265209856"
+          },
+          {
+            "media_key": "3_2102041705033891840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 56368,
+          "like_count": 6388,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 657
+        },
+        "reply_settings": "everyone",
+        "text": "💜人氣順\n#ニーゴ https://t.co/4ccUr3bOrq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2102844566261133663",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 145,
+          "like_count": 6730,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5434
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-10T19:01:54.000Z",
+        "description": "❄️中心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/sakanana…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/sakananannn",
+                "start": 0,
+                "url": "https://t.co/ifg7uyzayU"
+              }
+            ]
+          }
+        },
+        "id": "1910407869180370945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102747060311138636",
+        "name": "sakanana",
+        "pinned_tweet_id": "1939137404100845680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910407869180370945/1744374796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089506687183130624/GV0inGHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3641,
+          "following_count": 307,
+          "like_count": 4848,
+          "listed_count": 13,
+          "media_count": 72,
+          "tweet_count": 3658
+        },
+        "url": "https://t.co/ifg7uyzayU",
+        "username": "sakananannn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

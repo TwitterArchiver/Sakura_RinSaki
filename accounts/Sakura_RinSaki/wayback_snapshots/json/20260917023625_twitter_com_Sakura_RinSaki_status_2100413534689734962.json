@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2100384975308951651",
+    "created_at": "2026-09-17T02:36:25.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100413534689734962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1051744812007739393",
+          "start": 0,
+          "username": "gaby901123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100413534689734962",
+    "in_reply_to_user_id": "1051744812007739393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100384975308951651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaby901123 （盯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2100384966442188800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYQ_6hbgAA8QcK.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2100384966458978304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYQ_6lbsAAAZNp.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2100384975308951651",
+        "created_at": "2026-09-17T02:36:25.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100413534689734962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1051744812007739393",
+              "start": 0,
+              "username": "gaby901123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100413534689734962",
+        "in_reply_to_user_id": "1051744812007739393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100384975308951651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaby901123 （盯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100384966442188800",
+            "3_2100384966458978304"
+          ]
+        },
+        "author_id": "1051744812007739393",
+        "conversation_id": "2100384975308951651",
+        "created_at": "2026-09-17T00:42:56.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100384975308951651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcIYPV6Hd8",
+              "end": 32,
+              "expanded_url": "https://x.com/gaby901123/status/2100384975308951651/photo/1",
+              "media_key": "3_2100384966442188800",
+              "start": 9,
+              "url": "https://t.co/EcIYPV6Hd8"
+            },
+            {
+              "display_url": "pic.x.com/EcIYPV6Hd8",
+              "end": 32,
+              "expanded_url": "https://x.com/gaby901123/status/2100384975308951651/photo/1",
+              "media_key": "3_2100384966458978304",
+              "start": 9,
+              "url": "https://t.co/EcIYPV6Hd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100384975308951651",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100384966442188800"
+          },
+          {
+            "media_key": "3_2100384966458978304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 260,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "覺得我好可愛喔～ https://t.co/EcIYPV6Hd8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2100413534689734962",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 144,
+          "like_count": 6709,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5407
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-15T08:01:18.000Z",
+        "description": "maru 台灣人TW 是個喜歡貼貼的人 歡迎跟我搭話~貼貼Ok ＋好友也ok 聊天ok 也是個比較缺陪伴的人 如果願意陪我 我會很開心～ \n\n💍:@leechng022\n\nVRchat ID:丸把刃maru discord:maru1123 女裝?：@haori901123 QQ:1282513842",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "leechng022"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "haori901123"
+              }
+            ]
+          }
+        },
+        "id": "1051744812007739393",
+        "is_identity_verified": false,
+        "location": "Keelung City, Taiwan",
+        "most_recent_tweet_id": "2100384975308951651",
+        "name": "丸把刃",
+        "pinned_tweet_id": "1571763471632723969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051744812007739393/1725183471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670278771289755648/-IFFNbGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 2690,
+          "like_count": 67211,
+          "listed_count": 11,
+          "media_count": 1171,
+          "tweet_count": 10137
+        },
+        "url": "",
+        "username": "gaby901123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

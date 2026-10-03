@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2102330732006002812",
+    "created_at": "2026-09-23T03:19:31.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102598711218249986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "754731084693196800",
+          "start": 0,
+          "username": "jsp_ch102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102598711218249986",
+    "in_reply_to_user_id": "754731084693196800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102330732006002812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsp_ch102 彰化的！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2102330706466934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz6o49bkAAucQ8.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2102330732006002812",
+        "created_at": "2026-09-23T03:19:31.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102598711218249986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "754731084693196800",
+              "start": 0,
+              "username": "jsp_ch102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102598711218249986",
+        "in_reply_to_user_id": "754731084693196800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102330732006002812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsp_ch102 彰化的！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102330706466934784"
+          ]
+        },
+        "author_id": "754731084693196800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102330732006002812",
+        "created_at": "2026-09-22T09:34:40.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102330732006002812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsRQnhyVpx",
+              "end": 27,
+              "expanded_url": "https://x.com/jsp_ch102/status/2102330732006002812/photo/1",
+              "media_key": "3_2102330706466934784",
+              "start": 4,
+              "url": "https://t.co/VsRQnhyVpx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00b780db7b3ed0ed"
+        },
+        "id": "2102330732006002812",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102330706466934784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 491,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📍雁歸 https://t.co/VsRQnhyVpx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2102598711218249986",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 145,
+          "like_count": 6721,
+          "listed_count": 12,
+          "media_count": 307,
+          "tweet_count": 5427
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-17T17:34:47.000Z",
+        "description": "￤ 天 a.k.a. 羽鳥誠\n￤ ✦ ᴠʀᴄ：დTian~〞\n￤ ᴍᴜꜱɪᴄ / ᴅᴇʟɪᴄᴀᴄʏ / ᴊᴏᴜʀɴᴇʏ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/jspch102",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/jspch102",
+                "start": 0,
+                "url": "https://t.co/kD1mRnFzDR"
+              }
+            ]
+          }
+        },
+        "id": "754731084693196800",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2102425177325998267",
+        "name": "羽鳥誠 დTian~〞",
+        "pinned_tweet_id": "1368164924271194117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/754731084693196800/1757568761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035998298801377280/e57iWS9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 5572,
+          "like_count": 95983,
+          "listed_count": 1,
+          "media_count": 1836,
+          "tweet_count": 10386
+        },
+        "url": "https://t.co/kD1mRnFzDR",
+        "username": "jsp_ch102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1898849785559580672",
+    "conversation_id": "2104186073555640484",
+    "created_at": "2026-09-27T15:54:08.000Z",
+    "display_text_range": [
+      32,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104238168602275930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724348868585013248",
+          "start": 0,
+          "username": "KiriyoXX"
+        },
+        {
+          "end": 18,
+          "id": "1601617260439044096",
+          "start": 10,
+          "username": "we_0587"
+        },
+        {
+          "end": 31,
+          "id": "1954065593554083840",
+          "start": 19,
+          "username": "nisaki_meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104238168602275930",
+    "in_reply_to_user_id": "1724348868585013248",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104186073555640484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiriyoXX @we_0587 @nisaki_meow （（（（（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2104186049643921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOSEE5bwAA8jlh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2104186073555640484",
+        "created_at": "2026-09-27T15:54:08.000Z",
+        "display_text_range": [
+          32,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104238168602275930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 18,
+              "id": "1601617260439044096",
+              "start": 10,
+              "username": "we_0587"
+            },
+            {
+              "end": 31,
+              "id": "1954065593554083840",
+              "start": 19,
+              "username": "nisaki_meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104238168602275930",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104186073555640484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiriyoXX @we_0587 @nisaki_meow （（（（（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104186049643921408"
+          ]
+        },
+        "author_id": "1724348868585013248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104186073555640484",
+        "created_at": "2026-09-27T12:27:08.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104186073555640484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724348868585013248",
+              "start": 0,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 18,
+              "id": "1601617260439044096",
+              "start": 10,
+              "username": "we_0587"
+            },
+            {
+              "end": 31,
+              "id": "1954065593554083840",
+              "start": 19,
+              "username": "nisaki_meow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEIruHw2wm",
+              "end": 55,
+              "expanded_url": "https://x.com/KiriyoXX/status/2104186073555640484/photo/1",
+              "media_key": "3_2104186049643921408",
+              "start": 32,
+              "url": "https://t.co/BEIruHw2wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104186073555640484",
+        "in_reply_to_user_id": "1724348868585013248",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104186049643921408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kiriyoXX @we_0587 @nisaki_meow https://t.co/BEIruHw2wm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Kaohsiung, Kaohsiung, Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  120.31333,
+                  22.61626
+                ],
+                "type": "Point"
+              },
+              "locality": "Kaohsiung",
+              "region": "Kaohsiung"
+            }
+          ]
+        },
+        "description": "夏凜咲丨hrt 26.02.10丨不可愛的負面帳號@moon_sakiki丨tg:SukuMurong丨VRC: 吸血喵絨絨丨愛睡覺的小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "is_identity_verified": false,
+        "location": "台灣 高雄",
+        "most_recent_tweet_id": "2104238168602275930",
+        "name": "吸血喵絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898849785559580672/1778285894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076158137607045120/Zt8KTtCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 146,
+          "like_count": 6829,
+          "listed_count": 12,
+          "media_count": 308,
+          "tweet_count": 5468
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，台灣不抽象之藥娘王 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 全台接圓角 / 165、46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2104186073555640484",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 91,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-10T16:38:17.000Z",
+        "description": "你好 我是個好人:D / (我純樂子 別看我 我怕)（不是mtf不是mtf不是mtf）",
+        "id": "1601617260439044096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104047996946260266",
+        "name": "WE",
+        "pinned_tweet_id": "2092763556873982342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601617260439044096/1780791762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025956937263886336/39mcej-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 324,
+          "like_count": 2331,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "we_0587",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T06:22:12.000Z",
+        "description": "男娘07 168/50kg｜互fo扩列私信｜大帐@hgsbtin_nisaki 被封",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1954065593554083840",
+        "is_identity_verified": true,
+        "location": "台湾",
+        "most_recent_tweet_id": "2100182095301841335",
+        "name": "ニサキღ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954065593554083840/1787396403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088339600339271680/q700g5ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 8,
+          "like_count": 447,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "nisaki_meow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
